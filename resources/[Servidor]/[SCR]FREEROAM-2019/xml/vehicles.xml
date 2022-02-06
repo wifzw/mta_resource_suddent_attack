@@ -1,0 +1,115 @@
+﻿<catalog type="vehicle">
+	<group name=".:║◄-LISTA DE VEICULOS-►║:.">
+		 
+			<vehicle id="436" name="●  Brasilia " />
+			<vehicle id="445" name="●  Hilux ( NOVO ) " />	
+		    <vehicle id="466" name="●  Captiva " />
+			<vehicle id="576" name="●  Caravan " />
+			<vehicle id="496" name="●  Chevette (Novo) " />
+			<vehicle id="547" name="●  Corolla " />	
+			<vehicle id="489" name="●  DUster " />	
+			<vehicle id="475" name="●  Kadet " />	
+			<vehicle id="413" name="●  Fiorino pancadao " />	
+			<vehicle id="545" name="●  Fusca (Novo) " />
+			<vehicle id="516" name="●  Jetta (Novo) " />		
+			<vehicle id="474" name="●  Gol turbo " />
+			<vehicle id="415" name="●  Gol G2 (Novo) " />	
+			<vehicle id="558" name="●  Gol G3 " />
+			<vehicle id="560" name="●  Gol G4 " />	
+			<vehicle id="410" name="●  Gol G5 " />
+			<vehicle id="565" name="●  Gol G6 " />
+			<vehicle id="429" name="●  Golf " />
+			<vehicle id="551" name="●  Civic " />	
+			<vehicle id="543" name="●  Montana " />	
+			<vehicle id="546" name="●  Monza  " />			
+                        <vehicle id="587" name="●  Newbeetle " />
+			<vehicle id="542" name="●  Opala turbo " />
+			<vehicle id="507" name="●  Palio som " />
+			<vehicle id="412" name="●  Pollo " />
+			<vehicle id="492" name="●  Santa fe " />
+			<vehicle id="552" name="●  Touareg reboque " />
+			<vehicle id="536" name="●  Santana " />
+			<vehicle id="605" name="●  saveiro surf" />
+			<vehicle id="422" name="●  Saveiro G4 (Novo) " />
+			<vehicle id="550" name="●  Saveiro g5 " />
+			<vehicle id="534" name="●  Saveiro G6  " />
+			<vehicle id="580" name="●  Saveiro G7 (Novo)  " />
+			<vehicle id="467" name="●  Sonata " />
+			<vehicle id="549" name="●  Voyage" />
+			<vehicle id="526" name="●  Golf GTI " />		
+	</group>					
+	<group name=".:║◄-LISTA DE MOTO-►║:.">
+		<group name="">
+                        <vehicle id="521" name="●  CB 1000" />
+                        <vehicle id="461" name="●  Hornet" />
+                        <vehicle id="522" name="●  GSX 1000" />
+                        <vehicle id="581" name="●  Xj6" />
+                        <vehicle id="468" name="●  Xt 660" />
+		</group>
+	</group>
+	<group name=".:║◄-LISTA DE BIKE-►║:.">
+		<group name="">
+	                <vehicle id="462" name="●  Mobilete" />
+	                <vehicle id="448" name="●  Mini Moto" />
+	                <vehicle id="509" name="●  Uniciclo" />
+		</group>
+		<group name="">
+			<vehicle id="" name="" />
+ 
+		</group>
+	</group>
+	<group name=".:║◄-CARROS IMPORTADOS /lojabvf -►║:.">
+		<group name="">
+
+                        <vehicle id="0" name="" />                
+        		
+		
+		</group>
+		<group name="">
+			<vehicle id="" name="" />
+ 
+		</group>
+	</group>
+	<group name=".:║◄-DRIFT-►║:.">
+	    <vehicle id="562" name="●   Nissan GTR" />
+	    <vehicle id="477" name="●   Nissan s13 " />
+	    <vehicle id="602" name="●   Nissan Skyline " />
+		<vehicle id="527" name="●   CADRONA" />
+		<vehicle id="415" name="●   Cheetah " />
+		<vehicle id="542" name="●   Clover " />
+		<vehicle id="589" name="●   Club " />
+		<vehicle id="480" name="●   Comet " />
+		<vehicle id="507" name="●   Elegant " />
+		<vehicle id="585" name="●   Emperor " />
+		<vehicle id="587" name="●   Euros " />
+		<vehicle id="533" name="●   Feltzer " />
+		<vehicle id="565" name="●   Flash " />
+		<vehicle id="526" name="●   Fortune " />
+		<vehicle id="559" name="●   Jester " />
+		<vehicle id="516" name="●   Nebula " />
+		<vehicle id="603" name="●   Phoenix " />
+		<vehicle id="426" name="●   Premier " />
+		<vehicle id="479" name="●   Regina " />
+		<vehicle id="475" name="●   Sabre " />
+		<vehicle id="405" name="●   Sentinel " />
+		<vehicle id="561" name="●   Stratum " />
+		<vehicle id="560" name="●   Sultan " />
+		<vehicle id="550" name="●   Sunrise " />
+		<vehicle id="506" name="●   Super GT " />
+		<vehicle id="549" name="●   Tampa " />
+		<vehicle id="558" name="●   Uranus " />
+		<vehicle id="540" name="●   Vicent " />
+		<vehicle id="491" name="●   Virgo " />
+		<vehicle id="555" name="●   Windsor " />
+		<vehicle id="477" name="●   zr350 " />
+	</group>
+ 
+		<group name=".:║◄-VEICULOS-PESADOS-►║:.">
+		           <vehicle id="455" name="●   Mercedes basculante " />
+                       <vehicle id="535" name="●   falta por" />
+                       <vehicle id="578" name="●   Caminhao carga" />
+                       <vehicle id="" name="" />	
+		</group>
+ 
+	 
+</catalog>

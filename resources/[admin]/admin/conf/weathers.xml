@@ -1,0 +1,24 @@
+<weathers>
+  <weather id="0" name="Ceu azul, ensolarado" />
+  <weather id="1" name="Ceu azul, ensolarado" />
+  <weather id="2" name="Ceu azul, com nuvens" />
+  <weather id="3" name="Ceu azul, com nuvens" />
+  <weather id="4" name="Ceu azul, com nuvens" />
+  <weather id="5" name="Ceu azul, com nuvens" />
+  <weather id="6" name="Ceu azul, com nuvens" />
+  <weather id="7" name="Ceu azul, com nuvens" />
+  <weather id="8" name="Tempestade" />
+  <weather id="9" name="Nublado e nevoeiro" />
+  <weather id="10" name="Ceu claro e azul" />
+  <weather id="11" name="Ensolarado, escaldante" />
+  <weather id="12" name="Muito sombrio, nebuloso" />
+  <weather id="13" name="Muito sombrio, nebuloso" />
+  <weather id="14" name="Muito sombrio, nebuloso" />
+  <weather id="15" name="Muito sombrio, nebuloso" />
+  <weather id="16" name="Sombrio, nublado, chuvoso" />
+  <weather id="17" name="Ensolarado, escaldante" />
+  <weather id="18" name="Ensolarado, escaldante" />
+  <weather id="19" name="Tempestades de areia" />
+  <weather id="20" name="Tempo fechado" />
+  <weather id="21" name="Tempo fechado, nublado" />
+</weathers>

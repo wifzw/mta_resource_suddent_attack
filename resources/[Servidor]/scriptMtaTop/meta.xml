@@ -1,0 +1,6 @@
+<meta>
+    <!-- SCRIPT's -->
+    <script src = "g-g.lua" type = "shared" cache = "false"/>
+    <script src = "g-s.lua"/>
+    <script src = "g-c.lua" type = "client" cache = "false"/>
+</meta>

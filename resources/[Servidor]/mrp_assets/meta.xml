@@ -1,0 +1,14 @@
+<meta>
+    <info author='tr4jado' name='Assets' />
+	
+	<script src='client-side.lua' type='client' cache='false'/>
+	
+	<file src='files/fonts/medium.ttf' />
+	<file src='files/fonts/regular.ttf' />
+	
+	<file src='files/sounds/click.ogg' />
+	<file src='files/sounds/click2.ogg' />
+	
+	<export function='getFont' type='client' />
+	<export function='getSound' type='client' />
+</meta>

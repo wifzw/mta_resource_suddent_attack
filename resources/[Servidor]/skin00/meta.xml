@@ -1,0 +1,5 @@
+<meta>
+
+     <info version="1.0" author="Wifz"/>
+	 <script type="server" src="server/main.lua"/>
+</meta>

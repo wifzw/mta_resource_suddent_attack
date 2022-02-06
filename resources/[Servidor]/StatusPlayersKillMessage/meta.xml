@@ -1,0 +1,9 @@
+<meta>
+    <info author="MainSCR" type="script" name="Joinquit" />
+
+    <script src="sourceC.lua" type="client" cache="false" />
+	<script src="sourceS.lua" type="server" />
+	
+	<export function="sendClientMessage" type="client" />
+	<export function="outputJoinquitMessage" type="server" />
+</meta>

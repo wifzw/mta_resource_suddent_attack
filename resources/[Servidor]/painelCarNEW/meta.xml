@@ -1,0 +1,24 @@
+<meta>
+    <min_mta_version server = '1.5.6-9.18728' client = '1.5.6-9.18728' />
+    <info author = 'Chefao' version = '1.0' name = 'Painel Veiculo' description = 'Ejaculei' type = 'script' />
+    <!-- Script's -->
+    <script src = 'cChefao.lua' type = 'client' cache = 'false' />
+    <script src = 'configChefao.lua' type = 'shared' />
+    <script src = 'sChefao.lua' type = 'server' cache = 'false' />
+
+    <!-- assets images -->
+     <file src="assets/gfx/car.png"/>
+     <file src="assets/gfx/car1.png"/>
+     <file src="assets/gfx/car2.png"/>
+     <file src="assets/gfx/farol.png"/>
+     <file src="assets/gfx/freio.png"/>
+     <file src="assets/gfx/motor.png"/>
+     <file src="assets/gfx/seta.png"/>
+
+     <!-- assets sfx -->
+     <file src="assets/sfx/click.ogg"/>
+     <file src="assets/sfx/open.ogg"/>
+     <file src="assets/sfx/light.ogg"/>
+     <file src="assets/sfx/motor.ogg"/>
+     <file src="assets/sfx/brake.wav"/>
+</meta>

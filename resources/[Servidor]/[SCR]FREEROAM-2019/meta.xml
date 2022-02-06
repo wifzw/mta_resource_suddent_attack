@@ -1,0 +1,119 @@
+<meta>
+	<oop>true</oop>
+	<info name="Freeroam GUI" author="arc_" version="1.5.4" />
+	<script src="util_server.lua" type="server" />
+	<script src="fr_server.lua" type="server" />
+	<script src="toltips.lua" type="client" cache="false"/>
+	<script src="util.lua" type="client" cache="false"/>
+	<script src="gui.lua" type="client" />
+	<script src="fr_client.lua" type="client" cache="false"/>
+	<script src="cegui/ceGUI.lua" cache="false" type="client" />
+	<script src="pxLib.lua" type="client" cache="false"/>	
+	<file src="cegui/image/background.png" />
+	<file src="cegui/image/pback.png" />
+	<file src="cegui/image/pfront.png" />
+	<file src="img/Background.png" />	
+	<file src="img/buton.png" />
+	<export function="appendControl" type="client" />
+	<file src="colorselect.png" />
+	<file src="localplayerblip.png" />
+	<file src="map.png" />
+	<file src="playerblip.png" />
+	<file src="sprite.png" />
+	<file src="imagens/Animacao.png" />
+	<file src="imagens/Skins.png" />
+	<file src="imagens/Armas.png" />
+	<file src="imagens/Morrer.png" />
+	<file src="imagens/Roupas.png" />
+	<file src="imagens/Veiculos.png" />
+	<file src="font.otf" />
+	<file src="Som/Acma.mp3" />
+	<file src="Som/Buton1.mp3" />
+	<file src="Som/Buton2.mp3" />
+	<config src="xml/animations.xml" type="client" />
+	<config src="xml/interiors.xml" type="client" />
+	<config src="xml/skins.xml" type="client" />
+	<config src="xml/stats.xml" type="client" />
+	<config src="xml/vehicles.xml" type="client" />
+	<config src="xml/weapons.xml" type="client" />
+	<config src="xml/weather.xml" type="client" />
+	<script src="colorpicker/colorpicker.lua" type="client" cache="false"/>
+	<file src="colorpicker/palette.png" />
+	<file src="colorpicker/alpha.png" />
+	<settings>
+		<setting name="*spawnmaponstart" value="false" />
+		<setting name="*spawnmapondeath" value="false" />
+		<setting name="*welcometextonstart" value="false"
+					friendlyname="Welcome text on start"
+					accept="true,false"
+					group="Misc"/>
+		<setting name="*removeHex" value="false"
+					friendlyname="Remove HEX Codes"
+					accept="true,false"
+					group="Misc"
+					desc="Setting this to true will remove all HEX codes from players' nick when displayed."
+					/>
+		<setting name="*alpha" value="false" />
+		<setting name="*anim" value="true" />
+		<setting name="*clothes" value="true" />
+		<setting name="*createvehicle" value="true" />
+		<setting name="*gamespeed/enabled" value="false" />
+		<setting name="*gamespeed/min" value="[0.2]" />
+		<setting name="*gamespeed/max" value="[3.0]" />
+		<setting name="*gravity/enabled" value="false" />
+		<setting name="*gravity/min" value="[0]" />
+		<setting name="*gravity/max" value="[0.1]" />
+		<setting name="*jetpack" value="false" />
+		<setting name="*kill" value="true" />
+		<setting name="*lights" value="true" />
+		<setting name="*paintjob" value="true" />
+		<setting name="*repair" value="true" />
+		<setting name="*setskin" value="true" />
+		<setting name="*setstyle" value="true" />
+		<setting name="*stats" value="true" />
+		<setting name="*upgrades" value="true" />
+		<setting name="*warp" value="false" />
+		<setting name="*weapons/enabled" value="true" />          
+		<setting name="*weapons/vehiclesenabled" value="true" />  
+		<setting name="*weapons/disallowed" value="[[38]]" />     
+		<setting name="*weapons/kniferestrictions" value="true" />     
+		<setting name="*vehicles/maxidletime" value="[9000000000]" />  
+		<setting name="*vehicles/idleexplode" value="false" />     
+		<setting name="*vehicles/maxperplayer" value="[1]" />    
+		<setting name="*vehicles/disallowed" value="[[432]]" />   
+		<setting name="*chat/mainChatDelay" value="1000" />   
+		<setting name="*chat/blockRepeatMessages" value="false" />   
+		<setting name="*gui/antiram" value="false" /> 
+		<setting name="*gui/disablewarp" value="false" /> 
+		<setting name="*gui/disableknife" value="false" />  
+		<setting name="@command_spam_protection" value="true"
+					friendlyname="Command Spam Protection"
+					accept="true,false"
+					group="Command Spam Protection"
+					desc="This settings enables/disables protection against command spam that can form a type of DoS-attack capable of lagging or crashing the server"
+					/>
+		<setting name="@command_exception_commands" value="[ [ 'sp' ] ]"
+					friendlyname="Exception commands"
+					group="Command Spam Protection"
+					desc="Exception commands (to not filter with antispam detection)"
+					/>
+		<setting name="@tries_required_to_trigger" value="[5]"
+					friendlyname="Tries to trigger"
+					accept="positive number"
+					group="Command Spam Protection"
+					desc="How many tries under 2 seconds will trigger the spam protection?"
+					/>
+		<setting name="@tries_required_to_trigger_low_priority" value="[8]"
+					friendlyname="Tries to trigger - low priority"
+					accept="positive number"
+					group="Command Spam Protection"
+					desc="How many tries under 2 seconds will trigger the spam protection for low priority commands/actions such as giving ammo"
+					/>
+		<setting name="@command_spam_ban_duration" value="[10000]"
+					friendlyname="Suspend Duration"
+					accept="positive number"
+					group="Command Spam Protection"
+					desc="How many milliseconds will a global command ban last? (ignoring all calls from a spamming client)"
+					/>
+	</settings>
+</meta>

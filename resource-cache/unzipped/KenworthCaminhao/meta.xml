@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="Wifz" type="misc" name="KenworthCaminhao" description="KenworthCaminhao" />
+     <script src="script.lua" type="client" />
+     <file src="petro.txd" />
+     <file src="petro.dff" />
+</meta>

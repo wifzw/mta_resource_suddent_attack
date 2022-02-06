@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="Wifz Cybershell" type="misc" name="[Carro]Alpha" description="[Carro]Alpha" />
+     <script src="script.lua" type="client" />
+     <file src="ALPHA.txd" />
+     <file src="ALPHA.dff" />
+</meta>

@@ -1,0 +1,58 @@
+<meta>
+
+    <script src="sourceG.lua" type="shared" cache="false" />
+    <script src="sourceC.lua" type="client" cache="false" />
+	<script src="sourceS.lua" type="server" />
+
+    <script src="neon/sourceC.lua" type="client" cache="false" />
+    <script src="airride/sourceC.lua" type="client" cache="false" />
+    <script src="airride/sourceS.lua" type="server" />
+
+	<file src="files/fonts/Roboto-Bold.ttf" />
+	<file src="files/fonts/Roboto-Regular.ttf" />
+
+    <file src="files/sounds/airride.mp3" />
+
+	<file src="files/sounds/info.wav" />
+	<file src="files/sounds/error.wav" />
+	
+    <file src="files/colorpalette.png" />
+    <file src="files/mouse.png" />
+	<file src="files/icons/logo.png" />
+	<file src="files/active_menu_item.png" />
+    <file src="files/icons/unavailable.png" />
+    <file src="files/icons/engine.png" />
+    <file src="files/icons/spray.png" />
+    <file src="files/icons/tire.png" />
+    <file src="files/icons/wheel.png" />
+    <file src="files/icons/suspension.png" />
+    <file src="files/icons/brake.png" />
+    <file src="files/icons/gearbox.png" />
+    <file src="files/icons/weight.png" />
+    <file src="files/icons/unit.png" />
+    <file src="files/icons/wd.png" />
+    <file src="files/icons/turbo.png" />
+    <file src="files/icons/neon.png" />
+    <file src="files/icons/airride.png" />
+    <file src="files/icons/steering.png" />
+	<file src="files/icons/c.png" />
+	<file src="files/icons/l.png" />
+	<file src="files/icons/arrow_l.png" />
+	<file src="files/icons/arrow_r.png" />
+	<file src="files/icons/shadow.png" />
+
+    <file src="files/neon/neon.col" />
+	<file src="files/neon/red.dff" />
+	<file src="files/neon/blue.dff" />
+	<file src="files/neon/green.dff" />
+	<file src="files/neon/yellow.dff" />
+	<file src="files/neon/pink.dff" />
+	<file src="files/neon/white.dff" />
+    <file src="files/neon/orange.dff" />
+	<file src="files/neon/rasta.dff" />
+	<file src="files/neon/lightblue.dff" />
+	<file src="files/neon/ice.dff" />
+
+    <min_mta_version client="1.5.7" server="1.5.7" />
+
+</meta>

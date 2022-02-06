@@ -1,0 +1,23 @@
+<meta>
+	<info author="[M]ister - www.mtabrasil.com.br" version="1.0" name="Painel de música web" type="script" />
+
+	<script src="server.lua" type="server" />
+	<script src="client.lua" type="client" cache="false" />
+	<script src="design.lua" type="client" cache="false" />
+	<script src="config.lua" type="shared" cache="false" />
+	<file src="artworks/sem_imagem.jpg" />
+	<file src="imagens/close.png" />
+	<file src="imagens/music.png" />
+	<file src="imagens/volume.png" />
+	<file src="imagens/add.png" />
+	<file src="imagens/subtract.png" />
+	<file src="imagens/transparent.png" />
+	<file src="imagens/soundcloud.png" />
+	<file src="imagens/back.png" />
+	<file src="imagens/next.png" />
+	<file src="imagens/play.png" />
+	<file src="imagens/pause.png" />
+	<file src="imagens/search.png" />
+	<file src="imagens/car.png" />
+	<file src="imagens/radio.png" />
+</meta>

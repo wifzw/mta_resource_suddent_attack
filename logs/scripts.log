@@ -1,0 +1,1791 @@
+[2022-01-29 00:56:14]  
+[2022-01-29 00:56:14]   
+[2022-01-29 00:56:14]    
+[2022-01-29 00:56:14]     
+[2022-01-29 00:56:14]      
+[2022-01-29 00:56:14]       
+[2022-01-29 00:56:14]        
+[2022-01-30 00:22:32]  
+[2022-01-30 00:22:32]   
+[2022-01-30 00:22:32]    
+[2022-01-30 00:22:32]     
+[2022-01-30 00:22:32]      
+[2022-01-30 00:22:32]       
+[2022-01-30 00:22:32]        
+[2022-01-30 00:22:57]  
+[2022-01-30 00:22:57]   
+[2022-01-30 00:22:57]    
+[2022-01-30 00:22:57]     
+[2022-01-30 00:22:57]      
+[2022-01-30 00:22:57]       
+[2022-01-30 00:22:57]        
+[2022-01-30 00:42:30]  
+[2022-01-30 00:42:30]   
+[2022-01-30 00:42:30]    
+[2022-01-30 00:42:30]     
+[2022-01-30 00:42:30]      
+[2022-01-30 00:42:30]       
+[2022-01-30 00:42:30]        
+[2022-01-30 00:42:46]  
+[2022-01-30 00:42:46]   
+[2022-01-30 00:42:46]    
+[2022-01-30 00:42:46]     
+[2022-01-30 00:42:46]      
+[2022-01-30 00:42:46]       
+[2022-01-30 00:42:46]        
+[2022-01-30 03:13:00]  
+[2022-01-30 03:13:00]   
+[2022-01-30 03:13:00]    
+[2022-01-30 03:13:00]     
+[2022-01-30 03:13:00]      
+[2022-01-30 03:13:00]       
+[2022-01-30 03:13:00]        
+[2022-01-30 03:13:21]  
+[2022-01-30 03:13:21]   
+[2022-01-30 03:13:21]    
+[2022-01-30 03:13:21]     
+[2022-01-30 03:13:21]      
+[2022-01-30 03:13:21]       
+[2022-01-30 03:13:21]        
+[2022-01-30 18:00:36] [Servidor]\killmessagesV10\killmessages_server.lua:147: outputMessage - Bad argument
+[2022-01-30 18:00:42] [Servidor]\killmessagesV10\killmessages_server.lua:147: outputMessage - Bad argument
+[2022-01-30 20:58:15] edf\edf.lua:133: Going to represent map tdma-vinewood
+[2022-01-30 20:58:15] edf\edf.lua:133: Going to represent map tdma-nomansland
+[2022-01-30 23:04:03]  
+[2022-01-30 23:04:03]   
+[2022-01-30 23:04:03]    
+[2022-01-30 23:04:03]     
+[2022-01-30 23:04:03]      
+[2022-01-30 23:04:03]       
+[2022-01-30 23:04:03]        
+[2022-01-30 23:04:29]  
+[2022-01-30 23:04:29]   
+[2022-01-30 23:04:29]    
+[2022-01-30 23:04:29]     
+[2022-01-30 23:04:29]      
+[2022-01-30 23:04:29]       
+[2022-01-30 23:04:29]        
+[2022-01-31 20:27:19]  
+[2022-01-31 20:27:19]   
+[2022-01-31 20:27:19]    
+[2022-01-31 20:27:19]     
+[2022-01-31 20:27:19]      
+[2022-01-31 20:27:19]       
+[2022-01-31 20:27:19]        
+[2022-01-31 20:27:40]  
+[2022-01-31 20:27:40]   
+[2022-01-31 20:27:40]    
+[2022-01-31 20:27:40]     
+[2022-01-31 20:27:40]      
+[2022-01-31 20:27:40]       
+[2022-01-31 20:27:40]        
+[2022-02-04 21:04:49] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running  [DUP x2]
+[2022-02-04 21:04:53] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-04 21:05:55] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-04 21:06:45] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-04 21:26:10] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-04 21:32:10] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-04 21:32:10] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-04 21:32:10] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-04 21:32:10] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-04 21:32:20] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running  [DUP x4]
+[2022-02-04 21:32:20] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-04 21:37:15] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-04 21:37:15] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-04 21:37:15] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-04 21:37:15] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-04 21:37:29] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running  [DUP x9]
+[2022-02-04 21:38:22] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-04 21:40:19] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-04 21:40:58] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-04 21:47:42] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-04 21:47:42] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-04 21:47:42] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-04 21:47:42] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-04 21:47:57] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running  [DUP x5]
+[2022-02-04 21:47:57] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-04 21:50:11] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-04 21:50:11] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-04 21:50:11] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-04 21:50:11] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-04 22:06:21] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running  [DUP x3]
+[2022-02-04 22:06:21] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-04 22:10:38] INFO: MainClassS was deleted.
+[2022-02-04 22:10:38] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-04 22:10:38] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-04 22:10:38] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-04 22:10:38] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-04 22:11:36] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running  [DUP x4]
+[2022-02-04 22:11:36] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-04 22:12:21] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-04 22:13:44] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-04 22:13:47] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-04 22:19:17] INFO: MainClassS was deleted.
+[2022-02-04 22:19:18] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-04 22:19:18] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-04 22:19:18] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-04 22:19:18] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-04 22:20:54] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running  [DUP x10]
+[2022-02-04 22:20:54] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-04 22:23:54] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-04 22:23:54] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-04 22:23:54] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-04 22:23:54] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-04 22:38:55] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running  [DUP x10]
+[2022-02-04 22:38:55] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-04 22:39:25] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-04 22:39:47] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-04 22:39:47] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-04 22:39:47] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-04 22:39:47] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-04 22:47:42] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running  [DUP x10]
+[2022-02-04 22:47:50] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-04 22:51:21] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-04 22:53:26] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-04 22:53:48] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-04 22:55:02] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-04 22:56:38] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-04 22:56:54] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-04 22:57:06] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-04 22:57:30] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-04 22:59:23] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-04 23:02:50] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-04 23:02:50] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-04 23:02:50] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-04 23:02:50] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-04 23:06:54] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running  [DUP x10]
+[2022-02-04 23:06:54] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-04 23:08:24] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-04 23:11:30] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-04 23:11:30] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-04 23:11:30] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-04 23:11:30] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-04 23:12:55] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running  [DUP x10]
+[2022-02-04 23:12:55] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-04 23:13:54] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-04 23:13:54] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-04 23:13:55] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-04 23:13:55] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-04 23:15:12] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running  [DUP x10]
+[2022-02-04 23:15:12] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-04 23:15:33] WARNING: [Servidor]\new-headshot\headshot_s.lua:2: Bad argument @ 'getElementType' [Expected element at argument 1, got nil]
+[2022-02-04 23:16:09] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-04 23:16:09] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-04 23:16:09] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-04 23:16:09] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-04 23:19:59] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running  [DUP x10]
+[2022-02-04 23:19:59] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-04 23:21:00] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-04 23:21:00] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-04 23:21:00] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-04 23:21:00] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-04 23:22:28] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running  [DUP x10]
+[2022-02-04 23:23:34] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-04 23:28:30] INFO: PROPERTY: suspensionLowerLimit - VALUE: -0.27000001 - TYPE: number
+[2022-02-04 23:28:30] INFO: PROPERTY: engineInertia - VALUE: 1 - TYPE: number
+[2022-02-04 23:28:30] INFO: PROPERTY: suspensionHighSpeedDamping - VALUE: 0 - TYPE: number
+[2022-02-04 23:28:30] INFO: PROPERTY: centerOfMassY - VALUE: -0.89999998 - TYPE: number
+[2022-02-04 23:28:30] INFO: PROPERTY: collisionDamageMultiplier - VALUE: 0.51999998 - TYPE: number
+[2022-02-04 23:28:30] INFO: PROPERTY: suspensionDamping - VALUE: 0.5 - TYPE: number
+[2022-02-04 23:28:30] INFO: PROPERTY: seatOffsetDistance - VALUE: 0.30000001 - TYPE: number
+[2022-02-04 23:28:30] INFO: PROPERTY: headLight - VALUE: 1 - TYPE: number
+[2022-02-04 23:28:30] INFO: PROPERTY: dragCoeff - VALUE: 0.0099999998 - TYPE: number
+[2022-02-04 23:28:30] INFO: PROPERTY: engineType - VALUE: P - TYPE: string
+[2022-02-04 23:28:30] INFO: Can't change property engineType to value 'P'
+[2022-02-04 23:28:30] INFO: PROPERTY: steeringLock - VALUE: 31 - TYPE: number
+[2022-02-04 23:28:30] INFO: PROPERTY: suspensionUpperLimit - VALUE: 0.2 - TYPE: number
+[2022-02-04 23:28:30] INFO: PROPERTY: suspensionForceLevel - VALUE: 0.80000001 - TYPE: number
+[2022-02-04 23:28:30] INFO: PROPERTY: turnMass - VALUE: 2500 - TYPE: number
+[2022-02-04 23:28:30] INFO: PROPERTY: brakeBias - VALUE: 0.62 - TYPE: number
+[2022-02-04 23:28:30] INFO: PROPERTY: tractionLoss - VALUE: 5.9000001 - TYPE: number
+[2022-02-04 23:28:30] INFO: PROPERTY: numberOfGears - VALUE: 5 - TYPE: number
+[2022-02-04 23:28:30] INFO: PROPERTY: ABS - VALUE: true - TYPE: boolean
+[2022-02-04 23:28:30] INFO: PROPERTY: centerOfMassX - VALUE: 0 - TYPE: number
+[2022-02-04 23:28:30] INFO: PROPERTY: percentSubmerged - VALUE: 70 - TYPE: number
+[2022-02-04 23:28:30] INFO: PROPERTY: tractionBias - VALUE: 0.55000001 - TYPE: number
+[2022-02-04 23:28:30] INFO: PROPERTY: driveType - VALUE: R - TYPE: string
+[2022-02-04 23:28:30] INFO: Can't change property driveType to value 'R'
+[2022-02-04 23:28:30] INFO: PROPERTY: maxVelocity - VALUE: 750 - TYPE: number
+[2022-02-04 23:28:30] INFO: PROPERTY: engineAcceleration - VALUE: 90 - TYPE: number
+[2022-02-04 23:28:30] INFO: PROPERTY: animGroup - VALUE: 0 - TYPE: number
+[2022-02-04 23:28:30] INFO: PROPERTY: suspensionAntiDiveMultiplier - VALUE: 0.031990003 - TYPE: number
+[2022-02-04 23:28:30] INFO: PROPERTY: centerOfMassZ - VALUE: 0.1 - TYPE: number
+[2022-02-04 23:28:30] INFO: PROPERTY: monetary - VALUE: 31000 - TYPE: number
+[2022-02-04 23:28:30] INFO: PROPERTY: modelFlags - VALUE: 544677888 - TYPE: number
+[2022-02-04 23:28:30] INFO: PROPERTY: mass - VALUE: 1599 - TYPE: number
+[2022-02-04 23:28:30] INFO: PROPERTY: brakeDeceleration - VALUE: 15 - TYPE: number
+[2022-02-04 23:28:30] INFO: PROPERTY: handlingFlags - VALUE: 84410375 - TYPE: number
+[2022-02-04 23:28:30] INFO: PROPERTY: tractionMultiplier - VALUE: 1 - TYPE: number
+[2022-02-04 23:28:30] INFO: PROPERTY: suspensionFrontRearBias - VALUE: 0.18000001 - TYPE: number
+[2022-02-04 23:28:30] INFO: PROPERTY: tailLight - VALUE: 1 - TYPE: number
+[2022-02-04 23:29:20] INFO: PROPERTY: suspensionLowerLimit - VALUE: -0.27000001 - TYPE: number
+[2022-02-04 23:29:20] INFO: PROPERTY: engineInertia - VALUE: 1 - TYPE: number
+[2022-02-04 23:29:20] INFO: PROPERTY: suspensionHighSpeedDamping - VALUE: 0 - TYPE: number
+[2022-02-04 23:29:20] INFO: PROPERTY: centerOfMassY - VALUE: -0.60000002 - TYPE: number
+[2022-02-04 23:29:20] INFO: PROPERTY: collisionDamageMultiplier - VALUE: 0.51999998 - TYPE: number
+[2022-02-04 23:29:20] INFO: PROPERTY: suspensionDamping - VALUE: 0.5 - TYPE: number
+[2022-02-04 23:29:20] INFO: PROPERTY: seatOffsetDistance - VALUE: 0.30000001 - TYPE: number
+[2022-02-04 23:29:20] INFO: PROPERTY: headLight - VALUE: 1 - TYPE: number
+[2022-02-04 23:29:20] INFO: PROPERTY: dragCoeff - VALUE: 0.0099999998 - TYPE: number
+[2022-02-04 23:29:20] INFO: PROPERTY: engineType - VALUE: P - TYPE: string
+[2022-02-04 23:29:20] INFO: Can't change property engineType to value 'P'
+[2022-02-04 23:29:20] INFO: PROPERTY: steeringLock - VALUE: 15 - TYPE: number
+[2022-02-04 23:29:20] INFO: PROPERTY: suspensionUpperLimit - VALUE: 0.2 - TYPE: number
+[2022-02-04 23:29:20] INFO: PROPERTY: suspensionForceLevel - VALUE: 0.80000001 - TYPE: number
+[2022-02-04 23:29:20] INFO: PROPERTY: turnMass - VALUE: 2500 - TYPE: number
+[2022-02-04 23:29:20] INFO: PROPERTY: brakeBias - VALUE: 0.51999998 - TYPE: number
+[2022-02-04 23:29:20] INFO: PROPERTY: tractionLoss - VALUE: 5.9000001 - TYPE: number
+[2022-02-04 23:29:20] INFO: PROPERTY: numberOfGears - VALUE: 5 - TYPE: number
+[2022-02-04 23:29:20] INFO: PROPERTY: ABS - VALUE: true - TYPE: boolean
+[2022-02-04 23:29:20] INFO: PROPERTY: centerOfMassX - VALUE: 0 - TYPE: number
+[2022-02-04 23:29:20] INFO: PROPERTY: percentSubmerged - VALUE: 70 - TYPE: number
+[2022-02-04 23:29:20] INFO: PROPERTY: tractionBias - VALUE: 0.55000001 - TYPE: number
+[2022-02-04 23:29:20] INFO: PROPERTY: driveType - VALUE: R - TYPE: string
+[2022-02-04 23:29:20] INFO: Can't change property driveType to value 'R'
+[2022-02-04 23:29:20] INFO: PROPERTY: maxVelocity - VALUE: 750 - TYPE: number
+[2022-02-04 23:29:20] INFO: PROPERTY: engineAcceleration - VALUE: 80 - TYPE: number
+[2022-02-04 23:29:20] INFO: PROPERTY: animGroup - VALUE: 0 - TYPE: number
+[2022-02-04 23:29:20] INFO: PROPERTY: suspensionAntiDiveMultiplier - VALUE: 9.9999998e-14 - TYPE: number
+[2022-02-04 23:29:20] INFO: PROPERTY: centerOfMassZ - VALUE: 0.1 - TYPE: number
+[2022-02-04 23:29:20] INFO: PROPERTY: monetary - VALUE: 19000 - TYPE: number
+[2022-02-04 23:29:20] INFO: PROPERTY: modelFlags - VALUE: 544677888 - TYPE: number
+[2022-02-04 23:29:20] INFO: PROPERTY: mass - VALUE: 1599 - TYPE: number
+[2022-02-04 23:29:20] INFO: PROPERTY: brakeDeceleration - VALUE: 15 - TYPE: number
+[2022-02-04 23:29:20] INFO: PROPERTY: handlingFlags - VALUE: 84410375 - TYPE: number
+[2022-02-04 23:29:20] INFO: PROPERTY: tractionMultiplier - VALUE: 1 - TYPE: number
+[2022-02-04 23:29:20] INFO: PROPERTY: suspensionFrontRearBias - VALUE: 0.18000001 - TYPE: number
+[2022-02-04 23:29:20] INFO: PROPERTY: tailLight - VALUE: 1 - TYPE: number
+[2022-02-04 23:29:59] INFO: PROPERTY: suspensionLowerLimit - VALUE: -0.1 - TYPE: number
+[2022-02-04 23:29:59] INFO: PROPERTY: engineInertia - VALUE: 1000 - TYPE: number
+[2022-02-04 23:29:59] INFO: PROPERTY: suspensionHighSpeedDamping - VALUE: 0 - TYPE: number
+[2022-02-04 23:29:59] INFO: PROPERTY: centerOfMassY - VALUE: 0.30000001 - TYPE: number
+[2022-02-04 23:29:59] INFO: PROPERTY: collisionDamageMultiplier - VALUE: 0 - TYPE: number
+[2022-02-04 23:29:59] INFO: PROPERTY: suspensionDamping - VALUE: 0.2 - TYPE: number
+[2022-02-04 23:29:59] INFO: PROPERTY: seatOffsetDistance - VALUE: 0.25 - TYPE: number
+[2022-02-04 23:29:59] INFO: PROPERTY: headLight - VALUE: 1 - TYPE: number
+[2022-02-04 23:29:59] INFO: PROPERTY: dragCoeff - VALUE: 2.2 - TYPE: number
+[2022-02-04 23:29:59] INFO: PROPERTY: engineType - VALUE: p - TYPE: string
+[2022-02-04 23:29:59] INFO: PROPERTY: steeringLock - VALUE: 75 - TYPE: number
+[2022-02-04 23:29:59] INFO: PROPERTY: suspensionUpperLimit - VALUE: 0.28 - TYPE: number
+[2022-02-04 23:29:59] INFO: PROPERTY: suspensionForceLevel - VALUE: 1 - TYPE: number
+[2022-02-04 23:29:59] INFO: PROPERTY: turnMass - VALUE: 3500 - TYPE: number
+[2022-02-04 23:29:59] INFO: PROPERTY: brakeBias - VALUE: 0.5 - TYPE: number
+[2022-02-04 23:29:59] INFO: PROPERTY: tractionLoss - VALUE: 0.89999998 - TYPE: number
+[2022-02-04 23:29:59] INFO: PROPERTY: numberOfGears - VALUE: 5 - TYPE: number
+[2022-02-04 23:29:59] INFO: PROPERTY: ABS - VALUE: false - TYPE: boolean
+[2022-02-04 23:29:59] INFO: PROPERTY: centerOfMassX - VALUE: 0 - TYPE: number
+[2022-02-04 23:29:59] INFO: PROPERTY: percentSubmerged - VALUE: 75 - TYPE: number
+[2022-02-04 23:29:59] INFO: PROPERTY: tractionBias - VALUE: 0.5 - TYPE: number
+[2022-02-04 23:29:59] INFO: PROPERTY: driveType - VALUE: 4 - TYPE: string
+[2022-02-04 23:29:59] INFO: PROPERTY: maxVelocity - VALUE: 190000 - TYPE: number
+[2022-02-04 23:29:59] INFO: PROPERTY: engineAcceleration - VALUE: 90000 - TYPE: number
+[2022-02-04 23:29:59] INFO: PROPERTY: animGroup - VALUE: 1 - TYPE: number
+[2022-02-04 23:29:59] INFO: PROPERTY: suspensionAntiDiveMultiplier - VALUE: 0.30000001 - TYPE: number
+[2022-02-04 23:29:59] INFO: PROPERTY: centerOfMassZ - VALUE: -0.15000001 - TYPE: number
+[2022-02-04 23:29:59] INFO: PROPERTY: monetary - VALUE: 95000 - TYPE: number
+[2022-02-04 23:29:59] INFO: PROPERTY: modelFlags - VALUE: 1073752064 - TYPE: number
+[2022-02-04 23:29:59] INFO: PROPERTY: mass - VALUE: 1500 - TYPE: number
+[2022-02-04 23:29:59] INFO: PROPERTY: brakeDeceleration - VALUE: 8 - TYPE: number
+[2022-02-04 23:29:59] INFO: PROPERTY: handlingFlags - VALUE: 67108864 - TYPE: number
+[2022-02-04 23:29:59] INFO: PROPERTY: tractionMultiplier - VALUE: 1 - TYPE: number
+[2022-02-04 23:29:59] INFO: PROPERTY: suspensionFrontRearBias - VALUE: 0.5 - TYPE: number
+[2022-02-04 23:29:59] INFO: PROPERTY: tailLight - VALUE: 1 - TYPE: number
+[2022-02-04 23:30:42] INFO: PROPERTY: suspensionLowerLimit - VALUE: -0.1 - TYPE: number
+[2022-02-04 23:30:42] INFO: PROPERTY: engineInertia - VALUE: 10 - TYPE: number
+[2022-02-04 23:30:42] INFO: PROPERTY: suspensionHighSpeedDamping - VALUE: 5 - TYPE: number
+[2022-02-04 23:30:42] INFO: PROPERTY: centerOfMassY - VALUE: 0.1 - TYPE: number
+[2022-02-04 23:30:42] INFO: PROPERTY: collisionDamageMultiplier - VALUE: 0 - TYPE: number
+[2022-02-04 23:30:42] INFO: PROPERTY: suspensionDamping - VALUE: 0.80000001 - TYPE: number
+[2022-02-04 23:30:42] INFO: PROPERTY: seatOffsetDistance - VALUE: 0.37 - TYPE: number
+[2022-02-04 23:30:42] INFO: PROPERTY: headLight - VALUE: 2 - TYPE: number
+[2022-02-04 23:30:42] INFO: PROPERTY: dragCoeff - VALUE: 2 - TYPE: number
+[2022-02-04 23:30:42] INFO: PROPERTY: engineType - VALUE: e - TYPE: string
+[2022-02-04 23:30:42] INFO: PROPERTY: steeringLock - VALUE: 65 - TYPE: number
+[2022-02-04 23:30:42] INFO: PROPERTY: suspensionUpperLimit - VALUE: 0.25 - TYPE: number
+[2022-02-04 23:30:42] INFO: PROPERTY: suspensionForceLevel - VALUE: 1.2 - TYPE: number
+[2022-02-04 23:30:42] INFO: PROPERTY: turnMass - VALUE: 2979.7 - TYPE: number
+[2022-02-04 23:30:42] INFO: PROPERTY: brakeBias - VALUE: 0.66000003 - TYPE: number
+[2022-02-04 23:30:42] INFO: PROPERTY: tractionLoss - VALUE: 0.66000003 - TYPE: number
+[2022-02-04 23:30:42] INFO: PROPERTY: numberOfGears - VALUE: 5 - TYPE: number
+[2022-02-04 23:30:42] INFO: PROPERTY: ABS - VALUE: false - TYPE: boolean
+[2022-02-04 23:30:42] INFO: PROPERTY: centerOfMassX - VALUE: 0 - TYPE: number
+[2022-02-04 23:30:42] INFO: PROPERTY: percentSubmerged - VALUE: 70 - TYPE: number
+[2022-02-04 23:30:42] INFO: PROPERTY: tractionBias - VALUE: 0.66000003 - TYPE: number
+[2022-02-04 23:30:42] INFO: PROPERTY: driveType - VALUE: 4 - TYPE: string
+[2022-02-04 23:30:42] INFO: PROPERTY: maxVelocity - VALUE: 200 - TYPE: number
+[2022-02-04 23:30:42] INFO: PROPERTY: engineAcceleration - VALUE: 25 - TYPE: number
+[2022-02-04 23:30:42] INFO: PROPERTY: animGroup - VALUE: 0 - TYPE: number
+[2022-02-04 23:30:42] INFO: PROPERTY: suspensionAntiDiveMultiplier - VALUE: 0.30000001 - TYPE: number
+[2022-02-04 23:30:42] INFO: PROPERTY: centerOfMassZ - VALUE: -0.80000001 - TYPE: number
+[2022-02-04 23:30:42] INFO: PROPERTY: monetary - VALUE: 20000 - TYPE: number
+[2022-02-04 23:30:42] INFO: PROPERTY: modelFlags - VALUE: 10496000 - TYPE: number
+[2022-02-04 23:30:42] INFO: PROPERTY: mass - VALUE: 1300 - TYPE: number
+[2022-02-04 23:30:42] INFO: PROPERTY: brakeDeceleration - VALUE: 5 - TYPE: number
+[2022-02-04 23:30:42] INFO: PROPERTY: handlingFlags - VALUE: 87031814 - TYPE: number
+[2022-02-04 23:30:42] INFO: PROPERTY: tractionMultiplier - VALUE: 0.60000002 - TYPE: number
+[2022-02-04 23:30:42] INFO: PROPERTY: suspensionFrontRearBias - VALUE: 0.5 - TYPE: number
+[2022-02-04 23:30:42] INFO: PROPERTY: tailLight - VALUE: 1 - TYPE: number
+[2022-02-04 23:31:23] INFO: PROPERTY: suspensionLowerLimit - VALUE: -0.1 - TYPE: number
+[2022-02-04 23:31:23] INFO: PROPERTY: engineInertia - VALUE: 1000 - TYPE: number
+[2022-02-04 23:31:23] INFO: PROPERTY: suspensionHighSpeedDamping - VALUE: 0 - TYPE: number
+[2022-02-04 23:31:23] INFO: PROPERTY: centerOfMassY - VALUE: 0.30000001 - TYPE: number
+[2022-02-04 23:31:23] INFO: PROPERTY: collisionDamageMultiplier - VALUE: 0 - TYPE: number
+[2022-02-04 23:31:23] INFO: PROPERTY: suspensionDamping - VALUE: 0.2 - TYPE: number
+[2022-02-04 23:31:23] INFO: PROPERTY: seatOffsetDistance - VALUE: 0.25 - TYPE: number
+[2022-02-04 23:31:23] INFO: PROPERTY: headLight - VALUE: 1 - TYPE: number
+[2022-02-04 23:31:23] INFO: PROPERTY: dragCoeff - VALUE: 2.2 - TYPE: number
+[2022-02-04 23:31:23] INFO: PROPERTY: engineType - VALUE: p - TYPE: string
+[2022-02-04 23:31:23] INFO: PROPERTY: steeringLock - VALUE: 75 - TYPE: number
+[2022-02-04 23:31:23] INFO: PROPERTY: suspensionUpperLimit - VALUE: 0.28 - TYPE: number
+[2022-02-04 23:31:23] INFO: PROPERTY: suspensionForceLevel - VALUE: 1 - TYPE: number
+[2022-02-04 23:31:23] INFO: PROPERTY: turnMass - VALUE: 3500 - TYPE: number
+[2022-02-04 23:31:23] INFO: PROPERTY: brakeBias - VALUE: 0.5 - TYPE: number
+[2022-02-04 23:31:23] INFO: PROPERTY: tractionLoss - VALUE: 0.89999998 - TYPE: number
+[2022-02-04 23:31:23] INFO: PROPERTY: numberOfGears - VALUE: 5 - TYPE: number
+[2022-02-04 23:31:23] INFO: PROPERTY: ABS - VALUE: false - TYPE: boolean
+[2022-02-04 23:31:23] INFO: PROPERTY: centerOfMassX - VALUE: 0 - TYPE: number
+[2022-02-04 23:31:23] INFO: PROPERTY: percentSubmerged - VALUE: 75 - TYPE: number
+[2022-02-04 23:31:23] INFO: PROPERTY: tractionBias - VALUE: 0.5 - TYPE: number
+[2022-02-04 23:31:23] INFO: PROPERTY: driveType - VALUE: 4 - TYPE: string
+[2022-02-04 23:31:23] INFO: PROPERTY: maxVelocity - VALUE: 190000 - TYPE: number
+[2022-02-04 23:31:23] INFO: PROPERTY: engineAcceleration - VALUE: 90000 - TYPE: number
+[2022-02-04 23:31:23] INFO: PROPERTY: animGroup - VALUE: 1 - TYPE: number
+[2022-02-04 23:31:23] INFO: PROPERTY: suspensionAntiDiveMultiplier - VALUE: 0.30000001 - TYPE: number
+[2022-02-04 23:31:23] INFO: PROPERTY: centerOfMassZ - VALUE: -0.15000001 - TYPE: number
+[2022-02-04 23:31:23] INFO: PROPERTY: monetary - VALUE: 95000 - TYPE: number
+[2022-02-04 23:31:23] INFO: PROPERTY: modelFlags - VALUE: 1073752064 - TYPE: number
+[2022-02-04 23:31:23] INFO: PROPERTY: mass - VALUE: 1500 - TYPE: number
+[2022-02-04 23:31:23] INFO: PROPERTY: brakeDeceleration - VALUE: 8 - TYPE: number
+[2022-02-04 23:31:23] INFO: PROPERTY: handlingFlags - VALUE: 67108864 - TYPE: number
+[2022-02-04 23:31:23] INFO: PROPERTY: tractionMultiplier - VALUE: 1 - TYPE: number
+[2022-02-04 23:31:23] INFO: PROPERTY: suspensionFrontRearBias - VALUE: 0.5 - TYPE: number
+[2022-02-04 23:31:23] INFO: PROPERTY: tailLight - VALUE: 1 - TYPE: number
+[2022-02-04 23:31:47] INFO: PROPERTY: suspensionLowerLimit - VALUE: -0.1 - TYPE: number
+[2022-02-04 23:31:47] INFO: PROPERTY: engineInertia - VALUE: 10 - TYPE: number
+[2022-02-04 23:31:47] INFO: PROPERTY: suspensionHighSpeedDamping - VALUE: 0 - TYPE: number
+[2022-02-04 23:31:47] INFO: PROPERTY: centerOfMassY - VALUE: 0.40000001 - TYPE: number
+[2022-02-04 23:31:47] INFO: PROPERTY: collisionDamageMultiplier - VALUE: 0 - TYPE: number
+[2022-02-04 23:31:47] INFO: PROPERTY: suspensionDamping - VALUE: 0.15000001 - TYPE: number
+[2022-02-04 23:31:47] INFO: PROPERTY: seatOffsetDistance - VALUE: 0.25 - TYPE: number
+[2022-02-04 23:31:47] INFO: PROPERTY: headLight - VALUE: 1 - TYPE: number
+[2022-02-04 23:31:47] INFO: PROPERTY: dragCoeff - VALUE: 0 - TYPE: number
+[2022-02-04 23:31:47] INFO: PROPERTY: engineType - VALUE: p - TYPE: string
+[2022-02-04 23:31:47] INFO: PROPERTY: steeringLock - VALUE: 70 - TYPE: number
+[2022-02-04 23:31:47] INFO: PROPERTY: suspensionUpperLimit - VALUE: 0.28 - TYPE: number
+[2022-02-04 23:31:47] INFO: PROPERTY: suspensionForceLevel - VALUE: 1.2 - TYPE: number
+[2022-02-04 23:31:47] INFO: PROPERTY: turnMass - VALUE: 4000 - TYPE: number
+[2022-02-04 23:31:47] INFO: PROPERTY: brakeBias - VALUE: 0.1 - TYPE: number
+[2022-02-04 23:31:47] INFO: PROPERTY: tractionLoss - VALUE: 0.66000003 - TYPE: number
+[2022-02-04 23:31:47] INFO: PROPERTY: numberOfGears - VALUE: 5 - TYPE: number
+[2022-02-04 23:31:47] INFO: PROPERTY: ABS - VALUE: true - TYPE: boolean
+[2022-02-04 23:31:47] INFO: PROPERTY: centerOfMassX - VALUE: 0 - TYPE: number
+[2022-02-04 23:31:47] INFO: PROPERTY: percentSubmerged - VALUE: 70 - TYPE: number
+[2022-02-04 23:31:47] INFO: PROPERTY: tractionBias - VALUE: 0.56999999 - TYPE: number
+[2022-02-04 23:31:47] INFO: PROPERTY: driveType - VALUE: 4 - TYPE: string
+[2022-02-04 23:31:47] INFO: PROPERTY: maxVelocity - VALUE: 4000 - TYPE: number
+[2022-02-04 23:31:47] INFO: PROPERTY: engineAcceleration - VALUE: 80 - TYPE: number
+[2022-02-04 23:31:47] INFO: PROPERTY: animGroup - VALUE: 0 - TYPE: number
+[2022-02-04 23:31:47] INFO: PROPERTY: suspensionAntiDiveMultiplier - VALUE: 0.30000001 - TYPE: number
+[2022-02-04 23:31:47] INFO: PROPERTY: centerOfMassZ - VALUE: -0.80000001 - TYPE: number
+[2022-02-04 23:31:47] INFO: PROPERTY: monetary - VALUE: 45000 - TYPE: number
+[2022-02-04 23:31:47] INFO: PROPERTY: modelFlags - VALUE: 10240 - TYPE: number
+[2022-02-04 23:31:47] INFO: PROPERTY: mass - VALUE: 2000 - TYPE: number
+[2022-02-04 23:31:47] INFO: PROPERTY: brakeDeceleration - VALUE: 100000 - TYPE: number
+[2022-02-04 23:31:47] INFO: PROPERTY: handlingFlags - VALUE: 67108866 - TYPE: number
+[2022-02-04 23:31:47] INFO: PROPERTY: tractionMultiplier - VALUE: 0.75999999 - TYPE: number
+[2022-02-04 23:31:47] INFO: PROPERTY: suspensionFrontRearBias - VALUE: 0.5 - TYPE: number
+[2022-02-04 23:31:47] INFO: PROPERTY: tailLight - VALUE: 1 - TYPE: number
+[2022-02-04 23:32:22] INFO: PROPERTY: suspensionLowerLimit - VALUE: -0.1 - TYPE: number
+[2022-02-04 23:32:22] INFO: PROPERTY: engineInertia - VALUE: -272 - TYPE: number
+[2022-02-04 23:32:22] INFO: PROPERTY: suspensionHighSpeedDamping - VALUE: 0 - TYPE: number
+[2022-02-04 23:32:22] INFO: PROPERTY: centerOfMassY - VALUE: -0.15000001 - TYPE: number
+[2022-02-04 23:32:22] INFO: PROPERTY: collisionDamageMultiplier - VALUE: 0 - TYPE: number
+[2022-02-04 23:32:22] INFO: PROPERTY: suspensionDamping - VALUE: 0.25 - TYPE: number
+[2022-02-04 23:32:22] INFO: PROPERTY: seatOffsetDistance - VALUE: 0.15000001 - TYPE: number
+[2022-02-04 23:32:22] INFO: PROPERTY: headLight - VALUE: 0 - TYPE: number
+[2022-02-04 23:32:22] INFO: PROPERTY: dragCoeff - VALUE: 0 - TYPE: number
+[2022-02-04 23:32:22] INFO: PROPERTY: engineType - VALUE: e - TYPE: string
+[2022-02-04 23:32:22] INFO: PROPERTY: steeringLock - VALUE: 65 - TYPE: number
+[2022-02-04 23:32:22] INFO: PROPERTY: suspensionUpperLimit - VALUE: 0.1 - TYPE: number
+[2022-02-04 23:32:22] INFO: PROPERTY: suspensionForceLevel - VALUE: 0.60000002 - TYPE: number
+[2022-02-04 23:32:22] INFO: PROPERTY: turnMass - VALUE: 300000 - TYPE: number
+[2022-02-04 23:32:22] INFO: PROPERTY: brakeBias - VALUE: 0.1 - TYPE: number
+[2022-02-04 23:32:22] INFO: PROPERTY: tractionLoss - VALUE: 0.5 - TYPE: number
+[2022-02-04 23:32:22] INFO: PROPERTY: numberOfGears - VALUE: 5 - TYPE: number
+[2022-02-04 23:32:22] INFO: PROPERTY: ABS - VALUE: false - TYPE: boolean
+[2022-02-04 23:32:22] INFO: PROPERTY: centerOfMassX - VALUE: 0 - TYPE: number
+[2022-02-04 23:32:22] INFO: PROPERTY: percentSubmerged - VALUE: 70 - TYPE: number
+[2022-02-04 23:32:22] INFO: PROPERTY: tractionBias - VALUE: 0.44999999 - TYPE: number
+[2022-02-04 23:32:22] INFO: PROPERTY: driveType - VALUE: r - TYPE: string
+[2022-02-04 23:32:22] INFO: PROPERTY: maxVelocity - VALUE: 165 - TYPE: number
+[2022-02-04 23:32:22] INFO: PROPERTY: engineAcceleration - VALUE: 156 - TYPE: number
+[2022-02-04 23:32:22] INFO: PROPERTY: animGroup - VALUE: 0 - TYPE: number
+[2022-02-04 23:32:22] INFO: PROPERTY: suspensionAntiDiveMultiplier - VALUE: 0.23999999 - TYPE: number
+[2022-02-04 23:32:22] INFO: PROPERTY: centerOfMassZ - VALUE: -0.55000001 - TYPE: number
+[2022-02-04 23:32:22] INFO: PROPERTY: monetary - VALUE: 35000 - TYPE: number
+[2022-02-04 23:32:22] INFO: PROPERTY: modelFlags - VALUE: 1073741824 - TYPE: number
+[2022-02-04 23:32:22] INFO: PROPERTY: mass - VALUE: 100000 - TYPE: number
+[2022-02-04 23:32:22] INFO: PROPERTY: brakeDeceleration - VALUE: 5 - TYPE: number
+[2022-02-04 23:32:22] INFO: PROPERTY: handlingFlags - VALUE: 272629760 - TYPE: number
+[2022-02-04 23:32:22] INFO: PROPERTY: tractionMultiplier - VALUE: 0.69999999 - TYPE: number
+[2022-02-04 23:32:22] INFO: PROPERTY: suspensionFrontRearBias - VALUE: 0.40000001 - TYPE: number
+[2022-02-04 23:32:22] INFO: PROPERTY: tailLight - VALUE: 1 - TYPE: number
+[2022-02-04 23:33:06] INFO: PROPERTY: suspensionLowerLimit - VALUE: -0.14 - TYPE: number
+[2022-02-04 23:33:06] INFO: PROPERTY: engineInertia - VALUE: 10 - TYPE: number
+[2022-02-04 23:33:06] INFO: PROPERTY: suspensionHighSpeedDamping - VALUE: 0 - TYPE: number
+[2022-02-04 23:33:06] INFO: PROPERTY: centerOfMassY - VALUE: 0.1 - TYPE: number
+[2022-02-04 23:33:06] INFO: PROPERTY: collisionDamageMultiplier - VALUE: 100 - TYPE: number
+[2022-02-04 23:33:06] INFO: PROPERTY: suspensionDamping - VALUE: 0.12 - TYPE: number
+[2022-02-04 23:33:06] INFO: PROPERTY: seatOffsetDistance - VALUE: 0.36000001 - TYPE: number
+[2022-02-04 23:33:06] INFO: PROPERTY: headLight - VALUE: 1 - TYPE: number
+[2022-02-04 23:33:06] INFO: PROPERTY: dragCoeff - VALUE: 4 - TYPE: number
+[2022-02-04 23:33:06] INFO: PROPERTY: engineType - VALUE: p - TYPE: string
+[2022-02-04 23:33:06] INFO: PROPERTY: steeringLock - VALUE: 28 - TYPE: number
+[2022-02-04 23:33:06] INFO: PROPERTY: suspensionUpperLimit - VALUE: 0.34999999 - TYPE: number
+[2022-02-04 23:33:06] INFO: PROPERTY: suspensionForceLevel - VALUE: 1.6 - TYPE: number
+[2022-02-04 23:33:06] INFO: PROPERTY: turnMass - VALUE: 4712.5 - TYPE: number
+[2022-02-04 23:33:06] INFO: PROPERTY: brakeBias - VALUE: 0.5 - TYPE: number
+[2022-02-04 23:33:06] INFO: PROPERTY: tractionLoss - VALUE: 99 - TYPE: number
+[2022-02-04 23:33:06] INFO: PROPERTY: numberOfGears - VALUE: 5 - TYPE: number
+[2022-02-04 23:33:06] INFO: PROPERTY: ABS - VALUE: false - TYPE: boolean
+[2022-02-04 23:33:06] INFO: PROPERTY: centerOfMassX - VALUE: 0 - TYPE: number
+[2022-02-04 23:33:06] INFO: PROPERTY: percentSubmerged - VALUE: 70 - TYPE: number
+[2022-02-04 23:33:06] INFO: PROPERTY: tractionBias - VALUE: 0.89999998 - TYPE: number
+[2022-02-04 23:33:06] INFO: PROPERTY: driveType - VALUE: 4 - TYPE: string
+[2022-02-04 23:33:06] INFO: PROPERTY: maxVelocity - VALUE: 99999 - TYPE: number
+[2022-02-04 23:33:06] INFO: PROPERTY: engineAcceleration - VALUE: 99999 - TYPE: number
+[2022-02-04 23:33:06] INFO: PROPERTY: animGroup - VALUE: 0 - TYPE: number
+[2022-02-04 23:33:06] INFO: PROPERTY: suspensionAntiDiveMultiplier - VALUE: 0.30000001 - TYPE: number
+[2022-02-04 23:33:06] INFO: PROPERTY: centerOfMassZ - VALUE: 0 - TYPE: number
+[2022-02-04 23:33:06] INFO: PROPERTY: monetary - VALUE: 19000 - TYPE: number
+[2022-02-04 23:33:06] INFO: PROPERTY: modelFlags - VALUE: 1073750016 - TYPE: number
+[2022-02-04 23:33:06] INFO: PROPERTY: mass - VALUE: 1950 - TYPE: number
+[2022-02-04 23:33:06] INFO: PROPERTY: brakeDeceleration - VALUE: 10 - TYPE: number
+[2022-02-04 23:33:06] INFO: PROPERTY: handlingFlags - VALUE: 33619968 - TYPE: number
+[2022-02-04 23:33:06] INFO: PROPERTY: tractionMultiplier - VALUE: 9999 - TYPE: number
+[2022-02-04 23:33:06] INFO: PROPERTY: suspensionFrontRearBias - VALUE: 0.5 - TYPE: number
+[2022-02-04 23:33:06] INFO: PROPERTY: tailLight - VALUE: 3 - TYPE: number
+[2022-02-04 23:33:54] INFO: PROPERTY: suspensionLowerLimit - VALUE: -0.039999999 - TYPE: number
+[2022-02-04 23:33:54] INFO: PROPERTY: engineInertia - VALUE: 5 - TYPE: number
+[2022-02-04 23:33:54] INFO: PROPERTY: suspensionHighSpeedDamping - VALUE: 0 - TYPE: number
+[2022-02-04 23:33:54] INFO: PROPERTY: centerOfMassY - VALUE: 0.1 - TYPE: number
+[2022-02-04 23:33:54] INFO: PROPERTY: collisionDamageMultiplier - VALUE: 0.1 - TYPE: number
+[2022-02-04 23:33:54] INFO: PROPERTY: suspensionDamping - VALUE: 0.15000001 - TYPE: number
+[2022-02-04 23:33:54] INFO: PROPERTY: seatOffsetDistance - VALUE: 0.80000001 - TYPE: number
+[2022-02-04 23:33:54] INFO: PROPERTY: headLight - VALUE: 0 - TYPE: number
+[2022-02-04 23:33:54] INFO: PROPERTY: dragCoeff - VALUE: 1.3 - TYPE: number
+[2022-02-04 23:33:54] INFO: PROPERTY: engineType - VALUE: p - TYPE: string
+[2022-02-04 23:33:54] INFO: PROPERTY: steeringLock - VALUE: 65 - TYPE: number
+[2022-02-04 23:33:54] INFO: PROPERTY: suspensionUpperLimit - VALUE: 0.2 - TYPE: number
+[2022-02-04 23:33:54] INFO: PROPERTY: suspensionForceLevel - VALUE: 1.4 - TYPE: number
+[2022-02-04 23:33:54] INFO: PROPERTY: turnMass - VALUE: 4000.1001 - TYPE: number
+[2022-02-04 23:33:54] INFO: PROPERTY: brakeBias - VALUE: 0.44999999 - TYPE: number
+[2022-02-04 23:33:54] INFO: PROPERTY: tractionLoss - VALUE: 0.80000001 - TYPE: number
+[2022-02-04 23:33:54] INFO: PROPERTY: numberOfGears - VALUE: 5 - TYPE: number
+[2022-02-04 23:33:54] INFO: PROPERTY: ABS - VALUE: false - TYPE: boolean
+[2022-02-04 23:33:54] INFO: PROPERTY: centerOfMassX - VALUE: 0 - TYPE: number
+[2022-02-04 23:33:54] INFO: PROPERTY: percentSubmerged - VALUE: 75 - TYPE: number
+[2022-02-04 23:33:54] INFO: PROPERTY: tractionBias - VALUE: 0.47 - TYPE: number
+[2022-02-04 23:33:54] INFO: PROPERTY: driveType - VALUE: 4 - TYPE: string
+[2022-02-04 23:33:54] INFO: PROPERTY: maxVelocity - VALUE: 400 - TYPE: number
+[2022-02-04 23:33:54] INFO: PROPERTY: engineAcceleration - VALUE: 65 - TYPE: number
+[2022-02-04 23:33:54] INFO: PROPERTY: animGroup - VALUE: 0 - TYPE: number
+[2022-02-04 23:33:54] INFO: PROPERTY: suspensionAntiDiveMultiplier - VALUE: 0.40000001 - TYPE: number
+[2022-02-04 23:33:54] INFO: PROPERTY: centerOfMassZ - VALUE: -0.80000001 - TYPE: number
+[2022-02-04 23:33:54] INFO: PROPERTY: monetary - VALUE: 19000 - TYPE: number
+[2022-02-04 23:33:54] INFO: PROPERTY: modelFlags - VALUE: 1073752064 - TYPE: number
+[2022-02-04 23:33:54] INFO: PROPERTY: mass - VALUE: 1040 - TYPE: number
+[2022-02-04 23:33:54] INFO: PROPERTY: brakeDeceleration - VALUE: 8 - TYPE: number
+[2022-02-04 23:33:54] INFO: PROPERTY: handlingFlags - VALUE: 2097152 - TYPE: number
+[2022-02-04 23:33:54] INFO: PROPERTY: tractionMultiplier - VALUE: 0.69999999 - TYPE: number
+[2022-02-04 23:33:54] INFO: PROPERTY: suspensionFrontRearBias - VALUE: 0.60000002 - TYPE: number
+[2022-02-04 23:33:54] INFO: PROPERTY: tailLight - VALUE: 3 - TYPE: number
+[2022-02-04 23:34:07] INFO: PROPERTY: suspensionLowerLimit - VALUE: -0.0099999998 - TYPE: number
+[2022-02-04 23:34:07] INFO: PROPERTY: engineInertia - VALUE: 5 - TYPE: number
+[2022-02-04 23:34:07] INFO: PROPERTY: suspensionHighSpeedDamping - VALUE: 0 - TYPE: number
+[2022-02-04 23:34:07] INFO: PROPERTY: centerOfMassY - VALUE: -0.2 - TYPE: number
+[2022-02-04 23:34:07] INFO: PROPERTY: collisionDamageMultiplier - VALUE: 0 - TYPE: number
+[2022-02-04 23:34:07] INFO: PROPERTY: suspensionDamping - VALUE: 0.13 - TYPE: number
+[2022-02-04 23:34:07] INFO: PROPERTY: seatOffsetDistance - VALUE: 0.25 - TYPE: number
+[2022-02-04 23:34:07] INFO: PROPERTY: headLight - VALUE: 1 - TYPE: number
+[2022-02-04 23:34:07] INFO: PROPERTY: dragCoeff - VALUE: 2 - TYPE: number
+[2022-02-04 23:34:07] INFO: PROPERTY: engineType - VALUE: e - TYPE: string
+[2022-02-04 23:34:07] INFO: PROPERTY: steeringLock - VALUE: 54 - TYPE: number
+[2022-02-04 23:34:07] INFO: PROPERTY: suspensionUpperLimit - VALUE: 0.2 - TYPE: number
+[2022-02-04 23:34:07] INFO: PROPERTY: suspensionForceLevel - VALUE: 0.80000001 - TYPE: number
+[2022-02-04 23:34:07] INFO: PROPERTY: turnMass - VALUE: 4712.5 - TYPE: number
+[2022-02-04 23:34:07] INFO: PROPERTY: brakeBias - VALUE: 0.69999999 - TYPE: number
+[2022-02-04 23:34:07] INFO: PROPERTY: tractionLoss - VALUE: 1 - TYPE: number
+[2022-02-04 23:34:07] INFO: PROPERTY: numberOfGears - VALUE: 5 - TYPE: number
+[2022-02-04 23:34:07] INFO: PROPERTY: ABS - VALUE: false - TYPE: boolean
+[2022-02-04 23:34:07] INFO: PROPERTY: centerOfMassX - VALUE: 0 - TYPE: number
+[2022-02-04 23:34:07] INFO: PROPERTY: percentSubmerged - VALUE: 70 - TYPE: number
+[2022-02-04 23:34:07] INFO: PROPERTY: tractionBias - VALUE: 0.60000002 - TYPE: number
+[2022-02-04 23:34:07] INFO: PROPERTY: driveType - VALUE: 4 - TYPE: string
+[2022-02-04 23:34:07] INFO: PROPERTY: maxVelocity - VALUE: 333 - TYPE: number
+[2022-02-04 23:34:07] INFO: PROPERTY: engineAcceleration - VALUE: 25 - TYPE: number
+[2022-02-04 23:34:07] INFO: PROPERTY: animGroup - VALUE: 1 - TYPE: number
+[2022-02-04 23:34:07] INFO: PROPERTY: suspensionAntiDiveMultiplier - VALUE: 0.30000001 - TYPE: number
+[2022-02-04 23:34:07] INFO: PROPERTY: centerOfMassZ - VALUE: -0.80000001 - TYPE: number
+[2022-02-04 23:34:07] INFO: PROPERTY: monetary - VALUE: 95000 - TYPE: number
+[2022-02-04 23:34:07] INFO: PROPERTY: modelFlags - VALUE: 4 - TYPE: number
+[2022-02-04 23:34:07] INFO: PROPERTY: mass - VALUE: 1950 - TYPE: number
+[2022-02-04 23:34:07] INFO: PROPERTY: brakeDeceleration - VALUE: 40 - TYPE: number
+[2022-02-04 23:34:07] INFO: PROPERTY: handlingFlags - VALUE: 270532616 - TYPE: number
+[2022-02-04 23:34:07] INFO: PROPERTY: tractionMultiplier - VALUE: 0.30000001 - TYPE: number
+[2022-02-04 23:34:07] INFO: PROPERTY: suspensionFrontRearBias - VALUE: 0.30000001 - TYPE: number
+[2022-02-04 23:34:07] INFO: PROPERTY: tailLight - VALUE: 1 - TYPE: number
+[2022-02-04 23:34:18] INFO: PROPERTY: suspensionLowerLimit - VALUE: -0.090000004 - TYPE: number
+[2022-02-04 23:34:18] INFO: PROPERTY: engineInertia - VALUE: 9 - TYPE: number
+[2022-02-04 23:34:18] INFO: PROPERTY: suspensionHighSpeedDamping - VALUE: 0 - TYPE: number
+[2022-02-04 23:34:18] INFO: PROPERTY: centerOfMassY - VALUE: -0.89999998 - TYPE: number
+[2022-02-04 23:34:18] INFO: PROPERTY: collisionDamageMultiplier - VALUE: 9 - TYPE: number
+[2022-02-04 23:34:18] INFO: PROPERTY: suspensionDamping - VALUE: 0.99000001 - TYPE: number
+[2022-02-04 23:34:18] INFO: PROPERTY: seatOffsetDistance - VALUE: 9.9899998 - TYPE: number
+[2022-02-04 23:34:18] INFO: PROPERTY: headLight - VALUE: 0 - TYPE: number
+[2022-02-04 23:34:18] INFO: PROPERTY: dragCoeff - VALUE: 9 - TYPE: number
+[2022-02-04 23:34:18] INFO: PROPERTY: engineType - VALUE: e - TYPE: string
+[2022-02-04 23:34:18] INFO: PROPERTY: steeringLock - VALUE: 99 - TYPE: number
+[2022-02-04 23:34:18] INFO: PROPERTY: suspensionUpperLimit - VALUE: 0.89999998 - TYPE: number
+[2022-02-04 23:34:18] INFO: PROPERTY: suspensionForceLevel - VALUE: 0.89999998 - TYPE: number
+[2022-02-04 23:34:18] INFO: PROPERTY: turnMass - VALUE: 9999.9004 - TYPE: number
+[2022-02-04 23:34:18] INFO: PROPERTY: brakeBias - VALUE: 0.89999998 - TYPE: number
+[2022-02-04 23:34:18] INFO: PROPERTY: tractionLoss - VALUE: 9 - TYPE: number
+[2022-02-04 23:34:18] INFO: PROPERTY: numberOfGears - VALUE: 9 - TYPE: number
+[2022-02-04 23:34:18] INFO: PROPERTY: ABS - VALUE: false - TYPE: boolean
+[2022-02-04 23:34:18] INFO: PROPERTY: centerOfMassX - VALUE: 0 - TYPE: number
+[2022-02-04 23:34:18] INFO: PROPERTY: percentSubmerged - VALUE: 99 - TYPE: number
+[2022-02-04 23:34:18] INFO: PROPERTY: tractionBias - VALUE: 0.89999998 - TYPE: number
+[2022-02-04 23:34:18] INFO: PROPERTY: driveType - VALUE: 9 - TYPE: string
+[2022-02-04 23:34:18] INFO: Can't change property driveType to value '9'
+[2022-02-04 23:34:18] INFO: PROPERTY: maxVelocity - VALUE: 999 - TYPE: number
+[2022-02-04 23:34:18] INFO: PROPERTY: engineAcceleration - VALUE: 99 - TYPE: number
+[2022-02-04 23:34:18] INFO: PROPERTY: animGroup - VALUE: 9 - TYPE: number
+[2022-02-04 23:34:18] INFO: PROPERTY: suspensionAntiDiveMultiplier - VALUE: 9.8999996 - TYPE: number
+[2022-02-04 23:34:18] INFO: PROPERTY: centerOfMassZ - VALUE: -0.89999998 - TYPE: number
+[2022-02-04 23:34:18] INFO: PROPERTY: monetary - VALUE: 9999 - TYPE: number
+[2022-02-04 23:34:18] INFO: PROPERTY: modelFlags - VALUE: 9 - TYPE: number
+[2022-02-04 23:34:18] INFO: PROPERTY: mass - VALUE: 9999 - TYPE: number
+[2022-02-04 23:34:18] INFO: PROPERTY: brakeDeceleration - VALUE: 99 - TYPE: number
+[2022-02-04 23:34:18] INFO: PROPERTY: handlingFlags - VALUE: 161061273 - TYPE: number
+[2022-02-04 23:34:18] INFO: PROPERTY: tractionMultiplier - VALUE: 0.89999998 - TYPE: number
+[2022-02-04 23:34:18] INFO: PROPERTY: suspensionFrontRearBias - VALUE: 0.89999998 - TYPE: number
+[2022-02-04 23:34:18] INFO: PROPERTY: tailLight - VALUE: 9 - TYPE: number
+[2022-02-04 23:35:16] INFO: PROPERTY: suspensionLowerLimit - VALUE: -0.1 - TYPE: number
+[2022-02-04 23:35:16] INFO: PROPERTY: engineInertia - VALUE: -100 - TYPE: number
+[2022-02-04 23:35:16] INFO: PROPERTY: suspensionHighSpeedDamping - VALUE: 0 - TYPE: number
+[2022-02-04 23:35:16] INFO: PROPERTY: centerOfMassY - VALUE: -0.15000001 - TYPE: number
+[2022-02-04 23:35:16] INFO: PROPERTY: collisionDamageMultiplier - VALUE: 0 - TYPE: number
+[2022-02-04 23:35:16] INFO: PROPERTY: suspensionDamping - VALUE: 0.2 - TYPE: number
+[2022-02-04 23:35:16] INFO: PROPERTY: seatOffsetDistance - VALUE: 0.25 - TYPE: number
+[2022-02-04 23:35:16] INFO: PROPERTY: headLight - VALUE: 1 - TYPE: number
+[2022-02-04 23:35:16] INFO: PROPERTY: dragCoeff - VALUE: 2.2 - TYPE: number
+[2022-02-04 23:35:16] INFO: PROPERTY: engineType - VALUE: p - TYPE: string
+[2022-02-04 23:35:16] INFO: PROPERTY: steeringLock - VALUE: 75 - TYPE: number
+[2022-02-04 23:35:16] INFO: PROPERTY: suspensionUpperLimit - VALUE: 0.34999999 - TYPE: number
+[2022-02-04 23:35:16] INFO: PROPERTY: suspensionForceLevel - VALUE: 0.69999999 - TYPE: number
+[2022-02-04 23:35:16] INFO: PROPERTY: turnMass - VALUE: 300000 - TYPE: number
+[2022-02-04 23:35:16] INFO: PROPERTY: brakeBias - VALUE: 0.1 - TYPE: number
+[2022-02-04 23:35:16] INFO: PROPERTY: tractionLoss - VALUE: 0.92000002 - TYPE: number
+[2022-02-04 23:35:16] INFO: PROPERTY: numberOfGears - VALUE: 5 - TYPE: number
+[2022-02-04 23:35:16] INFO: PROPERTY: ABS - VALUE: false - TYPE: boolean
+[2022-02-04 23:35:16] INFO: PROPERTY: centerOfMassX - VALUE: 0 - TYPE: number
+[2022-02-04 23:35:16] INFO: PROPERTY: percentSubmerged - VALUE: 75 - TYPE: number
+[2022-02-04 23:35:16] INFO: PROPERTY: tractionBias - VALUE: 0.44999999 - TYPE: number
+[2022-02-04 23:35:16] INFO: PROPERTY: driveType - VALUE: r - TYPE: string
+[2022-02-04 23:35:16] INFO: PROPERTY: maxVelocity - VALUE: 500 - TYPE: number
+[2022-02-04 23:35:16] INFO: PROPERTY: engineAcceleration - VALUE: 790 - TYPE: number
+[2022-02-04 23:35:16] INFO: PROPERTY: animGroup - VALUE: 1 - TYPE: number
+[2022-02-04 23:35:16] INFO: PROPERTY: suspensionAntiDiveMultiplier - VALUE: 0.30000001 - TYPE: number
+[2022-02-04 23:35:16] INFO: PROPERTY: centerOfMassZ - VALUE: -0.55000001 - TYPE: number
+[2022-02-04 23:35:16] INFO: PROPERTY: monetary - VALUE: 19000 - TYPE: number
+[2022-02-04 23:35:16] INFO: PROPERTY: modelFlags - VALUE: 1073756164 - TYPE: number
+[2022-02-04 23:35:16] INFO: PROPERTY: mass - VALUE: 100000 - TYPE: number
+[2022-02-04 23:35:16] INFO: PROPERTY: brakeDeceleration - VALUE: 10000 - TYPE: number
+[2022-02-04 23:35:16] INFO: PROPERTY: handlingFlags - VALUE: 67667969 - TYPE: number
+[2022-02-04 23:35:16] INFO: PROPERTY: tractionMultiplier - VALUE: 0.72000003 - TYPE: number
+[2022-02-04 23:35:16] INFO: PROPERTY: suspensionFrontRearBias - VALUE: 0.41 - TYPE: number
+[2022-02-04 23:35:16] INFO: PROPERTY: tailLight - VALUE: 1 - TYPE: number
+[2022-02-04 23:36:28] INFO: PROPERTY: suspensionLowerLimit - VALUE: -0.050000001 - TYPE: number
+[2022-02-04 23:36:28] INFO: PROPERTY: engineInertia - VALUE: -1000 - TYPE: number
+[2022-02-04 23:36:28] INFO: PROPERTY: suspensionHighSpeedDamping - VALUE: 0 - TYPE: number
+[2022-02-04 23:36:28] INFO: PROPERTY: centerOfMassY - VALUE: -0.15000001 - TYPE: number
+[2022-02-04 23:36:28] INFO: PROPERTY: collisionDamageMultiplier - VALUE: 0 - TYPE: number
+[2022-02-04 23:36:28] INFO: PROPERTY: suspensionDamping - VALUE: 0.25 - TYPE: number
+[2022-02-04 23:36:28] INFO: PROPERTY: seatOffsetDistance - VALUE: 1 - TYPE: number
+[2022-02-04 23:36:28] INFO: PROPERTY: headLight - VALUE: 1 - TYPE: number
+[2022-02-04 23:36:28] INFO: PROPERTY: dragCoeff - VALUE: 0 - TYPE: number
+[2022-02-04 23:36:28] INFO: PROPERTY: engineType - VALUE: p - TYPE: string
+[2022-02-04 23:36:28] INFO: PROPERTY: steeringLock - VALUE: 60 - TYPE: number
+[2022-02-04 23:36:28] INFO: PROPERTY: suspensionUpperLimit - VALUE: 0.30000001 - TYPE: number
+[2022-02-04 23:36:28] INFO: PROPERTY: suspensionForceLevel - VALUE: 0.64999998 - TYPE: number
+[2022-02-04 23:36:28] INFO: PROPERTY: turnMass - VALUE: 400000 - TYPE: number
+[2022-02-04 23:36:28] INFO: PROPERTY: brakeBias - VALUE: 0.1 - TYPE: number
+[2022-02-04 23:36:28] INFO: PROPERTY: tractionLoss - VALUE: 0.5 - TYPE: number
+[2022-02-04 23:36:28] INFO: PROPERTY: numberOfGears - VALUE: 5 - TYPE: number
+[2022-02-04 23:36:28] INFO: PROPERTY: ABS - VALUE: false - TYPE: boolean
+[2022-02-04 23:36:28] INFO: PROPERTY: centerOfMassX - VALUE: 0 - TYPE: number
+[2022-02-04 23:36:28] INFO: PROPERTY: percentSubmerged - VALUE: 70 - TYPE: number
+[2022-02-04 23:36:28] INFO: PROPERTY: tractionBias - VALUE: 0.44999999 - TYPE: number
+[2022-02-04 23:36:28] INFO: PROPERTY: driveType - VALUE: r - TYPE: string
+[2022-02-04 23:36:28] INFO: PROPERTY: maxVelocity - VALUE: 200 - TYPE: number
+[2022-02-04 23:36:28] INFO: PROPERTY: engineAcceleration - VALUE: 200 - TYPE: number
+[2022-02-04 23:36:28] INFO: PROPERTY: animGroup - VALUE: 1 - TYPE: number
+[2022-02-04 23:36:28] INFO: PROPERTY: suspensionAntiDiveMultiplier - VALUE: 0.2 - TYPE: number
+[2022-02-04 23:36:28] INFO: PROPERTY: centerOfMassZ - VALUE: -0.55000001 - TYPE: number
+[2022-02-04 23:36:28] INFO: PROPERTY: monetary - VALUE: 19000 - TYPE: number
+[2022-02-04 23:36:28] INFO: PROPERTY: modelFlags - VALUE: 1073741824 - TYPE: number
+[2022-02-04 23:36:28] INFO: PROPERTY: mass - VALUE: 100000 - TYPE: number
+[2022-02-04 23:36:28] INFO: PROPERTY: brakeDeceleration - VALUE: 5 - TYPE: number
+[2022-02-04 23:36:28] INFO: PROPERTY: handlingFlags - VALUE: 273171456 - TYPE: number
+[2022-02-04 23:36:28] INFO: PROPERTY: tractionMultiplier - VALUE: 0.69999999 - TYPE: number
+[2022-02-04 23:36:28] INFO: PROPERTY: suspensionFrontRearBias - VALUE: 0.38999999 - TYPE: number
+[2022-02-04 23:36:28] INFO: PROPERTY: tailLight - VALUE: 1 - TYPE: number
+[2022-02-04 23:38:25] INFO: PROPERTY: suspensionLowerLimit - VALUE: -0.2 - TYPE: number
+[2022-02-04 23:38:25] INFO: PROPERTY: engineInertia - VALUE: -999 - TYPE: number
+[2022-02-04 23:38:25] INFO: PROPERTY: suspensionHighSpeedDamping - VALUE: 0 - TYPE: number
+[2022-02-04 23:38:25] INFO: PROPERTY: centerOfMassY - VALUE: -0.2 - TYPE: number
+[2022-02-04 23:38:25] INFO: PROPERTY: collisionDamageMultiplier - VALUE: 0 - TYPE: number
+[2022-02-04 23:38:25] INFO: PROPERTY: suspensionDamping - VALUE: 0.25 - TYPE: number
+[2022-02-04 23:38:25] INFO: PROPERTY: seatOffsetDistance - VALUE: 1 - TYPE: number
+[2022-02-04 23:38:25] INFO: PROPERTY: headLight - VALUE: 1 - TYPE: number
+[2022-02-04 23:38:25] INFO: PROPERTY: dragCoeff - VALUE: 0 - TYPE: number
+[2022-02-04 23:38:25] INFO: PROPERTY: engineType - VALUE: p - TYPE: string
+[2022-02-04 23:38:25] INFO: PROPERTY: steeringLock - VALUE: 60 - TYPE: number
+[2022-02-04 23:38:25] INFO: PROPERTY: suspensionUpperLimit - VALUE: 0.30000001 - TYPE: number
+[2022-02-04 23:38:25] INFO: PROPERTY: suspensionForceLevel - VALUE: 0.64999998 - TYPE: number
+[2022-02-04 23:38:25] INFO: PROPERTY: turnMass - VALUE: 500000 - TYPE: number
+[2022-02-04 23:38:25] INFO: PROPERTY: brakeBias - VALUE: 0.1 - TYPE: number
+[2022-02-04 23:38:25] INFO: PROPERTY: tractionLoss - VALUE: 0.5 - TYPE: number
+[2022-02-04 23:38:25] INFO: PROPERTY: numberOfGears - VALUE: 5 - TYPE: number
+[2022-02-04 23:38:25] INFO: PROPERTY: ABS - VALUE: false - TYPE: boolean
+[2022-02-04 23:38:25] INFO: PROPERTY: centerOfMassX - VALUE: 0 - TYPE: number
+[2022-02-04 23:38:25] INFO: PROPERTY: percentSubmerged - VALUE: 60 - TYPE: number
+[2022-02-04 23:38:25] INFO: PROPERTY: tractionBias - VALUE: 0.55000001 - TYPE: number
+[2022-02-04 23:38:25] INFO: PROPERTY: driveType - VALUE: r - TYPE: string
+[2022-02-04 23:38:25] INFO: PROPERTY: maxVelocity - VALUE: 300 - TYPE: number
+[2022-02-04 23:38:25] INFO: PROPERTY: engineAcceleration - VALUE: 300 - TYPE: number
+[2022-02-04 23:38:25] INFO: PROPERTY: animGroup - VALUE: 1 - TYPE: number
+[2022-02-04 23:38:25] INFO: PROPERTY: suspensionAntiDiveMultiplier - VALUE: 0.2 - TYPE: number
+[2022-02-04 23:38:25] INFO: PROPERTY: centerOfMassZ - VALUE: -0.55000001 - TYPE: number
+[2022-02-04 23:38:25] INFO: PROPERTY: monetary - VALUE: 95000 - TYPE: number
+[2022-02-04 23:38:25] INFO: PROPERTY: modelFlags - VALUE: 1073741824 - TYPE: number
+[2022-02-04 23:38:25] INFO: PROPERTY: mass - VALUE: 100000 - TYPE: number
+[2022-02-04 23:38:25] INFO: PROPERTY: brakeDeceleration - VALUE: 5 - TYPE: number
+[2022-02-04 23:38:25] INFO: PROPERTY: handlingFlags - VALUE: 272647168 - TYPE: number
+[2022-02-04 23:38:25] INFO: PROPERTY: tractionMultiplier - VALUE: 0.69999999 - TYPE: number
+[2022-02-04 23:38:25] INFO: PROPERTY: suspensionFrontRearBias - VALUE: 0.40000001 - TYPE: number
+[2022-02-04 23:38:25] INFO: PROPERTY: tailLight - VALUE: 1 - TYPE: number
+[2022-02-04 23:39:46] INFO: PROPERTY: suspensionLowerLimit - VALUE: -0.2 - TYPE: number
+[2022-02-04 23:39:46] INFO: PROPERTY: engineInertia - VALUE: -999 - TYPE: number
+[2022-02-04 23:39:46] INFO: PROPERTY: suspensionHighSpeedDamping - VALUE: 0 - TYPE: number
+[2022-02-04 23:39:46] INFO: PROPERTY: centerOfMassY - VALUE: -0.2 - TYPE: number
+[2022-02-04 23:39:46] INFO: PROPERTY: collisionDamageMultiplier - VALUE: 0 - TYPE: number
+[2022-02-04 23:39:46] INFO: PROPERTY: suspensionDamping - VALUE: 0.25 - TYPE: number
+[2022-02-04 23:39:46] INFO: PROPERTY: seatOffsetDistance - VALUE: 1 - TYPE: number
+[2022-02-04 23:39:46] INFO: PROPERTY: headLight - VALUE: 1 - TYPE: number
+[2022-02-04 23:39:46] INFO: PROPERTY: dragCoeff - VALUE: 0 - TYPE: number
+[2022-02-04 23:39:46] INFO: PROPERTY: engineType - VALUE: p - TYPE: string
+[2022-02-04 23:39:46] INFO: PROPERTY: steeringLock - VALUE: 60 - TYPE: number
+[2022-02-04 23:39:46] INFO: PROPERTY: suspensionUpperLimit - VALUE: 0.30000001 - TYPE: number
+[2022-02-04 23:39:46] INFO: PROPERTY: suspensionForceLevel - VALUE: 0.64999998 - TYPE: number
+[2022-02-04 23:39:46] INFO: PROPERTY: turnMass - VALUE: 500000 - TYPE: number
+[2022-02-04 23:39:46] INFO: PROPERTY: brakeBias - VALUE: 0.1 - TYPE: number
+[2022-02-04 23:39:46] INFO: PROPERTY: tractionLoss - VALUE: 0.5 - TYPE: number
+[2022-02-04 23:39:46] INFO: PROPERTY: numberOfGears - VALUE: 5 - TYPE: number
+[2022-02-04 23:39:46] INFO: PROPERTY: ABS - VALUE: false - TYPE: boolean
+[2022-02-04 23:39:46] INFO: PROPERTY: centerOfMassX - VALUE: 0 - TYPE: number
+[2022-02-04 23:39:46] INFO: PROPERTY: percentSubmerged - VALUE: 60 - TYPE: number
+[2022-02-04 23:39:46] INFO: PROPERTY: tractionBias - VALUE: 0.55000001 - TYPE: number
+[2022-02-04 23:39:46] INFO: PROPERTY: driveType - VALUE: r - TYPE: string
+[2022-02-04 23:39:46] INFO: PROPERTY: maxVelocity - VALUE: 300 - TYPE: number
+[2022-02-04 23:39:46] INFO: PROPERTY: engineAcceleration - VALUE: 300 - TYPE: number
+[2022-02-04 23:39:46] INFO: PROPERTY: animGroup - VALUE: 1 - TYPE: number
+[2022-02-04 23:39:46] INFO: PROPERTY: suspensionAntiDiveMultiplier - VALUE: 0.2 - TYPE: number
+[2022-02-04 23:39:46] INFO: PROPERTY: centerOfMassZ - VALUE: -0.55000001 - TYPE: number
+[2022-02-04 23:39:46] INFO: PROPERTY: monetary - VALUE: 95000 - TYPE: number
+[2022-02-04 23:39:46] INFO: PROPERTY: modelFlags - VALUE: 1073741824 - TYPE: number
+[2022-02-04 23:39:46] INFO: PROPERTY: mass - VALUE: 100000 - TYPE: number
+[2022-02-04 23:39:46] INFO: PROPERTY: brakeDeceleration - VALUE: 5 - TYPE: number
+[2022-02-04 23:39:46] INFO: PROPERTY: handlingFlags - VALUE: 272647168 - TYPE: number
+[2022-02-04 23:39:46] INFO: PROPERTY: tractionMultiplier - VALUE: 0.69999999 - TYPE: number
+[2022-02-04 23:39:46] INFO: PROPERTY: suspensionFrontRearBias - VALUE: 0.40000001 - TYPE: number
+[2022-02-04 23:39:46] INFO: PROPERTY: tailLight - VALUE: 1 - TYPE: number
+[2022-02-04 23:40:03] INFO: PROPERTY: suspensionLowerLimit - VALUE: -0.27000001 - TYPE: number
+[2022-02-04 23:40:03] INFO: PROPERTY: engineInertia - VALUE: 1 - TYPE: number
+[2022-02-04 23:40:03] INFO: PROPERTY: suspensionHighSpeedDamping - VALUE: 0 - TYPE: number
+[2022-02-04 23:40:03] INFO: PROPERTY: centerOfMassY - VALUE: -0.60000002 - TYPE: number
+[2022-02-04 23:40:03] INFO: PROPERTY: collisionDamageMultiplier - VALUE: 0.51999998 - TYPE: number
+[2022-02-04 23:40:03] INFO: PROPERTY: suspensionDamping - VALUE: 0.5 - TYPE: number
+[2022-02-04 23:40:03] INFO: PROPERTY: seatOffsetDistance - VALUE: 0.30000001 - TYPE: number
+[2022-02-04 23:40:03] INFO: PROPERTY: headLight - VALUE: 1 - TYPE: number
+[2022-02-04 23:40:03] INFO: PROPERTY: dragCoeff - VALUE: 0.0099999998 - TYPE: number
+[2022-02-04 23:40:03] INFO: PROPERTY: engineType - VALUE: P - TYPE: string
+[2022-02-04 23:40:03] INFO: Can't change property engineType to value 'P'
+[2022-02-04 23:40:03] INFO: PROPERTY: steeringLock - VALUE: 15 - TYPE: number
+[2022-02-04 23:40:03] INFO: PROPERTY: suspensionUpperLimit - VALUE: 0.2 - TYPE: number
+[2022-02-04 23:40:03] INFO: PROPERTY: suspensionForceLevel - VALUE: 0.80000001 - TYPE: number
+[2022-02-04 23:40:03] INFO: PROPERTY: turnMass - VALUE: 2500 - TYPE: number
+[2022-02-04 23:40:03] INFO: PROPERTY: brakeBias - VALUE: 0.51999998 - TYPE: number
+[2022-02-04 23:40:03] INFO: PROPERTY: tractionLoss - VALUE: 5.9000001 - TYPE: number
+[2022-02-04 23:40:03] INFO: PROPERTY: numberOfGears - VALUE: 5 - TYPE: number
+[2022-02-04 23:40:03] INFO: PROPERTY: ABS - VALUE: true - TYPE: boolean
+[2022-02-04 23:40:03] INFO: PROPERTY: centerOfMassX - VALUE: 0 - TYPE: number
+[2022-02-04 23:40:03] INFO: PROPERTY: percentSubmerged - VALUE: 70 - TYPE: number
+[2022-02-04 23:40:03] INFO: PROPERTY: tractionBias - VALUE: 0.55000001 - TYPE: number
+[2022-02-04 23:40:03] INFO: PROPERTY: driveType - VALUE: R - TYPE: string
+[2022-02-04 23:40:03] INFO: Can't change property driveType to value 'R'
+[2022-02-04 23:40:03] INFO: PROPERTY: maxVelocity - VALUE: 750 - TYPE: number
+[2022-02-04 23:40:03] INFO: PROPERTY: engineAcceleration - VALUE: 80 - TYPE: number
+[2022-02-04 23:40:03] INFO: PROPERTY: animGroup - VALUE: 0 - TYPE: number
+[2022-02-04 23:40:03] INFO: PROPERTY: suspensionAntiDiveMultiplier - VALUE: 9.9999998e-14 - TYPE: number
+[2022-02-04 23:40:03] INFO: PROPERTY: centerOfMassZ - VALUE: 0.1 - TYPE: number
+[2022-02-04 23:40:03] INFO: PROPERTY: monetary - VALUE: 19000 - TYPE: number
+[2022-02-04 23:40:03] INFO: PROPERTY: modelFlags - VALUE: 544677888 - TYPE: number
+[2022-02-04 23:40:03] INFO: PROPERTY: mass - VALUE: 1599 - TYPE: number
+[2022-02-04 23:40:03] INFO: PROPERTY: brakeDeceleration - VALUE: 15 - TYPE: number
+[2022-02-04 23:40:03] INFO: PROPERTY: handlingFlags - VALUE: 84410375 - TYPE: number
+[2022-02-04 23:40:03] INFO: PROPERTY: tractionMultiplier - VALUE: 1 - TYPE: number
+[2022-02-04 23:40:03] INFO: PROPERTY: suspensionFrontRearBias - VALUE: 0.18000001 - TYPE: number
+[2022-02-04 23:40:03] INFO: PROPERTY: tailLight - VALUE: 1 - TYPE: number
+[2022-02-04 23:46:39] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-04 23:46:39] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-04 23:46:39] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-04 23:46:39] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 00:12:20] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running  [DUP x10]
+[2022-02-05 00:12:20] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 00:12:49] WARNING: [Servidor]\new-headshot\headshot_s.lua:28: Bad argument @ 'getPlayerTeam' [Expected player at argument 1, got boolean]
+[2022-02-05 00:12:49] WARNING: [Servidor]\new-headshot\headshot_s.lua:28: Bad argument @ 'getTeamColor' [Expected team at argument 1, got boolean]
+[2022-02-05 00:12:49] WARNING: [Servidor]\new-headshot\headshot_s.lua:29: Bad argument @ 'getTeamColor' [Expected team at argument 1, got boolean]
+[2022-02-05 00:12:49] ERROR: [Servidor]\new-headshot\headshot_s.lua:30: exports: Call to non-running server resource (killmessagesV10) [string "?"]
+[2022-02-05 00:12:49] WARNING: [Servidor]\new-headshot\headshot_s.lua:31: Bad argument @ 'getPlayerName' [Expected element at argument 1, got boolean]
+[2022-02-05 00:12:49] WARNING: [Servidor]\aimbot\server\main.lua:62: Bad argument @ 'getPlayerAccount' [Expected element at argument 1, got boolean]
+[2022-02-05 00:12:49] WARNING: [Servidor]\aimbot\server\main.lua:63: Bad argument @ 'getAccountName' [Expected account at argument 1, got boolean]
+[2022-02-05 00:18:36] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 00:18:36] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 00:18:36] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 00:18:36] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 00:19:53] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running  [DUP x10]
+[2022-02-05 00:19:53] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 00:20:23] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 00:20:23] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 00:20:23] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 00:20:23] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 00:21:18] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running  [DUP x10]
+[2022-02-05 00:21:18] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 00:22:05] INFO: Carregando Avatar: 0
+[2022-02-05 00:22:05] INFO: Carregando Cash: 0
+[2022-02-05 00:22:21] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 00:22:21] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 00:22:21] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 00:22:21] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 00:23:41] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running  [DUP x10]
+[2022-02-05 00:23:41] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 00:28:31] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 00:39:04] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 00:39:04] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 00:39:04] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 00:39:04] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 00:39:42] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running  [DUP x10]
+[2022-02-05 00:39:43] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 00:40:32] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 00:41:16] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 00:41:16] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 00:41:16] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 00:41:16] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 00:41:42] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running  [DUP x10]
+[2022-02-05 00:41:42] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 00:41:42] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 00:41:42] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 00:41:42] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 00:42:04] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running  [DUP x10]
+[2022-02-05 00:42:04] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 00:42:44] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 00:42:44] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 00:42:44] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 00:42:44] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 00:42:57] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running  [DUP x10]
+[2022-02-05 00:42:57] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 00:47:34] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 00:48:24] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 00:48:45] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 00:50:20] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 00:50:38] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 00:51:24] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 00:52:01] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 00:52:16] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 00:55:51] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 00:57:16] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 00:57:38] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 00:58:48] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 01:03:34] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 01:05:02] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 01:06:21] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 01:08:08] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 01:08:08] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 01:08:08] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 01:08:08] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 01:08:51] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running  [DUP x10]
+[2022-02-05 01:08:51] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 01:09:35] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 01:09:35] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 01:09:35] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 01:09:35] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 01:13:52] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running  [DUP x10]
+[2022-02-05 01:13:52] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 01:15:12] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 01:15:40] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 01:17:48] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 01:20:11] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 01:21:19] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 01:22:20] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 01:22:52] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 01:23:34] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 01:25:25] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 01:29:58] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 01:33:43] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 01:33:43] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 01:33:43] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 01:33:43] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 01:40:00] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running  [DUP x10]
+[2022-02-05 01:40:04] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 01:40:32] ERROR: [Servidor]\login_sa\server.lua:84: call: failed to call 'infobox:addNotification' [string "?"]
+[2022-02-05 01:41:34] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 01:42:26] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 01:44:29] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 01:45:45] ERROR: [Servidor]\infobox\server.lua:3: attempt to call method 'getData' (a nil value)
+[2022-02-05 01:45:45] ERROR: [Servidor]\login_sa\server.lua:79: call: failed to call 'infobox:addBox' [string "?"]
+[2022-02-05 01:45:45] ERROR: [Servidor]\infobox\server.lua:3: attempt to call method 'getData' (a nil value)
+[2022-02-05 01:45:45] ERROR: [Servidor]\login_sa\server.lua:86: call: failed to call 'infobox:addBox' [string "?"]
+[2022-02-05 01:47:57] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 01:48:18] ERROR: [Servidor]\infobox\server.lua:3: attempt to call method 'getData' (a nil value)
+[2022-02-05 01:48:18] ERROR: [Servidor]\login_sa\server.lua:79: call: failed to call 'infobox:addBox' [string "?"]
+[2022-02-05 01:48:18] ERROR: [Servidor]\infobox\server.lua:3: attempt to call method 'getData' (a nil value)
+[2022-02-05 01:48:18] ERROR: [Servidor]\login_sa\server.lua:86: call: failed to call 'infobox:addBox' [string "?"]
+[2022-02-05 01:48:34] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 01:48:34] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 01:48:34] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 01:48:34] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 01:49:40] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running  [DUP x10]
+[2022-02-05 01:49:40] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 01:50:05] ERROR: [Servidor]\infobox\server.lua:3: attempt to call method 'getData' (a nil value)
+[2022-02-05 01:50:05] ERROR: [Servidor]\login_sa\server.lua:99: call: failed to call 'infobox:addBox' [string "?"]
+[2022-02-05 01:50:08] ERROR: [Servidor]\infobox\server.lua:3: attempt to call method 'getData' (a nil value)
+[2022-02-05 01:50:08] ERROR: [Servidor]\login_sa\server.lua:99: call: failed to call 'infobox:addBox' [string "?"]
+[2022-02-05 01:50:08] ERROR: [Servidor]\infobox\server.lua:3: attempt to call method 'getData' (a nil value)
+[2022-02-05 01:50:08] ERROR: [Servidor]\login_sa\server.lua:93: call: failed to call 'infobox:addBox' [string "?"]
+[2022-02-05 01:50:09] ERROR: [Servidor]\infobox\server.lua:3: attempt to call method 'getData' (a nil value)
+[2022-02-05 01:50:15] ERROR: [Servidor]\login_sa\server.lua:93: call: failed to call 'infobox:addBox' [string "?"]
+[2022-02-05 01:55:23] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 01:55:28] ERROR: [Servidor]\infobox\server.lua:3: attempt to call method 'getData' (a nil value)
+[2022-02-05 01:55:28] ERROR: [Servidor]\login_sa\server.lua:114: call: failed to call 'infobox:addBox'
+[2022-02-05 01:58:32] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 01:58:37] ERROR: [Servidor]\login_sa\server.lua:99: exports: Call to non-running server resource (addBox) [string "?"]
+[2022-02-05 01:58:37] ERROR: [Servidor]\login_sa\server.lua:99: attempt to call field 'addBox' (a table value)
+[2022-02-05 01:59:23] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 02:01:39] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 02:09:46] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 02:10:22] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 02:11:09] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 02:12:19] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 02:12:57] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 02:15:13] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 02:15:13] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 02:15:13] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 02:15:13] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 02:21:50] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running  [DUP x10]
+[2022-02-05 02:21:53] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 02:22:50] ERROR: [Servidor]\login_sa\server.lua:33: exports: Call to non-running server resource (Infobox) [string "?"]
+[2022-02-05 02:22:52] ERROR: [Servidor]\login_sa\server.lua:26: exports: Call to non-running server resource (Infobox) [string "?"]
+[2022-02-05 02:23:26] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 02:26:25] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 02:27:28] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 02:38:15] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 02:38:19] ERROR: [Servidor]\login_sa\server.lua:15: exports: Call to non-running server resource (Infobox) [string "?"]
+[2022-02-05 02:38:25] ERROR: [Servidor]\login_sa\server.lua:15: exports: Call to non-running server resource (Infobox) [string "?"]
+[2022-02-05 02:38:38] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 02:38:38] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 02:38:38] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 02:38:38] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 02:38:47] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running  [DUP x10]
+[2022-02-05 02:38:47] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 02:39:25] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 02:40:59] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 02:40:59] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 02:40:59] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 02:40:59] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 02:43:32] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running  [DUP x10]
+[2022-02-05 02:43:32] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 02:45:38] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 02:45:42] ERROR: [Servidor]\login_sa\server.lua:15: exports: Call to non-running server resource (Infobox) [string "?"]
+[2022-02-05 02:45:53] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 02:45:53] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 02:45:54] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 02:45:54] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 02:46:07] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running  [DUP x10]
+[2022-02-05 02:46:07] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 02:50:57] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 02:51:09] ERROR: [Servidor]\login_sa\server.lua:15: exports: Call to non-running server resource (Infobox) [string "?"]
+[2022-02-05 02:51:15] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 02:51:15] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 02:51:15] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 02:51:15] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 02:51:26] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running  [DUP x10]
+[2022-02-05 02:51:26] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 02:56:26] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 02:56:26] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 02:56:26] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 02:56:26] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 02:56:35] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running  [DUP x10]
+[2022-02-05 02:56:35] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 02:58:30] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 02:58:34] ERROR: [Servidor]\login_sa\server.lua:15: exports: Call to non-running server resource (Infobox) [string "?"]
+[2022-02-05 02:58:40] ERROR: [Servidor]\login_sa\server.lua:15: exports: Call to non-running server resource (Infobox) [string "?"]
+[2022-02-05 02:58:45] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 02:58:45] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 02:58:45] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 02:58:45] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 02:58:55] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running  [DUP x10]
+[2022-02-05 02:58:55] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 02:59:43] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 02:59:43] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 02:59:43] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 02:59:43] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 02:59:59] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running  [DUP x10]
+[2022-02-05 02:59:59] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 03:03:42] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 03:03:42] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 03:03:42] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 03:03:42] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 03:06:07] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running  [DUP x8]
+[2022-02-05 03:06:07] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 03:09:29] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 03:11:47] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 03:27:43] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 03:27:43] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 03:27:43] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 03:27:43] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 03:40:54] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running  [DUP x10]
+[2022-02-05 03:40:54] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 03:43:32] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 03:47:09] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 03:47:36] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 03:47:36] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 03:47:36] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 03:47:36] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 03:47:49] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running  [DUP x10]
+[2022-02-05 03:47:49] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 03:48:40] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 03:48:40] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 03:48:40] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 03:48:40] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 03:49:12] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running  [DUP x10]
+[2022-02-05 03:49:12] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 03:50:25] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 03:50:25] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 03:50:25] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 03:50:25] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 03:51:01] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running  [DUP x10]
+[2022-02-05 03:52:42] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 03:53:45] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 03:57:44] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 03:57:44] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 03:57:44] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 03:57:44] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 04:02:54] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running  [DUP x11]
+[2022-02-05 04:02:54] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 04:03:44] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 04:04:00] WARNING: [Servidor]\new-headshot\headshot_s.lua:28: Bad argument @ 'getPlayerTeam' [Expected player at argument 1, got boolean]
+[2022-02-05 04:04:00] WARNING: [Servidor]\new-headshot\headshot_s.lua:28: Bad argument @ 'getTeamColor' [Expected team at argument 1, got boolean]
+[2022-02-05 04:04:00] WARNING: [Servidor]\new-headshot\headshot_s.lua:29: Bad argument @ 'getTeamColor' [Expected team at argument 1, got boolean]
+[2022-02-05 04:04:00] ERROR: [Servidor]\new-headshot\headshot_s.lua:30: exports: Call to non-running server resource (killmessagesV10) [string "?"]
+[2022-02-05 04:04:00] WARNING: [Servidor]\new-headshot\headshot_s.lua:31: Bad argument @ 'getPlayerName' [Expected element at argument 1, got boolean]
+[2022-02-05 04:04:06] WARNING: [Servidor]\new-headshot\headshot_s.lua:28: Bad argument @ 'getTeamColor' [Expected team at argument 1, got boolean]
+[2022-02-05 04:04:06] WARNING: [Servidor]\new-headshot\headshot_s.lua:29: Bad argument @ 'getTeamColor' [Expected team at argument 1, got boolean]
+[2022-02-05 04:04:06] ERROR: [Servidor]\new-headshot\headshot_s.lua:30: exports: Call to non-running server resource (killmessagesV10) [string "?"]
+[2022-02-05 04:04:08] WARNING: [Servidor]\new-headshot\headshot_s.lua:28: Bad argument @ 'getPlayerTeam' [Expected player at argument 1, got boolean]
+[2022-02-05 04:04:08] WARNING: [Servidor]\new-headshot\headshot_s.lua:28: Bad argument @ 'getTeamColor' [Expected team at argument 1, got boolean]
+[2022-02-05 04:04:08] WARNING: [Servidor]\new-headshot\headshot_s.lua:29: Bad argument @ 'getTeamColor' [Expected team at argument 1, got boolean]
+[2022-02-05 04:04:08] ERROR: [Servidor]\new-headshot\headshot_s.lua:30: exports: Call to non-running server resource (killmessagesV10) [string "?"]
+[2022-02-05 04:04:08] WARNING: [Servidor]\new-headshot\headshot_s.lua:31: Bad argument @ 'getPlayerName' [Expected element at argument 1, got boolean]
+[2022-02-05 04:04:14] WARNING: [Servidor]\new-headshot\headshot_s.lua:28: Bad argument @ 'getTeamColor' [Expected team at argument 1, got boolean]
+[2022-02-05 04:04:14] WARNING: [Servidor]\new-headshot\headshot_s.lua:29: Bad argument @ 'getTeamColor' [Expected team at argument 1, got boolean]
+[2022-02-05 04:04:14] ERROR: [Servidor]\new-headshot\headshot_s.lua:30: exports: Call to non-running server resource (killmessagesV10) [string "?"]
+[2022-02-05 04:04:18] WARNING: [Servidor]\new-headshot\headshot_s.lua:28: Bad argument @ 'getPlayerTeam' [Expected player at argument 1, got boolean]
+[2022-02-05 04:04:18] WARNING: [Servidor]\new-headshot\headshot_s.lua:28: Bad argument @ 'getTeamColor' [Expected team at argument 1, got boolean]
+[2022-02-05 04:04:18] WARNING: [Servidor]\new-headshot\headshot_s.lua:29: Bad argument @ 'getTeamColor' [Expected team at argument 1, got boolean]
+[2022-02-05 04:04:18] ERROR: [Servidor]\new-headshot\headshot_s.lua:30: exports: Call to non-running server resource (killmessagesV10) [string "?"]
+[2022-02-05 04:04:18] WARNING: [Servidor]\new-headshot\headshot_s.lua:31: Bad argument @ 'getPlayerName' [Expected element at argument 1, got boolean]
+[2022-02-05 04:04:24] WARNING: [Servidor]\new-headshot\headshot_s.lua:28: Bad argument @ 'getTeamColor' [Expected team at argument 1, got boolean]
+[2022-02-05 04:04:24] WARNING: [Servidor]\new-headshot\headshot_s.lua:29: Bad argument @ 'getTeamColor' [Expected team at argument 1, got boolean]
+[2022-02-05 04:04:24] ERROR: [Servidor]\new-headshot\headshot_s.lua:30: exports: Call to non-running server resource (killmessagesV10) [string "?"]
+[2022-02-05 04:04:27] WARNING: [Servidor]\new-headshot\headshot_s.lua:28: Bad argument @ 'getPlayerTeam' [Expected player at argument 1, got boolean]
+[2022-02-05 04:04:27] WARNING: [Servidor]\new-headshot\headshot_s.lua:28: Bad argument @ 'getTeamColor' [Expected team at argument 1, got boolean]
+[2022-02-05 04:04:27] WARNING: [Servidor]\new-headshot\headshot_s.lua:29: Bad argument @ 'getTeamColor' [Expected team at argument 1, got boolean]
+[2022-02-05 04:04:27] ERROR: [Servidor]\new-headshot\headshot_s.lua:30: exports: Call to non-running server resource (killmessagesV10) [string "?"]
+[2022-02-05 04:04:27] WARNING: [Servidor]\new-headshot\headshot_s.lua:31: Bad argument @ 'getPlayerName' [Expected element at argument 1, got boolean]
+[2022-02-05 04:04:33] WARNING: [Servidor]\new-headshot\headshot_s.lua:28: Bad argument @ 'getTeamColor' [Expected team at argument 1, got boolean]
+[2022-02-05 04:04:33] WARNING: [Servidor]\new-headshot\headshot_s.lua:29: Bad argument @ 'getTeamColor' [Expected team at argument 1, got boolean]
+[2022-02-05 04:04:33] ERROR: [Servidor]\new-headshot\headshot_s.lua:30: exports: Call to non-running server resource (killmessagesV10) [string "?"]
+[2022-02-05 04:04:39] WARNING: [Servidor]\new-headshot\headshot_s.lua:28: Bad argument @ 'getPlayerTeam' [Expected player at argument 1, got boolean]
+[2022-02-05 04:04:39] WARNING: [Servidor]\new-headshot\headshot_s.lua:28: Bad argument @ 'getTeamColor' [Expected team at argument 1, got boolean]
+[2022-02-05 04:04:39] WARNING: [Servidor]\new-headshot\headshot_s.lua:29: Bad argument @ 'getTeamColor' [Expected team at argument 1, got boolean]
+[2022-02-05 04:04:39] ERROR: [Servidor]\new-headshot\headshot_s.lua:30: exports: Call to non-running server resource (killmessagesV10) [string "?"]
+[2022-02-05 04:04:39] WARNING: [Servidor]\new-headshot\headshot_s.lua:31: Bad argument @ 'getPlayerName' [Expected element at argument 1, got boolean]
+[2022-02-05 04:04:45] WARNING: [Servidor]\new-headshot\headshot_s.lua:28: Bad argument @ 'getTeamColor' [Expected team at argument 1, got boolean]
+[2022-02-05 04:04:45] WARNING: [Servidor]\new-headshot\headshot_s.lua:29: Bad argument @ 'getTeamColor' [Expected team at argument 1, got boolean]
+[2022-02-05 04:04:45] ERROR: [Servidor]\new-headshot\headshot_s.lua:30: exports: Call to non-running server resource (killmessagesV10) [string "?"]
+[2022-02-05 04:05:06] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 04:05:06] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 04:05:07] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 04:05:07] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 04:12:02] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running  [DUP x11]
+[2022-02-05 04:12:05] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 04:16:17] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 04:16:29] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 04:18:02] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 04:18:27] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 04:18:27] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 04:18:27] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 04:18:27] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 04:20:06] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 04:21:31] INFO: PROPERTY: suspensionLowerLimit - VALUE: -0.1 - TYPE: number
+[2022-02-05 04:21:31] INFO: PROPERTY: engineInertia - VALUE: -272 - TYPE: number
+[2022-02-05 04:21:31] INFO: PROPERTY: suspensionHighSpeedDamping - VALUE: 0 - TYPE: number
+[2022-02-05 04:21:31] INFO: PROPERTY: centerOfMassY - VALUE: -0.15000001 - TYPE: number
+[2022-02-05 04:21:31] INFO: PROPERTY: collisionDamageMultiplier - VALUE: 0 - TYPE: number
+[2022-02-05 04:21:31] INFO: PROPERTY: suspensionDamping - VALUE: 0.25 - TYPE: number
+[2022-02-05 04:21:31] INFO: PROPERTY: seatOffsetDistance - VALUE: 0.15000001 - TYPE: number
+[2022-02-05 04:21:31] INFO: PROPERTY: headLight - VALUE: 0 - TYPE: number
+[2022-02-05 04:21:31] INFO: PROPERTY: dragCoeff - VALUE: 0 - TYPE: number
+[2022-02-05 04:21:31] INFO: PROPERTY: engineType - VALUE: e - TYPE: string
+[2022-02-05 04:21:31] INFO: PROPERTY: steeringLock - VALUE: 65 - TYPE: number
+[2022-02-05 04:21:31] INFO: PROPERTY: suspensionUpperLimit - VALUE: 0.1 - TYPE: number
+[2022-02-05 04:21:31] INFO: PROPERTY: suspensionForceLevel - VALUE: 0.60000002 - TYPE: number
+[2022-02-05 04:21:31] INFO: PROPERTY: turnMass - VALUE: 300000 - TYPE: number
+[2022-02-05 04:21:31] INFO: PROPERTY: brakeBias - VALUE: 0.1 - TYPE: number
+[2022-02-05 04:21:31] INFO: PROPERTY: tractionLoss - VALUE: 0.5 - TYPE: number
+[2022-02-05 04:21:31] INFO: PROPERTY: numberOfGears - VALUE: 5 - TYPE: number
+[2022-02-05 04:21:31] INFO: PROPERTY: ABS - VALUE: false - TYPE: boolean
+[2022-02-05 04:21:31] INFO: PROPERTY: centerOfMassX - VALUE: 0 - TYPE: number
+[2022-02-05 04:21:31] INFO: PROPERTY: percentSubmerged - VALUE: 70 - TYPE: number
+[2022-02-05 04:21:31] INFO: PROPERTY: tractionBias - VALUE: 0.44999999 - TYPE: number
+[2022-02-05 04:21:31] INFO: PROPERTY: driveType - VALUE: r - TYPE: string
+[2022-02-05 04:21:31] INFO: PROPERTY: maxVelocity - VALUE: 165 - TYPE: number
+[2022-02-05 04:21:31] INFO: PROPERTY: engineAcceleration - VALUE: 156 - TYPE: number
+[2022-02-05 04:21:31] INFO: PROPERTY: animGroup - VALUE: 0 - TYPE: number
+[2022-02-05 04:21:31] INFO: PROPERTY: suspensionAntiDiveMultiplier - VALUE: 0.23999999 - TYPE: number
+[2022-02-05 04:21:31] INFO: PROPERTY: centerOfMassZ - VALUE: -0.55000001 - TYPE: number
+[2022-02-05 04:21:31] INFO: PROPERTY: monetary - VALUE: 35000 - TYPE: number
+[2022-02-05 04:21:31] INFO: PROPERTY: modelFlags - VALUE: 1073741824 - TYPE: number
+[2022-02-05 04:21:31] INFO: PROPERTY: mass - VALUE: 100000 - TYPE: number
+[2022-02-05 04:21:31] INFO: PROPERTY: brakeDeceleration - VALUE: 5 - TYPE: number
+[2022-02-05 04:21:31] INFO: PROPERTY: handlingFlags - VALUE: 272629760 - TYPE: number
+[2022-02-05 04:21:31] INFO: PROPERTY: tractionMultiplier - VALUE: 0.69999999 - TYPE: number
+[2022-02-05 04:21:31] INFO: PROPERTY: suspensionFrontRearBias - VALUE: 0.40000001 - TYPE: number
+[2022-02-05 04:21:31] INFO: PROPERTY: tailLight - VALUE: 1 - TYPE: number
+[2022-02-05 04:27:19] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 04:27:19] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 04:27:20] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 04:27:20] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 15:01:25] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 15:01:48] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 15:03:28] WARNING: [Servidor]\aimbot\server\main.lua:62: Bad argument @ 'getPlayerAccount' [Expected element at argument 1, got boolean]
+[2022-02-05 15:03:28] WARNING: [Servidor]\aimbot\server\main.lua:63: Bad argument @ 'getAccountName' [Expected account at argument 1, got boolean]
+[2022-02-05 15:04:32] WARNING: ScoreboardV18\server\server.lua:147: Bad argument @ 'getPlayerAccount' [Expected player or console at argument 1, got object]
+[2022-02-05 15:04:32] WARNING: ScoreboardV18\server\server.lua:149: Bad argument @ 'getAccountData' [Expected account at argument 1, got boolean]
+[2022-02-05 15:04:32] WARNING: ScoreboardV18\server\server.lua:149: Bad argument @ 'setAccountData' [Expected account at argument 1, got boolean]
+[2022-02-05 15:04:32] WARNING: ScoreboardV18\server\server.lua:150: Bad argument @ 'getAccountData' [Expected account at argument 1, got boolean]
+[2022-02-05 15:04:32] WARNING: [Servidor]\aimbot\server\main.lua:62: Bad argument @ 'getPlayerAccount' [Expected player or console at argument 1, got object]
+[2022-02-05 15:04:32] WARNING: [Servidor]\aimbot\server\main.lua:63: Bad argument @ 'getAccountName' [Expected account at argument 1, got boolean]
+[2022-02-05 15:06:45] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 15:08:21] ERROR: [Servidor]\Loja\server.lua:127: exports: Call to non-running server resource (Scripts_Dxmessages) [string "?"]
+[2022-02-05 15:09:15] ERROR: [Servidor]\Loja\server.lua:127: exports: Call to non-running server resource (Scripts_Dxmessages) [string "?"]
+[2022-02-05 15:10:21] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 15:11:27] INFO: PROPERTY: suspensionLowerLimit - VALUE: -0.27000001 - TYPE: number
+[2022-02-05 15:11:27] INFO: PROPERTY: engineInertia - VALUE: 1 - TYPE: number
+[2022-02-05 15:11:27] INFO: PROPERTY: suspensionHighSpeedDamping - VALUE: 0 - TYPE: number
+[2022-02-05 15:11:27] INFO: PROPERTY: centerOfMassY - VALUE: -0.60000002 - TYPE: number
+[2022-02-05 15:11:27] INFO: PROPERTY: collisionDamageMultiplier - VALUE: 0.51999998 - TYPE: number
+[2022-02-05 15:11:27] INFO: PROPERTY: suspensionDamping - VALUE: 0.5 - TYPE: number
+[2022-02-05 15:11:27] INFO: PROPERTY: seatOffsetDistance - VALUE: 0.30000001 - TYPE: number
+[2022-02-05 15:11:27] INFO: PROPERTY: headLight - VALUE: 1 - TYPE: number
+[2022-02-05 15:11:27] INFO: PROPERTY: dragCoeff - VALUE: 0.0099999998 - TYPE: number
+[2022-02-05 15:11:27] INFO: PROPERTY: engineType - VALUE: P - TYPE: string
+[2022-02-05 15:11:27] INFO: Can't change property engineType to value 'P'
+[2022-02-05 15:11:27] INFO: PROPERTY: steeringLock - VALUE: 15 - TYPE: number
+[2022-02-05 15:11:27] INFO: PROPERTY: suspensionUpperLimit - VALUE: 0.2 - TYPE: number
+[2022-02-05 15:11:27] INFO: PROPERTY: suspensionForceLevel - VALUE: 0.80000001 - TYPE: number
+[2022-02-05 15:11:27] INFO: PROPERTY: turnMass - VALUE: 2500 - TYPE: number
+[2022-02-05 15:11:27] INFO: PROPERTY: brakeBias - VALUE: 0.51999998 - TYPE: number
+[2022-02-05 15:11:27] INFO: PROPERTY: tractionLoss - VALUE: 5.9000001 - TYPE: number
+[2022-02-05 15:11:27] INFO: PROPERTY: numberOfGears - VALUE: 5 - TYPE: number
+[2022-02-05 15:11:27] INFO: PROPERTY: ABS - VALUE: true - TYPE: boolean
+[2022-02-05 15:11:27] INFO: PROPERTY: centerOfMassX - VALUE: 0 - TYPE: number
+[2022-02-05 15:11:27] INFO: PROPERTY: percentSubmerged - VALUE: 70 - TYPE: number
+[2022-02-05 15:11:27] INFO: PROPERTY: tractionBias - VALUE: 0.55000001 - TYPE: number
+[2022-02-05 15:11:27] INFO: PROPERTY: driveType - VALUE: R - TYPE: string
+[2022-02-05 15:11:27] INFO: Can't change property driveType to value 'R'
+[2022-02-05 15:11:27] INFO: PROPERTY: maxVelocity - VALUE: 750 - TYPE: number
+[2022-02-05 15:11:27] INFO: PROPERTY: engineAcceleration - VALUE: 80 - TYPE: number
+[2022-02-05 15:11:27] INFO: PROPERTY: animGroup - VALUE: 0 - TYPE: number
+[2022-02-05 15:11:27] INFO: PROPERTY: suspensionAntiDiveMultiplier - VALUE: 9.9999998e-14 - TYPE: number
+[2022-02-05 15:11:27] INFO: PROPERTY: centerOfMassZ - VALUE: 0.1 - TYPE: number
+[2022-02-05 15:11:27] INFO: PROPERTY: monetary - VALUE: 19000 - TYPE: number
+[2022-02-05 15:11:27] INFO: PROPERTY: modelFlags - VALUE: 544677888 - TYPE: number
+[2022-02-05 15:11:27] INFO: PROPERTY: mass - VALUE: 1599 - TYPE: number
+[2022-02-05 15:11:27] INFO: PROPERTY: brakeDeceleration - VALUE: 15 - TYPE: number
+[2022-02-05 15:11:27] INFO: PROPERTY: handlingFlags - VALUE: 84410375 - TYPE: number
+[2022-02-05 15:11:27] INFO: PROPERTY: tractionMultiplier - VALUE: 1 - TYPE: number
+[2022-02-05 15:11:27] INFO: PROPERTY: suspensionFrontRearBias - VALUE: 0.18000001 - TYPE: number
+[2022-02-05 15:11:27] INFO: PROPERTY: tailLight - VALUE: 1 - TYPE: number
+[2022-02-05 15:11:50] INFO: PROPERTY: suspensionLowerLimit - VALUE: -0.14 - TYPE: number
+[2022-02-05 15:11:50] INFO: PROPERTY: engineInertia - VALUE: 10 - TYPE: number
+[2022-02-05 15:11:50] INFO: PROPERTY: suspensionHighSpeedDamping - VALUE: 0 - TYPE: number
+[2022-02-05 15:11:50] INFO: PROPERTY: centerOfMassY - VALUE: 0.1 - TYPE: number
+[2022-02-05 15:11:50] INFO: PROPERTY: collisionDamageMultiplier - VALUE: 100 - TYPE: number
+[2022-02-05 15:11:50] INFO: PROPERTY: suspensionDamping - VALUE: 0.12 - TYPE: number
+[2022-02-05 15:11:50] INFO: PROPERTY: seatOffsetDistance - VALUE: 0.36000001 - TYPE: number
+[2022-02-05 15:11:50] INFO: PROPERTY: headLight - VALUE: 1 - TYPE: number
+[2022-02-05 15:11:50] INFO: PROPERTY: dragCoeff - VALUE: 4 - TYPE: number
+[2022-02-05 15:11:50] INFO: PROPERTY: engineType - VALUE: p - TYPE: string
+[2022-02-05 15:11:50] INFO: PROPERTY: steeringLock - VALUE: 28 - TYPE: number
+[2022-02-05 15:11:50] INFO: PROPERTY: suspensionUpperLimit - VALUE: 0.34999999 - TYPE: number
+[2022-02-05 15:11:50] INFO: PROPERTY: suspensionForceLevel - VALUE: 1.6 - TYPE: number
+[2022-02-05 15:11:50] INFO: PROPERTY: turnMass - VALUE: 4712.5 - TYPE: number
+[2022-02-05 15:11:50] INFO: PROPERTY: brakeBias - VALUE: 0.5 - TYPE: number
+[2022-02-05 15:11:50] INFO: PROPERTY: tractionLoss - VALUE: 99 - TYPE: number
+[2022-02-05 15:11:50] INFO: PROPERTY: numberOfGears - VALUE: 5 - TYPE: number
+[2022-02-05 15:11:50] INFO: PROPERTY: ABS - VALUE: false - TYPE: boolean
+[2022-02-05 15:11:50] INFO: PROPERTY: centerOfMassX - VALUE: 0 - TYPE: number
+[2022-02-05 15:11:50] INFO: PROPERTY: percentSubmerged - VALUE: 70 - TYPE: number
+[2022-02-05 15:11:50] INFO: PROPERTY: tractionBias - VALUE: 0.89999998 - TYPE: number
+[2022-02-05 15:11:50] INFO: PROPERTY: driveType - VALUE: 4 - TYPE: string
+[2022-02-05 15:11:50] INFO: PROPERTY: maxVelocity - VALUE: 99999 - TYPE: number
+[2022-02-05 15:11:50] INFO: PROPERTY: engineAcceleration - VALUE: 99999 - TYPE: number
+[2022-02-05 15:11:50] INFO: PROPERTY: animGroup - VALUE: 0 - TYPE: number
+[2022-02-05 15:11:50] INFO: PROPERTY: suspensionAntiDiveMultiplier - VALUE: 0.30000001 - TYPE: number
+[2022-02-05 15:11:50] INFO: PROPERTY: centerOfMassZ - VALUE: 0 - TYPE: number
+[2022-02-05 15:11:50] INFO: PROPERTY: monetary - VALUE: 19000 - TYPE: number
+[2022-02-05 15:11:50] INFO: PROPERTY: modelFlags - VALUE: 1073750016 - TYPE: number
+[2022-02-05 15:11:50] INFO: PROPERTY: mass - VALUE: 1950 - TYPE: number
+[2022-02-05 15:11:50] INFO: PROPERTY: brakeDeceleration - VALUE: 10 - TYPE: number
+[2022-02-05 15:11:50] INFO: PROPERTY: handlingFlags - VALUE: 33619968 - TYPE: number
+[2022-02-05 15:11:50] INFO: PROPERTY: tractionMultiplier - VALUE: 9999 - TYPE: number
+[2022-02-05 15:11:50] INFO: PROPERTY: suspensionFrontRearBias - VALUE: 0.5 - TYPE: number
+[2022-02-05 15:11:50] INFO: PROPERTY: tailLight - VALUE: 3 - TYPE: number
+[2022-02-05 15:12:39] INFO: PROPERTY: suspensionLowerLimit - VALUE: -0.1 - TYPE: number
+[2022-02-05 15:12:39] INFO: PROPERTY: engineInertia - VALUE: -100 - TYPE: number
+[2022-02-05 15:12:39] INFO: PROPERTY: suspensionHighSpeedDamping - VALUE: 0 - TYPE: number
+[2022-02-05 15:12:39] INFO: PROPERTY: centerOfMassY - VALUE: -0.15000001 - TYPE: number
+[2022-02-05 15:12:39] INFO: PROPERTY: collisionDamageMultiplier - VALUE: 0 - TYPE: number
+[2022-02-05 15:12:39] INFO: PROPERTY: suspensionDamping - VALUE: 0.2 - TYPE: number
+[2022-02-05 15:12:39] INFO: PROPERTY: seatOffsetDistance - VALUE: 0.25 - TYPE: number
+[2022-02-05 15:12:39] INFO: PROPERTY: headLight - VALUE: 1 - TYPE: number
+[2022-02-05 15:12:39] INFO: PROPERTY: dragCoeff - VALUE: 2.2 - TYPE: number
+[2022-02-05 15:12:39] INFO: PROPERTY: engineType - VALUE: p - TYPE: string
+[2022-02-05 15:12:39] INFO: PROPERTY: steeringLock - VALUE: 75 - TYPE: number
+[2022-02-05 15:12:39] INFO: PROPERTY: suspensionUpperLimit - VALUE: 0.34999999 - TYPE: number
+[2022-02-05 15:12:39] INFO: PROPERTY: suspensionForceLevel - VALUE: 0.69999999 - TYPE: number
+[2022-02-05 15:12:39] INFO: PROPERTY: turnMass - VALUE: 300000 - TYPE: number
+[2022-02-05 15:12:39] INFO: PROPERTY: brakeBias - VALUE: 0.1 - TYPE: number
+[2022-02-05 15:12:39] INFO: PROPERTY: tractionLoss - VALUE: 0.92000002 - TYPE: number
+[2022-02-05 15:12:39] INFO: PROPERTY: numberOfGears - VALUE: 5 - TYPE: number
+[2022-02-05 15:12:39] INFO: PROPERTY: ABS - VALUE: false - TYPE: boolean
+[2022-02-05 15:12:39] INFO: PROPERTY: centerOfMassX - VALUE: 0 - TYPE: number
+[2022-02-05 15:12:39] INFO: PROPERTY: percentSubmerged - VALUE: 75 - TYPE: number
+[2022-02-05 15:12:39] INFO: PROPERTY: tractionBias - VALUE: 0.44999999 - TYPE: number
+[2022-02-05 15:12:39] INFO: PROPERTY: driveType - VALUE: r - TYPE: string
+[2022-02-05 15:12:39] INFO: PROPERTY: maxVelocity - VALUE: 500 - TYPE: number
+[2022-02-05 15:12:39] INFO: PROPERTY: engineAcceleration - VALUE: 790 - TYPE: number
+[2022-02-05 15:12:39] INFO: PROPERTY: animGroup - VALUE: 1 - TYPE: number
+[2022-02-05 15:12:39] INFO: PROPERTY: suspensionAntiDiveMultiplier - VALUE: 0.30000001 - TYPE: number
+[2022-02-05 15:12:39] INFO: PROPERTY: centerOfMassZ - VALUE: -0.55000001 - TYPE: number
+[2022-02-05 15:12:39] INFO: PROPERTY: monetary - VALUE: 19000 - TYPE: number
+[2022-02-05 15:12:39] INFO: PROPERTY: modelFlags - VALUE: 1073756164 - TYPE: number
+[2022-02-05 15:12:39] INFO: PROPERTY: mass - VALUE: 100000 - TYPE: number
+[2022-02-05 15:12:39] INFO: PROPERTY: brakeDeceleration - VALUE: 10000 - TYPE: number
+[2022-02-05 15:12:39] INFO: PROPERTY: handlingFlags - VALUE: 67667969 - TYPE: number
+[2022-02-05 15:12:39] INFO: PROPERTY: tractionMultiplier - VALUE: 0.72000003 - TYPE: number
+[2022-02-05 15:12:39] INFO: PROPERTY: suspensionFrontRearBias - VALUE: 0.41 - TYPE: number
+[2022-02-05 15:12:39] INFO: PROPERTY: tailLight - VALUE: 1 - TYPE: number
+[2022-02-05 15:14:03] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 15:15:30] INFO: PROPERTY: suspensionLowerLimit - VALUE: -0.1 - TYPE: number
+[2022-02-05 15:15:30] INFO: PROPERTY: engineInertia - VALUE: -100 - TYPE: number
+[2022-02-05 15:15:30] INFO: PROPERTY: suspensionHighSpeedDamping - VALUE: 0 - TYPE: number
+[2022-02-05 15:15:30] INFO: PROPERTY: centerOfMassY - VALUE: -0.15000001 - TYPE: number
+[2022-02-05 15:15:30] INFO: PROPERTY: collisionDamageMultiplier - VALUE: 0 - TYPE: number
+[2022-02-05 15:15:30] INFO: PROPERTY: suspensionDamping - VALUE: 0.2 - TYPE: number
+[2022-02-05 15:15:30] INFO: PROPERTY: seatOffsetDistance - VALUE: 0.25 - TYPE: number
+[2022-02-05 15:15:30] INFO: PROPERTY: headLight - VALUE: 1 - TYPE: number
+[2022-02-05 15:15:30] INFO: PROPERTY: dragCoeff - VALUE: 2.2 - TYPE: number
+[2022-02-05 15:15:30] INFO: PROPERTY: engineType - VALUE: p - TYPE: string
+[2022-02-05 15:15:30] INFO: PROPERTY: steeringLock - VALUE: 75 - TYPE: number
+[2022-02-05 15:15:30] INFO: PROPERTY: suspensionUpperLimit - VALUE: 0.34999999 - TYPE: number
+[2022-02-05 15:15:30] INFO: PROPERTY: suspensionForceLevel - VALUE: 0.69999999 - TYPE: number
+[2022-02-05 15:15:30] INFO: PROPERTY: turnMass - VALUE: 300000 - TYPE: number
+[2022-02-05 15:15:30] INFO: PROPERTY: brakeBias - VALUE: 0.1 - TYPE: number
+[2022-02-05 15:15:30] INFO: PROPERTY: tractionLoss - VALUE: 0.92000002 - TYPE: number
+[2022-02-05 15:15:30] INFO: PROPERTY: numberOfGears - VALUE: 5 - TYPE: number
+[2022-02-05 15:15:30] INFO: PROPERTY: ABS - VALUE: false - TYPE: boolean
+[2022-02-05 15:15:30] INFO: PROPERTY: centerOfMassX - VALUE: 0 - TYPE: number
+[2022-02-05 15:15:30] INFO: PROPERTY: percentSubmerged - VALUE: 75 - TYPE: number
+[2022-02-05 15:15:30] INFO: PROPERTY: tractionBias - VALUE: 0.44999999 - TYPE: number
+[2022-02-05 15:15:30] INFO: PROPERTY: driveType - VALUE: r - TYPE: string
+[2022-02-05 15:15:30] INFO: PROPERTY: maxVelocity - VALUE: 500 - TYPE: number
+[2022-02-05 15:15:30] INFO: PROPERTY: engineAcceleration - VALUE: 790 - TYPE: number
+[2022-02-05 15:15:30] INFO: PROPERTY: animGroup - VALUE: 1 - TYPE: number
+[2022-02-05 15:15:30] INFO: PROPERTY: suspensionAntiDiveMultiplier - VALUE: 0.30000001 - TYPE: number
+[2022-02-05 15:15:30] INFO: PROPERTY: centerOfMassZ - VALUE: -0.55000001 - TYPE: number
+[2022-02-05 15:15:30] INFO: PROPERTY: monetary - VALUE: 19000 - TYPE: number
+[2022-02-05 15:15:30] INFO: PROPERTY: modelFlags - VALUE: 1073756164 - TYPE: number
+[2022-02-05 15:15:30] INFO: PROPERTY: mass - VALUE: 100000 - TYPE: number
+[2022-02-05 15:15:30] INFO: PROPERTY: brakeDeceleration - VALUE: 10000 - TYPE: number
+[2022-02-05 15:15:30] INFO: PROPERTY: handlingFlags - VALUE: 67667969 - TYPE: number
+[2022-02-05 15:15:30] INFO: PROPERTY: tractionMultiplier - VALUE: 0.72000003 - TYPE: number
+[2022-02-05 15:15:30] INFO: PROPERTY: suspensionFrontRearBias - VALUE: 0.41 - TYPE: number
+[2022-02-05 15:15:30] INFO: PROPERTY: tailLight - VALUE: 1 - TYPE: number
+[2022-02-05 15:18:43] INFO: PROPERTY: suspensionLowerLimit - VALUE: -0.1 - TYPE: number
+[2022-02-05 15:18:43] INFO: PROPERTY: engineInertia - VALUE: -100 - TYPE: number
+[2022-02-05 15:18:43] INFO: PROPERTY: suspensionHighSpeedDamping - VALUE: 0 - TYPE: number
+[2022-02-05 15:18:43] INFO: PROPERTY: centerOfMassY - VALUE: -0.15000001 - TYPE: number
+[2022-02-05 15:18:43] INFO: PROPERTY: collisionDamageMultiplier - VALUE: 0 - TYPE: number
+[2022-02-05 15:18:43] INFO: PROPERTY: suspensionDamping - VALUE: 0.2 - TYPE: number
+[2022-02-05 15:18:43] INFO: PROPERTY: seatOffsetDistance - VALUE: 0.25 - TYPE: number
+[2022-02-05 15:18:43] INFO: PROPERTY: headLight - VALUE: 1 - TYPE: number
+[2022-02-05 15:18:43] INFO: PROPERTY: dragCoeff - VALUE: 2.2 - TYPE: number
+[2022-02-05 15:18:43] INFO: PROPERTY: engineType - VALUE: p - TYPE: string
+[2022-02-05 15:18:43] INFO: PROPERTY: steeringLock - VALUE: 75 - TYPE: number
+[2022-02-05 15:18:43] INFO: PROPERTY: suspensionUpperLimit - VALUE: 0.34999999 - TYPE: number
+[2022-02-05 15:18:43] INFO: PROPERTY: suspensionForceLevel - VALUE: 0.69999999 - TYPE: number
+[2022-02-05 15:18:43] INFO: PROPERTY: turnMass - VALUE: 300000 - TYPE: number
+[2022-02-05 15:18:43] INFO: PROPERTY: brakeBias - VALUE: 0.1 - TYPE: number
+[2022-02-05 15:18:43] INFO: PROPERTY: tractionLoss - VALUE: 0.92000002 - TYPE: number
+[2022-02-05 15:18:43] INFO: PROPERTY: numberOfGears - VALUE: 5 - TYPE: number
+[2022-02-05 15:18:43] INFO: PROPERTY: ABS - VALUE: false - TYPE: boolean
+[2022-02-05 15:18:43] INFO: PROPERTY: centerOfMassX - VALUE: 0 - TYPE: number
+[2022-02-05 15:18:43] INFO: PROPERTY: percentSubmerged - VALUE: 75 - TYPE: number
+[2022-02-05 15:18:43] INFO: PROPERTY: tractionBias - VALUE: 0.44999999 - TYPE: number
+[2022-02-05 15:18:43] INFO: PROPERTY: driveType - VALUE: r - TYPE: string
+[2022-02-05 15:18:43] INFO: PROPERTY: maxVelocity - VALUE: 500 - TYPE: number
+[2022-02-05 15:18:43] INFO: PROPERTY: engineAcceleration - VALUE: 790 - TYPE: number
+[2022-02-05 15:18:43] INFO: PROPERTY: animGroup - VALUE: 1 - TYPE: number
+[2022-02-05 15:18:43] INFO: PROPERTY: suspensionAntiDiveMultiplier - VALUE: 0.30000001 - TYPE: number
+[2022-02-05 15:18:43] INFO: PROPERTY: centerOfMassZ - VALUE: -0.55000001 - TYPE: number
+[2022-02-05 15:18:43] INFO: PROPERTY: monetary - VALUE: 19000 - TYPE: number
+[2022-02-05 15:18:43] INFO: PROPERTY: modelFlags - VALUE: 1073756164 - TYPE: number
+[2022-02-05 15:18:43] INFO: PROPERTY: mass - VALUE: 100000 - TYPE: number
+[2022-02-05 15:18:43] INFO: PROPERTY: brakeDeceleration - VALUE: 10000 - TYPE: number
+[2022-02-05 15:18:43] INFO: PROPERTY: handlingFlags - VALUE: 67667969 - TYPE: number
+[2022-02-05 15:18:43] INFO: PROPERTY: tractionMultiplier - VALUE: 0.72000003 - TYPE: number
+[2022-02-05 15:18:43] INFO: PROPERTY: suspensionFrontRearBias - VALUE: 0.41 - TYPE: number
+[2022-02-05 15:18:43] INFO: PROPERTY: tailLight - VALUE: 1 - TYPE: number
+[2022-02-05 15:20:19] INFO: PROPERTY: suspensionLowerLimit - VALUE: -0.1 - TYPE: string
+[2022-02-05 15:20:19] INFO: PROPERTY: engineInertia - VALUE: -1000 - TYPE: string
+[2022-02-05 15:20:19] INFO: PROPERTY: suspensionHighSpeedDamping - VALUE: 0 - TYPE: string
+[2022-02-05 15:20:19] INFO: PROPERTY: centerOfMassY - VALUE: -0.15 - TYPE: string
+[2022-02-05 15:20:19] INFO: PROPERTY: collisionDamageMultiplier - VALUE: 0 - TYPE: string
+[2022-02-05 15:20:19] INFO: PROPERTY: suspensionDamping - VALUE: 0.1 - TYPE: string
+[2022-02-05 15:20:19] INFO: PROPERTY: seatOffsetDistance - VALUE: 0.26 - TYPE: string
+[2022-02-05 15:20:19] INFO: PROPERTY: headLight - VALUE: 1 - TYPE: string
+[2022-02-05 15:20:19] INFO: PROPERTY: maxVelocity - VALUE: 900 - TYPE: string
+[2022-02-05 15:20:19] INFO: PROPERTY: engineType - VALUE: e - TYPE: string
+[2022-02-05 15:20:19] INFO: PROPERTY: steeringLock - VALUE: 79 - TYPE: string
+[2022-02-05 15:20:19] INFO: PROPERTY: suspensionUpperLimit - VALUE: 0.2 - TYPE: string
+[2022-02-05 15:20:19] INFO: PROPERTY: suspensionForceLevel - VALUE: 0.6 - TYPE: string
+[2022-02-05 15:20:19] INFO: PROPERTY: turnMass - VALUE: 300000 - TYPE: string
+[2022-02-05 15:20:19] INFO: PROPERTY: brakeBias - VALUE: 0.1 - TYPE: string
+[2022-02-05 15:20:19] INFO: PROPERTY: centerOfMassZ - VALUE: -0.55 - TYPE: string
+[2022-02-05 15:20:19] INFO: PROPERTY: numberOfGears - VALUE: 1 - TYPE: string
+[2022-02-05 15:20:19] INFO: PROPERTY: ABS - VALUE: false - TYPE: string
+[2022-02-05 15:20:19] INFO: PROPERTY: mass - VALUE: 100000 - TYPE: string
+[2022-02-05 15:20:19] INFO: PROPERTY: percentSubmerged - VALUE: 75 - TYPE: string
+[2022-02-05 15:20:19] INFO: PROPERTY: tractionBias - VALUE: 0.45 - TYPE: string
+[2022-02-05 15:20:19] INFO: PROPERTY: identifier - VALUE: TURISMO - TYPE: string
+[2022-02-05 15:20:19] INFO: PROPERTY: dragCoeff - VALUE: 0 - TYPE: string
+[2022-02-05 15:20:19] INFO: PROPERTY: driveType - VALUE: r - TYPE: string
+[2022-02-05 15:20:19] INFO: PROPERTY: suspensionFrontRearBias - VALUE: 0.3 - TYPE: string
+[2022-02-05 15:20:19] INFO: PROPERTY: animGroup - VALUE: 1 - TYPE: string
+[2022-02-05 15:20:19] INFO: PROPERTY: engineAcceleration - VALUE: 789 - TYPE: string
+[2022-02-05 15:20:19] INFO: PROPERTY: suspensionAntiDiveMultiplier - VALUE: 0.3 - TYPE: string
+[2022-02-05 15:20:19] INFO: PROPERTY: tractionLoss - VALUE: 0.8 - TYPE: string
+[2022-02-05 15:20:19] INFO: PROPERTY: modelFlags - VALUE: 0 - TYPE: string
+[2022-02-05 15:20:19] INFO: PROPERTY: monetary - VALUE: 95000 - TYPE: string
+[2022-02-05 15:20:19] INFO: PROPERTY: brakeDeceleration - VALUE: 10000 - TYPE: string
+[2022-02-05 15:20:19] INFO: PROPERTY: handlingFlags - VALUE: 8800 - TYPE: string
+[2022-02-05 15:20:19] INFO: PROPERTY: tractionMultiplier - VALUE: 0.5 - TYPE: string
+[2022-02-05 15:20:19] INFO: PROPERTY: centerOfMassX - VALUE: 0 - TYPE: string
+[2022-02-05 15:20:19] INFO: PROPERTY: tailLight - VALUE: 1 - TYPE: string
+[2022-02-05 15:24:00] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 15:30:29] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 15:40:46] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 16:02:50] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 16:02:50] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 16:02:50] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 16:02:50] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 16:05:00] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 16:05:31] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 16:06:02] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 16:06:13] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 16:06:51] WARNING: [Servidor]\aimbot\server\main.lua:62: Bad argument @ 'getPlayerAccount' [Expected element at argument 1, got boolean]
+[2022-02-05 16:06:51] WARNING: [Servidor]\aimbot\server\main.lua:63: Bad argument @ 'getAccountName' [Expected account at argument 1, got boolean]
+[2022-02-05 16:08:13] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 16:08:13] ERROR: [Servidor]\Loja\server.lua:217: exports: Call to non-running server resource (Scripts_Dxmessages) [string "?"]
+[2022-02-05 16:08:15] ERROR: [Servidor]\Loja\server.lua:167: exports: Call to non-running server resource (Scripts_Dxmessages) [string "?"]
+[2022-02-05 16:08:28] WARNING: [Servidor]\tsunamis\water_level.lua:132: Bad argument @ 'setWaterLevel' [Expected water at argument 1]
+[2022-02-05 16:08:28] WARNING: [Servidor]\tsunamis\water_level.lua:132: Bad argument @ 'setWaterLevel' [Expected water at argument 1]  [DUP x7]
+[2022-02-05 16:08:28] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 16:08:28] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 16:08:28] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 16:08:28] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 16:08:28] WARNING: [Servidor]\tsunamis\water_level.lua:132: Bad argument @ 'setWaterLevel' [Expected water at argument 1]
+[2022-02-05 16:08:28] WARNING: [Servidor]\tsunamis\water_level.lua:132: Bad argument @ 'setWaterLevel' [Expected water at argument 1]  [DUP x18]
+[2022-02-05 16:08:37] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 16:08:37] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 16:08:43] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 16:09:21] WARNING: [Servidor]\aimbot\server\main.lua:62: Bad argument @ 'getPlayerAccount' [Expected element at argument 1, got boolean]
+[2022-02-05 16:09:21] WARNING: [Servidor]\aimbot\server\main.lua:63: Bad argument @ 'getAccountName' [Expected account at argument 1, got boolean]
+[2022-02-05 16:10:06] INFO: Water Level changed by #123456pacotinho* to a level 2.
+[2022-02-05 16:10:13] INFO: Water Level changed by #123456pacotinho* to a level 30.
+[2022-02-05 16:10:22] ERROR: [Servidor]\Loja\server.lua:127: exports: Call to non-running server resource (Scripts_Dxmessages) [string "?"]
+[2022-02-05 16:10:59] WARNING: [Servidor]\new-headshot\headshot_s.lua:2: Bad argument @ 'getElementType' [Expected element at argument 1, got nil]
+[2022-02-05 16:12:11] INFO: Water Level changed by #123456pacotinho* to a level 30.
+[2022-02-05 16:24:28] INFO: PROPERTY: suspensionLowerLimit - VALUE: -0.27000001 - TYPE: number
+[2022-02-05 16:24:28] INFO: PROPERTY: engineInertia - VALUE: 1 - TYPE: number
+[2022-02-05 16:24:28] INFO: PROPERTY: suspensionHighSpeedDamping - VALUE: 0 - TYPE: number
+[2022-02-05 16:24:28] INFO: PROPERTY: centerOfMassY - VALUE: -0.60000002 - TYPE: number
+[2022-02-05 16:24:28] INFO: PROPERTY: collisionDamageMultiplier - VALUE: 0.51999998 - TYPE: number
+[2022-02-05 16:24:28] INFO: PROPERTY: suspensionDamping - VALUE: 0.5 - TYPE: number
+[2022-02-05 16:24:28] INFO: PROPERTY: seatOffsetDistance - VALUE: 0.30000001 - TYPE: number
+[2022-02-05 16:24:28] INFO: PROPERTY: headLight - VALUE: 1 - TYPE: number
+[2022-02-05 16:24:28] INFO: PROPERTY: dragCoeff - VALUE: 0.0099999998 - TYPE: number
+[2022-02-05 16:24:28] INFO: PROPERTY: engineType - VALUE: P - TYPE: string
+[2022-02-05 16:24:28] INFO: Can't change property engineType to value 'P'
+[2022-02-05 16:24:28] INFO: PROPERTY: steeringLock - VALUE: 15 - TYPE: number
+[2022-02-05 16:24:28] INFO: PROPERTY: suspensionUpperLimit - VALUE: 0.2 - TYPE: number
+[2022-02-05 16:24:28] INFO: PROPERTY: suspensionForceLevel - VALUE: 0.80000001 - TYPE: number
+[2022-02-05 16:24:28] INFO: PROPERTY: turnMass - VALUE: 2500 - TYPE: number
+[2022-02-05 16:24:28] INFO: PROPERTY: brakeBias - VALUE: 0.51999998 - TYPE: number
+[2022-02-05 16:24:28] INFO: PROPERTY: tractionLoss - VALUE: 5.9000001 - TYPE: number
+[2022-02-05 16:24:28] INFO: PROPERTY: numberOfGears - VALUE: 5 - TYPE: number
+[2022-02-05 16:24:28] INFO: PROPERTY: ABS - VALUE: true - TYPE: boolean
+[2022-02-05 16:24:28] INFO: PROPERTY: centerOfMassX - VALUE: 0 - TYPE: number
+[2022-02-05 16:24:28] INFO: PROPERTY: percentSubmerged - VALUE: 70 - TYPE: number
+[2022-02-05 16:24:28] INFO: PROPERTY: tractionBias - VALUE: 0.55000001 - TYPE: number
+[2022-02-05 16:24:28] INFO: PROPERTY: driveType - VALUE: R - TYPE: string
+[2022-02-05 16:24:28] INFO: Can't change property driveType to value 'R'
+[2022-02-05 16:24:28] INFO: PROPERTY: maxVelocity - VALUE: 750 - TYPE: number
+[2022-02-05 16:24:28] INFO: PROPERTY: engineAcceleration - VALUE: 80 - TYPE: number
+[2022-02-05 16:24:28] INFO: PROPERTY: animGroup - VALUE: 0 - TYPE: number
+[2022-02-05 16:24:28] INFO: PROPERTY: suspensionAntiDiveMultiplier - VALUE: 9.9999998e-14 - TYPE: number
+[2022-02-05 16:24:28] INFO: PROPERTY: centerOfMassZ - VALUE: 0.1 - TYPE: number
+[2022-02-05 16:24:28] INFO: PROPERTY: monetary - VALUE: 19000 - TYPE: number
+[2022-02-05 16:24:28] INFO: PROPERTY: modelFlags - VALUE: 544677888 - TYPE: number
+[2022-02-05 16:24:28] INFO: PROPERTY: mass - VALUE: 1599 - TYPE: number
+[2022-02-05 16:24:28] INFO: PROPERTY: brakeDeceleration - VALUE: 15 - TYPE: number
+[2022-02-05 16:24:28] INFO: PROPERTY: handlingFlags - VALUE: 84410375 - TYPE: number
+[2022-02-05 16:24:28] INFO: PROPERTY: tractionMultiplier - VALUE: 1 - TYPE: number
+[2022-02-05 16:24:28] INFO: PROPERTY: suspensionFrontRearBias - VALUE: 0.18000001 - TYPE: number
+[2022-02-05 16:24:28] INFO: PROPERTY: tailLight - VALUE: 1 - TYPE: number
+[2022-02-05 16:25:00] INFO: PROPERTY: suspensionLowerLimit - VALUE: -0.10000000149012 - TYPE: number
+[2022-02-05 16:25:00] INFO: PROPERTY: engineInertia - VALUE: 150 - TYPE: number
+[2022-02-05 16:25:00] INFO: PROPERTY: suspensionHighSpeedDamping - VALUE: 0 - TYPE: number
+[2022-02-05 16:25:00] INFO: PROPERTY: centerOfMassY - VALUE: 0 - TYPE: number
+[2022-02-05 16:25:00] INFO: PROPERTY: collisionDamageMultiplier - VALUE: 0.090000003576279 - TYPE: number
+[2022-02-05 16:25:00] INFO: PROPERTY: suspensionDamping - VALUE: 0.019999999552965 - TYPE: number
+[2022-02-05 16:25:00] INFO: PROPERTY: seatOffsetDistance - VALUE: 0.21999999880791 - TYPE: number
+[2022-02-05 16:25:00] INFO: PROPERTY: headLight - VALUE: 0 - TYPE: number
+[2022-02-05 16:25:00] INFO: PROPERTY: dragCoeff - VALUE: 5 - TYPE: number
+[2022-02-05 16:25:00] INFO: PROPERTY: engineAcceleration - VALUE: 16 - TYPE: number
+[2022-02-05 16:25:00] INFO: PROPERTY: steeringLock - VALUE: 35 - TYPE: number
+[2022-02-05 16:25:00] INFO: PROPERTY: suspensionUpperLimit - VALUE: 0.34999999403954 - TYPE: number
+[2022-02-05 16:25:00] INFO: PROPERTY: suspensionForceLevel - VALUE: 0.40000000596046 - TYPE: number
+[2022-02-05 16:25:00] INFO: PROPERTY: turnMass - VALUE: 250000 - TYPE: number
+[2022-02-05 16:25:00] INFO: PROPERTY: brakeBias - VALUE: 0.5 - TYPE: number
+[2022-02-05 16:25:00] INFO: PROPERTY: centerOfMassZ - VALUE: 0 - TYPE: number
+[2022-02-05 16:25:00] INFO: PROPERTY: numberOfGears - VALUE: 4 - TYPE: number
+[2022-02-05 16:25:00] INFO: PROPERTY: ABS - VALUE: false - TYPE: boolean
+[2022-02-05 16:25:00] INFO: PROPERTY: centerOfMassX - VALUE: 0 - TYPE: number
+[2022-02-05 16:25:00] INFO: PROPERTY: percentSubmerged - VALUE: 90 - TYPE: number
+[2022-02-05 16:25:00] INFO: PROPERTY: tractionBias - VALUE: 0.5 - TYPE: number
+[2022-02-05 16:25:00] INFO: PROPERTY: identifier - VALUE: RHINO - TYPE: string
+[2022-02-05 16:25:00] INFO: PROPERTY: maxVelocity - VALUE: 80 - TYPE: number
+[2022-02-05 16:25:00] INFO: PROPERTY: engineType - VALUE: d - TYPE: string
+[2022-02-05 16:25:00] INFO: PROPERTY: modelFlags - VALUE: 40008008 - TYPE: string
+[2022-02-05 16:25:00] INFO: PROPERTY: animGroup - VALUE: 24 - TYPE: number
+[2022-02-05 16:25:00] INFO: PROPERTY: suspensionFrontRearBias - VALUE: 0.5 - TYPE: number
+[2022-02-05 16:25:00] INFO: PROPERTY: suspensionAntiDiveMultiplier - VALUE: 0 - TYPE: number
+[2022-02-05 16:25:00] INFO: PROPERTY: tractionLoss - VALUE: 0.80000001192093 - TYPE: number
+[2022-02-05 16:25:00] INFO: PROPERTY: driveType - VALUE: 4 - TYPE: string
+[2022-02-05 16:25:00] INFO: PROPERTY: monetary - VALUE: 110000 - TYPE: number
+[2022-02-05 16:25:00] INFO: PROPERTY: brakeDeceleration - VALUE: 5 - TYPE: number
+[2022-02-05 16:25:00] INFO: PROPERTY: handlingFlags - VALUE: 308840 - TYPE: string
+[2022-02-05 16:25:00] INFO: PROPERTY: tractionMultiplier - VALUE: 2.5 - TYPE: number
+[2022-02-05 16:25:00] INFO: PROPERTY: mass - VALUE: 25000 - TYPE: number
+[2022-02-05 16:25:00] INFO: PROPERTY: tailLight - VALUE: 1 - TYPE: number
+[2022-02-05 16:34:07] INFO: Water Level changed by #123456pacotinho* to a level 20.
+[2022-02-05 16:34:15] INFO: Water Level changed by #123456pacotinho* to a level 30.
+[2022-02-05 16:34:21] INFO: Water Level changed by #123456pacotinho* to a level 60.
+[2022-02-05 16:34:26] INFO: Water Level changed by #123456pacotinho* to a level 120.
+[2022-02-05 16:34:32] INFO: Water Level changed by #123456pacotinho* to a level 250.
+[2022-02-05 16:34:56] WARNING: [admin]\admin\server\admin_server.lua:916: Expected number, got non-convertible string. This warning may be an error in future versions.
+[2022-02-05 16:35:02] INFO: Water Level changed by #123456pacotinho* to a level 6000.
+[2022-02-05 16:35:23] INFO: Water Level changed by #123456pacotinho* to a level 9900000.
+[2022-02-05 16:37:17] INFO: Water Level changed by #123456pacotinho* to a level 99000000.
+[2022-02-05 16:41:14] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 22:09:59] INFO: Water Level changed by #123456pacotinho* to a level 0.
+[2022-02-05 22:10:06] INFO: Water Level changed by #123456pacotinho* to a level 1.
+[2022-02-05 22:10:12] INFO: Water Level changed by #123456pacotinho* to a level 0.
+[2022-02-05 22:11:39] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 22:11:55] WARNING: [Servidor]\aimbot\server\main.lua:62: Bad argument @ 'getPlayerAccount' [Expected element at argument 1, got boolean]
+[2022-02-05 22:11:55] WARNING: [Servidor]\aimbot\server\main.lua:63: Bad argument @ 'getAccountName' [Expected account at argument 1, got boolean]
+[2022-02-05 22:15:44] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 22:18:29] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 22:19:09] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 22:24:24] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 22:25:33] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 22:39:18] WARNING: [Servidor]\aimbot\server\main.lua:62: Bad argument @ 'addEventHandler' [Expected element at argument 2, got nil]
+[2022-02-05 22:39:18] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 22:40:25] WARNING: [Servidor]\aimbot\server\main.lua:62: Bad argument @ 'addEventHandler' [Expected element at argument 2, got nil]
+[2022-02-05 22:40:25] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 22:41:48] WARNING: [Servidor]\aimbot\server\main.lua:62: Bad argument @ 'addEventHandler' [Expected element at argument 2, got nil]
+[2022-02-05 22:41:54] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 22:41:55] WARNING: [Servidor]\aimbot\server\main.lua:62: Bad argument @ 'addEventHandler' [Expected element at argument 2, got nil]
+[2022-02-05 22:41:55] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 22:43:21] WARNING: [Servidor]\aimbot\server\main.lua:62: Bad argument @ 'addEventHandler' [Expected element at argument 2, got nil]
+[2022-02-05 22:43:21] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 22:44:26] WARNING: [Servidor]\aimbot\server\main.lua:62: Bad argument @ 'addEventHandler' [Expected element at argument 2, got nil]
+[2022-02-05 22:44:32] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 22:44:50] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 22:47:58] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 22:49:53] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 22:50:32] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 22:52:09] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 22:53:01] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 22:53:08] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 22:53:17] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 22:53:54] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 22:54:12] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 22:55:02] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 22:55:45] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 22:55:47] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 22:56:37] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 22:57:45] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 22:59:32] WARNING: [admin]\admin\server\admin_server.lua:1069: Bad argument @ 'isPedInVehicle' [Expected ped at argument 1, got boolean]
+[2022-02-05 22:59:32] WARNING: [admin]\admin\server\admin_server.lua:1059: Bad argument @ 'getElementPosition' [Expected element at argument 1, got boolean]
+[2022-02-05 22:59:32] WARNING: [admin]\admin\server\admin_server.lua:1060: Bad argument @ 'getPedRotation' [Expected ped at argument 1, got boolean]
+[2022-02-05 22:59:32] ERROR: [admin]\admin\server\admin_server.lua:1061: bad argument #1 to 'rad' (number expected, got boolean)
+[2022-02-05 23:00:25] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 23:01:18] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 23:05:10] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 23:05:10] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 23:05:10] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 23:05:10] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 23:05:52] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 23:06:35] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 23:08:08] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 23:08:26] WARNING: [Servidor]\new-headshot\headshot_s.lua:2: Bad argument @ 'getElementType' [Expected element at argument 1, got nil]
+[2022-02-05 23:08:55] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 23:11:52] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 23:12:22] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 23:12:22] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 23:12:22] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 23:12:22] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 23:13:15] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 23:13:18] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 23:13:24] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 23:25:26] WARNING: [Servidor]\tsunamis\water_level.lua:132: Bad argument @ 'setWaterLevel' [Expected water at argument 1]
+[2022-02-05 23:25:26] WARNING: [Servidor]\tsunamis\water_level.lua:132: Bad argument @ 'setWaterLevel' [Expected water at argument 1]  [DUP x6]
+[2022-02-05 23:25:26] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 23:25:26] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 23:25:26] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 23:25:26] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 23:25:26] WARNING: [Servidor]\tsunamis\water_level.lua:132: Bad argument @ 'setWaterLevel' [Expected water at argument 1]
+[2022-02-05 23:25:26] WARNING: [Servidor]\tsunamis\water_level.lua:132: Bad argument @ 'setWaterLevel' [Expected water at argument 1]  [DUP x19]
+[2022-02-05 23:26:04] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 23:26:04] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 23:27:28] INFO: PROPERTY: suspensionLowerLimit - VALUE: -0.14 - TYPE: number
+[2022-02-05 23:27:28] INFO: PROPERTY: engineInertia - VALUE: 10 - TYPE: number
+[2022-02-05 23:27:28] INFO: PROPERTY: suspensionHighSpeedDamping - VALUE: 0 - TYPE: number
+[2022-02-05 23:27:28] INFO: PROPERTY: centerOfMassY - VALUE: 0.1 - TYPE: number
+[2022-02-05 23:27:28] INFO: PROPERTY: collisionDamageMultiplier - VALUE: 100 - TYPE: number
+[2022-02-05 23:27:28] INFO: PROPERTY: suspensionDamping - VALUE: 0.12 - TYPE: number
+[2022-02-05 23:27:28] INFO: PROPERTY: seatOffsetDistance - VALUE: 0.36000001 - TYPE: number
+[2022-02-05 23:27:28] INFO: PROPERTY: headLight - VALUE: 1 - TYPE: number
+[2022-02-05 23:27:28] INFO: PROPERTY: dragCoeff - VALUE: 4 - TYPE: number
+[2022-02-05 23:27:28] INFO: PROPERTY: engineType - VALUE: p - TYPE: string
+[2022-02-05 23:27:28] INFO: PROPERTY: steeringLock - VALUE: 28 - TYPE: number
+[2022-02-05 23:27:28] INFO: PROPERTY: suspensionUpperLimit - VALUE: 0.34999999 - TYPE: number
+[2022-02-05 23:27:28] INFO: PROPERTY: suspensionForceLevel - VALUE: 1.6 - TYPE: number
+[2022-02-05 23:27:28] INFO: PROPERTY: turnMass - VALUE: 4712.5 - TYPE: number
+[2022-02-05 23:27:28] INFO: PROPERTY: brakeBias - VALUE: 0.5 - TYPE: number
+[2022-02-05 23:27:28] INFO: PROPERTY: tractionLoss - VALUE: 99 - TYPE: number
+[2022-02-05 23:27:28] INFO: PROPERTY: numberOfGears - VALUE: 5 - TYPE: number
+[2022-02-05 23:27:28] INFO: PROPERTY: ABS - VALUE: false - TYPE: boolean
+[2022-02-05 23:27:28] INFO: PROPERTY: centerOfMassX - VALUE: 0 - TYPE: number
+[2022-02-05 23:27:28] INFO: PROPERTY: percentSubmerged - VALUE: 70 - TYPE: number
+[2022-02-05 23:27:28] INFO: PROPERTY: tractionBias - VALUE: 0.89999998 - TYPE: number
+[2022-02-05 23:27:28] INFO: PROPERTY: driveType - VALUE: 4 - TYPE: string
+[2022-02-05 23:27:28] INFO: PROPERTY: maxVelocity - VALUE: 99999 - TYPE: number
+[2022-02-05 23:27:28] INFO: PROPERTY: engineAcceleration - VALUE: 99999 - TYPE: number
+[2022-02-05 23:27:28] INFO: PROPERTY: animGroup - VALUE: 0 - TYPE: number
+[2022-02-05 23:27:28] INFO: PROPERTY: suspensionAntiDiveMultiplier - VALUE: 0.30000001 - TYPE: number
+[2022-02-05 23:27:28] INFO: PROPERTY: centerOfMassZ - VALUE: 0 - TYPE: number
+[2022-02-05 23:27:28] INFO: PROPERTY: monetary - VALUE: 19000 - TYPE: number
+[2022-02-05 23:27:28] INFO: PROPERTY: modelFlags - VALUE: 1073750016 - TYPE: number
+[2022-02-05 23:27:28] INFO: PROPERTY: mass - VALUE: 1950 - TYPE: number
+[2022-02-05 23:27:28] INFO: PROPERTY: brakeDeceleration - VALUE: 10 - TYPE: number
+[2022-02-05 23:27:28] INFO: PROPERTY: handlingFlags - VALUE: 33619968 - TYPE: number
+[2022-02-05 23:27:28] INFO: PROPERTY: tractionMultiplier - VALUE: 9999 - TYPE: number
+[2022-02-05 23:27:28] INFO: PROPERTY: suspensionFrontRearBias - VALUE: 0.5 - TYPE: number
+[2022-02-05 23:27:28] INFO: PROPERTY: tailLight - VALUE: 3 - TYPE: number
+[2022-02-05 23:38:05] INFO: PROPERTY: suspensionLowerLimit - VALUE: -0.14 - TYPE: number
+[2022-02-05 23:38:05] INFO: PROPERTY: engineInertia - VALUE: 10 - TYPE: number
+[2022-02-05 23:38:05] INFO: PROPERTY: suspensionHighSpeedDamping - VALUE: 0 - TYPE: number
+[2022-02-05 23:38:05] INFO: PROPERTY: centerOfMassY - VALUE: 0.1 - TYPE: number
+[2022-02-05 23:38:05] INFO: PROPERTY: collisionDamageMultiplier - VALUE: 100 - TYPE: number
+[2022-02-05 23:38:05] INFO: PROPERTY: suspensionDamping - VALUE: 0.12 - TYPE: number
+[2022-02-05 23:38:05] INFO: PROPERTY: seatOffsetDistance - VALUE: 0.36000001 - TYPE: number
+[2022-02-05 23:38:05] INFO: PROPERTY: headLight - VALUE: 1 - TYPE: number
+[2022-02-05 23:38:05] INFO: PROPERTY: dragCoeff - VALUE: 4 - TYPE: number
+[2022-02-05 23:38:05] INFO: PROPERTY: engineType - VALUE: p - TYPE: string
+[2022-02-05 23:38:05] INFO: PROPERTY: steeringLock - VALUE: 28 - TYPE: number
+[2022-02-05 23:38:05] INFO: PROPERTY: suspensionUpperLimit - VALUE: 0.34999999 - TYPE: number
+[2022-02-05 23:38:05] INFO: PROPERTY: suspensionForceLevel - VALUE: 1.6 - TYPE: number
+[2022-02-05 23:38:05] INFO: PROPERTY: turnMass - VALUE: 4712.5 - TYPE: number
+[2022-02-05 23:38:05] INFO: PROPERTY: brakeBias - VALUE: 0.5 - TYPE: number
+[2022-02-05 23:38:05] INFO: PROPERTY: tractionLoss - VALUE: 99 - TYPE: number
+[2022-02-05 23:38:05] INFO: PROPERTY: numberOfGears - VALUE: 5 - TYPE: number
+[2022-02-05 23:38:05] INFO: PROPERTY: ABS - VALUE: false - TYPE: boolean
+[2022-02-05 23:38:05] INFO: PROPERTY: centerOfMassX - VALUE: 0 - TYPE: number
+[2022-02-05 23:38:05] INFO: PROPERTY: percentSubmerged - VALUE: 70 - TYPE: number
+[2022-02-05 23:38:05] INFO: PROPERTY: tractionBias - VALUE: 0.89999998 - TYPE: number
+[2022-02-05 23:38:05] INFO: PROPERTY: driveType - VALUE: 4 - TYPE: string
+[2022-02-05 23:38:05] INFO: PROPERTY: maxVelocity - VALUE: 99999 - TYPE: number
+[2022-02-05 23:38:05] INFO: PROPERTY: engineAcceleration - VALUE: 99999 - TYPE: number
+[2022-02-05 23:38:05] INFO: PROPERTY: animGroup - VALUE: 0 - TYPE: number
+[2022-02-05 23:38:05] INFO: PROPERTY: suspensionAntiDiveMultiplier - VALUE: 0.30000001 - TYPE: number
+[2022-02-05 23:38:05] INFO: PROPERTY: centerOfMassZ - VALUE: 0 - TYPE: number
+[2022-02-05 23:38:05] INFO: PROPERTY: monetary - VALUE: 19000 - TYPE: number
+[2022-02-05 23:38:05] INFO: PROPERTY: modelFlags - VALUE: 1073750016 - TYPE: number
+[2022-02-05 23:38:05] INFO: PROPERTY: mass - VALUE: 1950 - TYPE: number
+[2022-02-05 23:38:05] INFO: PROPERTY: brakeDeceleration - VALUE: 10 - TYPE: number
+[2022-02-05 23:38:05] INFO: PROPERTY: handlingFlags - VALUE: 33619968 - TYPE: number
+[2022-02-05 23:38:05] INFO: PROPERTY: tractionMultiplier - VALUE: 9999 - TYPE: number
+[2022-02-05 23:38:05] INFO: PROPERTY: suspensionFrontRearBias - VALUE: 0.5 - TYPE: number
+[2022-02-05 23:38:05] INFO: PROPERTY: tailLight - VALUE: 3 - TYPE: number
+[2022-02-05 23:38:21] INFO: PROPERTY: suspensionLowerLimit - VALUE: -0.14 - TYPE: number
+[2022-02-05 23:38:21] INFO: PROPERTY: engineInertia - VALUE: 10 - TYPE: number
+[2022-02-05 23:38:21] INFO: PROPERTY: suspensionHighSpeedDamping - VALUE: 0 - TYPE: number
+[2022-02-05 23:38:21] INFO: PROPERTY: centerOfMassY - VALUE: 0.1 - TYPE: number
+[2022-02-05 23:38:21] INFO: PROPERTY: collisionDamageMultiplier - VALUE: 100 - TYPE: number
+[2022-02-05 23:38:21] INFO: PROPERTY: suspensionDamping - VALUE: 0.12 - TYPE: number
+[2022-02-05 23:38:21] INFO: PROPERTY: seatOffsetDistance - VALUE: 0.36000001 - TYPE: number
+[2022-02-05 23:38:21] INFO: PROPERTY: headLight - VALUE: 1 - TYPE: number
+[2022-02-05 23:38:21] INFO: PROPERTY: dragCoeff - VALUE: 4 - TYPE: number
+[2022-02-05 23:38:21] INFO: PROPERTY: engineType - VALUE: p - TYPE: string
+[2022-02-05 23:38:21] INFO: PROPERTY: steeringLock - VALUE: 28 - TYPE: number
+[2022-02-05 23:38:21] INFO: PROPERTY: suspensionUpperLimit - VALUE: 0.34999999 - TYPE: number
+[2022-02-05 23:38:21] INFO: PROPERTY: suspensionForceLevel - VALUE: 1.6 - TYPE: number
+[2022-02-05 23:38:21] INFO: PROPERTY: turnMass - VALUE: 4712.5 - TYPE: number
+[2022-02-05 23:38:21] INFO: PROPERTY: brakeBias - VALUE: 0.5 - TYPE: number
+[2022-02-05 23:38:21] INFO: PROPERTY: tractionLoss - VALUE: 99 - TYPE: number
+[2022-02-05 23:38:21] INFO: PROPERTY: numberOfGears - VALUE: 5 - TYPE: number
+[2022-02-05 23:38:21] INFO: PROPERTY: ABS - VALUE: false - TYPE: boolean
+[2022-02-05 23:38:21] INFO: PROPERTY: centerOfMassX - VALUE: 0 - TYPE: number
+[2022-02-05 23:38:21] INFO: PROPERTY: percentSubmerged - VALUE: 70 - TYPE: number
+[2022-02-05 23:38:21] INFO: PROPERTY: tractionBias - VALUE: 0.89999998 - TYPE: number
+[2022-02-05 23:38:21] INFO: PROPERTY: driveType - VALUE: 4 - TYPE: string
+[2022-02-05 23:38:21] INFO: PROPERTY: maxVelocity - VALUE: 99999 - TYPE: number
+[2022-02-05 23:38:21] INFO: PROPERTY: engineAcceleration - VALUE: 99999 - TYPE: number
+[2022-02-05 23:38:21] INFO: PROPERTY: animGroup - VALUE: 0 - TYPE: number
+[2022-02-05 23:38:21] INFO: PROPERTY: suspensionAntiDiveMultiplier - VALUE: 0.30000001 - TYPE: number
+[2022-02-05 23:38:21] INFO: PROPERTY: centerOfMassZ - VALUE: 0 - TYPE: number
+[2022-02-05 23:38:21] INFO: PROPERTY: monetary - VALUE: 19000 - TYPE: number
+[2022-02-05 23:38:21] INFO: PROPERTY: modelFlags - VALUE: 1073750016 - TYPE: number
+[2022-02-05 23:38:21] INFO: PROPERTY: mass - VALUE: 1950 - TYPE: number
+[2022-02-05 23:38:21] INFO: PROPERTY: brakeDeceleration - VALUE: 10 - TYPE: number
+[2022-02-05 23:38:21] INFO: PROPERTY: handlingFlags - VALUE: 33619968 - TYPE: number
+[2022-02-05 23:38:21] INFO: PROPERTY: tractionMultiplier - VALUE: 9999 - TYPE: number
+[2022-02-05 23:38:21] INFO: PROPERTY: suspensionFrontRearBias - VALUE: 0.5 - TYPE: number
+[2022-02-05 23:38:21] INFO: PROPERTY: tailLight - VALUE: 3 - TYPE: number
+[2022-02-05 23:38:46] INFO: PROPERTY: suspensionLowerLimit - VALUE: -0.14 - TYPE: number
+[2022-02-05 23:38:46] INFO: PROPERTY: engineInertia - VALUE: 10 - TYPE: number
+[2022-02-05 23:38:46] INFO: PROPERTY: suspensionHighSpeedDamping - VALUE: 0 - TYPE: number
+[2022-02-05 23:38:46] INFO: PROPERTY: centerOfMassY - VALUE: 0.1 - TYPE: number
+[2022-02-05 23:38:46] INFO: PROPERTY: collisionDamageMultiplier - VALUE: 100 - TYPE: number
+[2022-02-05 23:38:46] INFO: PROPERTY: suspensionDamping - VALUE: 0.12 - TYPE: number
+[2022-02-05 23:38:46] INFO: PROPERTY: seatOffsetDistance - VALUE: 0.36000001 - TYPE: number
+[2022-02-05 23:38:46] INFO: PROPERTY: headLight - VALUE: 1 - TYPE: number
+[2022-02-05 23:38:46] INFO: PROPERTY: dragCoeff - VALUE: 4 - TYPE: number
+[2022-02-05 23:38:46] INFO: PROPERTY: engineType - VALUE: p - TYPE: string
+[2022-02-05 23:38:46] INFO: PROPERTY: steeringLock - VALUE: 28 - TYPE: number
+[2022-02-05 23:38:46] INFO: PROPERTY: suspensionUpperLimit - VALUE: 0.34999999 - TYPE: number
+[2022-02-05 23:38:46] INFO: PROPERTY: suspensionForceLevel - VALUE: 1.6 - TYPE: number
+[2022-02-05 23:38:46] INFO: PROPERTY: turnMass - VALUE: 4712.5 - TYPE: number
+[2022-02-05 23:38:46] INFO: PROPERTY: brakeBias - VALUE: 0.5 - TYPE: number
+[2022-02-05 23:38:46] INFO: PROPERTY: tractionLoss - VALUE: 99 - TYPE: number
+[2022-02-05 23:38:46] INFO: PROPERTY: numberOfGears - VALUE: 5 - TYPE: number
+[2022-02-05 23:38:46] INFO: PROPERTY: ABS - VALUE: false - TYPE: boolean
+[2022-02-05 23:38:46] INFO: PROPERTY: centerOfMassX - VALUE: 0 - TYPE: number
+[2022-02-05 23:38:46] INFO: PROPERTY: percentSubmerged - VALUE: 70 - TYPE: number
+[2022-02-05 23:38:46] INFO: PROPERTY: tractionBias - VALUE: 0.89999998 - TYPE: number
+[2022-02-05 23:38:46] INFO: PROPERTY: driveType - VALUE: 4 - TYPE: string
+[2022-02-05 23:38:46] INFO: PROPERTY: maxVelocity - VALUE: 99999 - TYPE: number
+[2022-02-05 23:38:46] INFO: PROPERTY: engineAcceleration - VALUE: 99999 - TYPE: number
+[2022-02-05 23:38:46] INFO: PROPERTY: animGroup - VALUE: 0 - TYPE: number
+[2022-02-05 23:38:46] INFO: PROPERTY: suspensionAntiDiveMultiplier - VALUE: 0.30000001 - TYPE: number
+[2022-02-05 23:38:46] INFO: PROPERTY: centerOfMassZ - VALUE: 0 - TYPE: number
+[2022-02-05 23:38:46] INFO: PROPERTY: monetary - VALUE: 19000 - TYPE: number
+[2022-02-05 23:38:46] INFO: PROPERTY: modelFlags - VALUE: 1073750016 - TYPE: number
+[2022-02-05 23:38:46] INFO: PROPERTY: mass - VALUE: 1950 - TYPE: number
+[2022-02-05 23:38:46] INFO: PROPERTY: brakeDeceleration - VALUE: 10 - TYPE: number
+[2022-02-05 23:38:46] INFO: PROPERTY: handlingFlags - VALUE: 33619968 - TYPE: number
+[2022-02-05 23:38:46] INFO: PROPERTY: tractionMultiplier - VALUE: 9999 - TYPE: number
+[2022-02-05 23:38:46] INFO: PROPERTY: suspensionFrontRearBias - VALUE: 0.5 - TYPE: number
+[2022-02-05 23:38:46] INFO: PROPERTY: tailLight - VALUE: 3 - TYPE: number
+[2022-02-05 23:41:50] WARNING: [Servidor]\tsunamis\water_level.lua:132: Bad argument @ 'setWaterLevel' [Expected water at argument 1]
+[2022-02-05 23:41:50] WARNING: [Servidor]\tsunamis\water_level.lua:132: Bad argument @ 'setWaterLevel' [Expected water at argument 1]  [DUP x6]
+[2022-02-05 23:41:50] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 23:41:50] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-05 23:41:50] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 23:41:50] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-05 23:41:50] WARNING: [Servidor]\tsunamis\water_level.lua:132: Bad argument @ 'setWaterLevel' [Expected water at argument 1]
+[2022-02-05 23:41:50] WARNING: [Servidor]\tsunamis\water_level.lua:132: Bad argument @ 'setWaterLevel' [Expected water at argument 1]  [DUP x19]
+[2022-02-05 23:45:02] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-05 23:45:02] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-05 23:46:28] INFO: PROPERTY: suspensionLowerLimit - VALUE: -0.14 - TYPE: number
+[2022-02-05 23:46:28] INFO: PROPERTY: engineInertia - VALUE: 10 - TYPE: number
+[2022-02-05 23:46:28] INFO: PROPERTY: suspensionHighSpeedDamping - VALUE: 0 - TYPE: number
+[2022-02-05 23:46:28] INFO: PROPERTY: centerOfMassY - VALUE: 0.1 - TYPE: number
+[2022-02-05 23:46:28] INFO: PROPERTY: collisionDamageMultiplier - VALUE: 100 - TYPE: number
+[2022-02-05 23:46:28] INFO: PROPERTY: suspensionDamping - VALUE: 0.12 - TYPE: number
+[2022-02-05 23:46:28] INFO: PROPERTY: seatOffsetDistance - VALUE: 0.36000001 - TYPE: number
+[2022-02-05 23:46:28] INFO: PROPERTY: headLight - VALUE: 1 - TYPE: number
+[2022-02-05 23:46:28] INFO: PROPERTY: dragCoeff - VALUE: 4 - TYPE: number
+[2022-02-05 23:46:28] INFO: PROPERTY: engineType - VALUE: p - TYPE: string
+[2022-02-05 23:46:28] INFO: PROPERTY: steeringLock - VALUE: 28 - TYPE: number
+[2022-02-05 23:46:28] INFO: PROPERTY: suspensionUpperLimit - VALUE: 0.34999999 - TYPE: number
+[2022-02-05 23:46:28] INFO: PROPERTY: suspensionForceLevel - VALUE: 1.6 - TYPE: number
+[2022-02-05 23:46:28] INFO: PROPERTY: turnMass - VALUE: 4712.5 - TYPE: number
+[2022-02-05 23:46:28] INFO: PROPERTY: brakeBias - VALUE: 0.5 - TYPE: number
+[2022-02-05 23:46:28] INFO: PROPERTY: tractionLoss - VALUE: 99 - TYPE: number
+[2022-02-05 23:46:28] INFO: PROPERTY: numberOfGears - VALUE: 5 - TYPE: number
+[2022-02-05 23:46:28] INFO: PROPERTY: ABS - VALUE: false - TYPE: boolean
+[2022-02-05 23:46:28] INFO: PROPERTY: centerOfMassX - VALUE: 0 - TYPE: number
+[2022-02-05 23:46:28] INFO: PROPERTY: percentSubmerged - VALUE: 70 - TYPE: number
+[2022-02-05 23:46:28] INFO: PROPERTY: tractionBias - VALUE: 0.89999998 - TYPE: number
+[2022-02-05 23:46:28] INFO: PROPERTY: driveType - VALUE: 4 - TYPE: string
+[2022-02-05 23:46:28] INFO: PROPERTY: maxVelocity - VALUE: 99999 - TYPE: number
+[2022-02-05 23:46:28] INFO: PROPERTY: engineAcceleration - VALUE: 99999 - TYPE: number
+[2022-02-05 23:46:28] INFO: PROPERTY: animGroup - VALUE: 0 - TYPE: number
+[2022-02-05 23:46:28] INFO: PROPERTY: suspensionAntiDiveMultiplier - VALUE: 0.30000001 - TYPE: number
+[2022-02-05 23:46:28] INFO: PROPERTY: centerOfMassZ - VALUE: 0 - TYPE: number
+[2022-02-05 23:46:28] INFO: PROPERTY: monetary - VALUE: 19000 - TYPE: number
+[2022-02-05 23:46:28] INFO: PROPERTY: modelFlags - VALUE: 1073750016 - TYPE: number
+[2022-02-05 23:46:28] INFO: PROPERTY: mass - VALUE: 1950 - TYPE: number
+[2022-02-05 23:46:28] INFO: PROPERTY: brakeDeceleration - VALUE: 10 - TYPE: number
+[2022-02-05 23:46:28] INFO: PROPERTY: handlingFlags - VALUE: 33619968 - TYPE: number
+[2022-02-05 23:46:28] INFO: PROPERTY: tractionMultiplier - VALUE: 9999 - TYPE: number
+[2022-02-05 23:46:28] INFO: PROPERTY: suspensionFrontRearBias - VALUE: 0.5 - TYPE: number
+[2022-02-05 23:46:28] INFO: PROPERTY: tailLight - VALUE: 3 - TYPE: number
+[2022-02-06 00:09:17] WARNING: [Servidor]\tsunamis\water_level.lua:132: Bad argument @ 'setWaterLevel' [Expected water at argument 1]
+[2022-02-06 00:09:17] WARNING: [Servidor]\tsunamis\water_level.lua:132: Bad argument @ 'setWaterLevel' [Expected water at argument 1]  [DUP x6]
+[2022-02-06 00:09:17] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-06 00:09:17] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-06 00:09:17] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-06 00:09:17] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-06 00:09:17] WARNING: [Servidor]\tsunamis\water_level.lua:132: Bad argument @ 'setWaterLevel' [Expected water at argument 1]
+[2022-02-06 00:09:17] WARNING: [Servidor]\tsunamis\water_level.lua:132: Bad argument @ 'setWaterLevel' [Expected water at argument 1]  [DUP x19]
+[2022-02-06 00:09:51] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-06 00:09:51] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-06 00:10:49] WARNING: [Servidor]\tsunamis\water_level.lua:132: Bad argument @ 'setWaterLevel' [Expected water at argument 1]
+[2022-02-06 00:10:49] WARNING: [Servidor]\tsunamis\water_level.lua:132: Bad argument @ 'setWaterLevel' [Expected water at argument 1]  [DUP x6]
+[2022-02-06 00:10:49] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-06 00:10:49] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-06 00:10:49] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-06 00:10:49] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-06 00:10:49] WARNING: [Servidor]\tsunamis\water_level.lua:132: Bad argument @ 'setWaterLevel' [Expected water at argument 1]
+[2022-02-06 00:10:49] WARNING: [Servidor]\tsunamis\water_level.lua:132: Bad argument @ 'setWaterLevel' [Expected water at argument 1]  [DUP x19]
+[2022-02-06 00:11:24] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-06 00:11:25] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-06 00:23:33] WARNING: [Servidor]\tsunamis\water_level.lua:132: Bad argument @ 'setWaterLevel' [Expected water at argument 1]
+[2022-02-06 00:23:33] WARNING: [Servidor]\tsunamis\water_level.lua:132: Bad argument @ 'setWaterLevel' [Expected water at argument 1]  [DUP x6]
+[2022-02-06 00:23:33] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-06 00:23:33] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-06 00:23:33] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-06 00:23:33] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-06 00:23:33] WARNING: [Servidor]\tsunamis\water_level.lua:132: Bad argument @ 'setWaterLevel' [Expected water at argument 1]
+[2022-02-06 00:23:33] WARNING: [Servidor]\tsunamis\water_level.lua:132: Bad argument @ 'setWaterLevel' [Expected water at argument 1]  [DUP x19]
+[2022-02-06 00:24:36] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-06 00:24:36] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2022-02-06 00:25:34] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-06 00:25:45] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-06 00:26:06] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-06 00:26:27] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-06 00:26:32] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-06 00:26:38] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-06 00:26:41] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-06 00:26:47] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-06 00:26:47] WARNING: [Servidor]\tsunamis\water_level.lua:132: Bad argument @ 'setWaterLevel' [Expected water at argument 1]
+[2022-02-06 00:26:52] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-06 00:26:58] WARNING: [Servidor]\tsunamis\water_level.lua:132: Bad argument @ 'setWaterLevel' [Expected water at argument 1]
+[2022-02-06 00:26:58] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-06 00:27:00] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-06 00:27:01] WARNING: [Servidor]\tsunamis\water_level.lua:132: Bad argument @ 'setWaterLevel' [Expected water at argument 1]
+[2022-02-06 00:27:07] WARNING: [Servidor]\tsunamis\water_level.lua:132: Bad argument @ 'setWaterLevel' [Expected water at argument 1]
+[2022-02-06 00:27:13] ERROR: edf\interface.lua:3: call: Failed, the resource mapmanager isn't running
+[2022-02-06 00:27:18] WARNING: [Servidor]\tsunamis\water_level.lua:132: Bad argument @ 'setWaterLevel' [Expected water at argument 1]
+[2022-02-06 00:27:24] WARNING: [Servidor]\tsunamis\water_level.lua:132: Bad argument @ 'setWaterLevel' [Expected water at argument 1]  [DUP x3]
+[2022-02-06 00:27:26] WARNING: [Servidor]\tsunamis\water_level.lua:132: Bad argument @ 'setWaterLevel' [Expected water at argument 1]
+[2022-02-06 00:27:26] WARNING: [Servidor]\tsunamis\water_level.lua:132: Bad argument @ 'setWaterLevel' [Expected water at argument 1]  [DUP x65]
+[2022-02-06 00:27:26] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-06 00:27:26] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2022-02-06 00:27:26] WARNING: interiors\interiorexp.lua:24: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-06 00:27:26] WARNING: interiors\interiorexp.lua:25: Bad argument @ 'destroyElement' [Expected element at argument 1]  [DUP x218]
+[2022-02-06 00:27:26] WARNING: [Servidor]\tsunamis\water_level.lua:132: Bad argument @ 'setWaterLevel' [Expected water at argument 1]
+[2022-02-06 00:27:26] WARNING: [Servidor]\tsunamis\water_level.lua:132: Bad argument @ 'setWaterLevel' [Expected water at argument 1]  [DUP x19]
+[2022-02-06 00:34:40] WARNING: [Servidor]\pvpbattle\server\main.lua:180: Bad argument @ 'outputDebugString' [Expected number at argument 4, got player]
+[2022-02-06 00:41:43] ERROR: [Servidor]\pvpbattle\server\main.lua:194: attempt to concatenate global 'playerName' (a nil value)
+[2022-02-06 00:58:09] ERROR: [Servidor]\posicaoPlayer\posicao-s.lua:4: attempt to call global 'setClipboard' (a nil value)
+[2022-02-06 00:59:15] ERROR: [Servidor]\posicaoPlayer\posicao-s.lua:5: attempt to call global 'setClipboard' (a nil value)
+[2022-02-06 01:00:42] ERROR: [Servidor]\posicaoPlayer\posicao-s.lua:5: attempt to call global 'setClipboard' (a nil value)
+[2022-02-06 01:01:48] ERROR: [Servidor]\posicaoPlayer\posicao-s.lua:5: attempt to call global 'setClipboard' (a nil value)
+[2022-02-06 01:02:17] ERROR: [Servidor]\posicaoPlayer\posicao-s.lua:4: attempt to call global 'setClipboard' (a nil value)
+[2022-02-06 01:03:07] ERROR: [Servidor]\posicaoPlayer\posicao-s.lua:4: attempt to call global 'setClipboard' (a nil value)
+[2022-02-06 01:42:44] INFO: PROPERTY: suspensionLowerLimit - VALUE: -0.3 - TYPE: string
+[2022-02-06 01:42:44] INFO: PROPERTY: engineInertia - VALUE: -1000 - TYPE: string
+[2022-02-06 01:42:44] INFO: PROPERTY: suspensionHighSpeedDamping - VALUE: 0 - TYPE: string
+[2022-02-06 01:42:44] INFO: PROPERTY: centerOfMassY - VALUE: -0.15 - TYPE: string
+[2022-02-06 01:42:44] INFO: PROPERTY: collisionDamageMultiplier - VALUE: 0.1 - TYPE: string
+[2022-02-06 01:42:44] INFO: PROPERTY: suspensionDamping - VALUE: 0.25 - TYPE: string
+[2022-02-06 01:42:44] INFO: PROPERTY: seatOffsetDistance - VALUE: 1 - TYPE: string
+[2022-02-06 01:42:44] INFO: PROPERTY: headLight - VALUE: 1 - TYPE: string
+[2022-02-06 01:42:44] INFO: PROPERTY: maxVelocity - VALUE: 4500 - TYPE: string
+[2022-02-06 01:42:44] INFO: PROPERTY: engineType - VALUE: e - TYPE: string
+[2022-02-06 01:42:44] INFO: PROPERTY: steeringLock - VALUE: 75 - TYPE: string
+[2022-02-06 01:42:44] INFO: PROPERTY: suspensionUpperLimit - VALUE: 0.5 - TYPE: string
+[2022-02-06 01:42:44] INFO: PROPERTY: suspensionForceLevel - VALUE: 0.6 - TYPE: string
+[2022-02-06 01:42:44] INFO: PROPERTY: turnMass - VALUE: 300000 - TYPE: string
+[2022-02-06 01:42:44] INFO: PROPERTY: brakeBias - VALUE: 0.1 - TYPE: string
+[2022-02-06 01:42:44] INFO: PROPERTY: centerOfMassZ - VALUE: -0.55 - TYPE: string
+[2022-02-06 01:42:44] INFO: PROPERTY: numberOfGears - VALUE: 5 - TYPE: string
+[2022-02-06 01:42:44] INFO: PROPERTY: ABS - VALUE: false - TYPE: string
+[2022-02-06 01:42:44] INFO: PROPERTY: mass - VALUE: 100000 - TYPE: string
+[2022-02-06 01:42:44] INFO: PROPERTY: percentSubmerged - VALUE: 70 - TYPE: string
+[2022-02-06 01:42:44] INFO: PROPERTY: tractionBias - VALUE: 0.45 - TYPE: string
+[2022-02-06 01:42:44] INFO: PROPERTY: identifier - VALUE: ALPHA - TYPE: string
+[2022-02-06 01:42:44] INFO: PROPERTY: dragCoeff - VALUE: 0 - TYPE: string
+[2022-02-06 01:42:44] INFO: PROPERTY: driveType - VALUE: r - TYPE: string
+[2022-02-06 01:42:44] INFO: PROPERTY: suspensionFrontRearBias - VALUE: 0.45 - TYPE: string
+[2022-02-06 01:42:44] INFO: PROPERTY: animGroup - VALUE: 0 - TYPE: string
+[2022-02-06 01:42:44] INFO: PROPERTY: engineAcceleration - VALUE: 150 - TYPE: string
+[2022-02-06 01:42:44] INFO: PROPERTY: suspensionAntiDiveMultiplier - VALUE: 0.24 - TYPE: string
+[2022-02-06 01:42:44] INFO: PROPERTY: tractionLoss - VALUE: 1.3 - TYPE: string
+[2022-02-06 01:42:44] INFO: PROPERTY: modelFlags - VALUE: 80000000 - TYPE: string
+[2022-02-06 01:42:44] INFO: PROPERTY: monetary - VALUE: 35000 - TYPE: string
+[2022-02-06 01:42:44] INFO: PROPERTY: brakeDeceleration - VALUE: 100000 - TYPE: string
+[2022-02-06 01:42:44] INFO: PROPERTY: handlingFlags - VALUE: 1000003 - TYPE: string
+[2022-02-06 01:42:44] INFO: PROPERTY: tractionMultiplier - VALUE: 0.4 - TYPE: string
+[2022-02-06 01:42:44] INFO: PROPERTY: centerOfMassX - VALUE: 0 - TYPE: string
+[2022-02-06 01:42:44] INFO: PROPERTY: tailLight - VALUE: 1 - TYPE: string

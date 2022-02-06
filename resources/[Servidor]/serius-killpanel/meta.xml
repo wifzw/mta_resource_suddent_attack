@@ -1,0 +1,13 @@
+<meta>
+	<min_mta_version client="1.5.6-9.18728" server="1.5.6-9.18728" />
+	<script src="shared.lua" cache="false" type="shared"/>
+    <!-- SERVER/SUNUCU -->
+    <script src="server.luac" type="server"/>
+    <!-- USEFUL -->
+	<script src="lib.luac" cache="false" type="client"/>
+    <!-- GENEL -->
+    <script src="client.luac" cache="false" type="client"/>
+    <!-- DOSYALAR -->
+    <file src="lib/beyaz.png"/>
+	<file src="lib/font.ttf"/>
+</meta>

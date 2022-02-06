@@ -1,0 +1,7 @@
+<meta>
+    <info name="WallHack Script" author="Dre-+-&iSantista" type="script" />
+    <script src="WallHack_C.lua" type="client" />
+    <script src="WallHack_S.lua" />
+	<export function="addWindowInfo" type="client"/>
+	<export function="removeWindowInfo" type="client"/>
+</meta>

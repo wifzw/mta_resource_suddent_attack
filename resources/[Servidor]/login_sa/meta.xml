@@ -1,0 +1,42 @@
+﻿<meta>
+
+<!-- Author -->
+<info author = "Wifz" name = "Loginpanel" version="2.0" type="script"/>
+
+<!-- Server -->
+<script src= "server/main-s.lua"  type="server" />
+
+
+<!-- Client -->
+<script src= "client/main-c.lua"  type="client" cache="false"/>
+
+
+<!-- Map -->
+<map src="map/login-m.map" dimension="20"></map>
+
+
+<!-- Images -->
+<file src = "images/logo.png" type="client" cache="false"/>
+<file src = "images/line.png" type="client" cache="false"/>
+<file src = "images/loading.png" type="client" cache="false"/>
+<file src = "images/mask.png" />
+<file src = "images/mask2.png" />
+
+
+<!-- Fonts -->
+<file src = "fonts/fonte1.otf" type="client" cache="false"/>
+<file src = "fonts/fonte2.ttf" type="client" cache="false"/>
+<file src = "fonts/fonte3.ttf" type="client" cache="false"/>
+<file src = "fonts/fonte4.ttf" type="client" cache="false"/>
+
+
+<!-- SHADERS -->
+<file src = "shaders/texture3d.fx" type="client" cache="false"/>
+<file src = "shaders/tex_matrix.fx" type="client" cache="false"/>
+
+
+<!-- SFX -->
+<file src = "sfx/music.mp3" type="client" cache="false"/>
+
+
+</meta>

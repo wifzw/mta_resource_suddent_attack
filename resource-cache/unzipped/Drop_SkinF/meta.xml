@@ -1,0 +1,5 @@
+<meta>
+	<file src="F.txd" />
+	<file src="F.dff" />
+	<script type="client" src="script.lua" />
+</meta>

@@ -1,0 +1,7 @@
+<meta>
+    <info author="Wifz Cybershell" name="Remover Comandos" version="0.1" type="script" description="Remover Comandos" />
+
+    <!-- Type Server (Tudo gerenciado a conta será o servidor)-->
+     <script src="server/main.lua" type="server" />
+    <!-- -->
+</meta>

@@ -1,0 +1,14 @@
+<meta>
+	<info author="Dr4x" version="1.1.5" name="water_level" decription="Traduzido Por:ExReggaeTM" type="script" />
+	<script src="water_gui.lua" type="client" />
+	<script src="water_level.lua" type="server" />
+
+	<settings>
+		<setting name="*show_messages" value="true" />
+		<setting name="*speed" value="0.01" />
+		<setting name="*allow_negative" value="true" />
+		<setting name="*restrict_to" value="Admin" />
+		<setting name="*flood_weather" value="8" />
+		<setting name="*flood_end_weather" value="14" />
+     </settings>
+</meta>

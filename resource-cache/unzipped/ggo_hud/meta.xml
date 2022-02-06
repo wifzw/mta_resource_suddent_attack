@@ -1,0 +1,81 @@
+<meta>
+	<info author="heihei'" name="GGO HUD" description="" type="script" version="1.0.0" />
+
+	<script src="SCRIPT/SERVER.luac" type="server"/>	
+	<script src="SCRIPT/CLIENT.luac" type="client"/>
+	<script src="SCRIPT/CLIENT2.luac" type="client"/>
+	<script src="SCRIPT/CLIENT3.luac" type="client"/>
+	<script src="SCRIPT/CLIENT4.luac" type="client"/>
+	<script src="SCRIPT/CLIENT5.luac" type="client"/>
+	<script src="SCRIPT/CLIENT6.luac" type="client"/>
+	<script src="SCRIPT/CLIENT7.luac" type="client"/>
+
+	<file src="Images/UI.png"/>
+    <file src="Images/UI2.png"/>
+	<file src="Images/siteM16.png"/>
+    <file src="Images/CROSSHAIR.png"/>
+    <file src="Images/DEATH.png"/>
+
+    <file src="Sounds/DEATH.mp3"/>
+    <file src="Sounds/HECATE.mp3"/>
+    <file src="Sounds/SABER.mp3"/>
+	
+	<file src="Files/texreplace.fx"/>
+	<file src="Files/GGO.ifp"/>
+	<file src="Files/HECATE.ifp"/>
+	<file src="Files/HECATE.txd"/>
+	<file src="Files/HECATE.dff"/>
+	<file src="Files/SABER.ifp"/>
+	<file src="Files/SABER.txd"/>
+	<file src="Files/SABER.dff"/>
+	
+	<file src="Files/KIRITO.txd"/>
+	<file src="Files/KIRITO.dff"/>
+	<file src="Files/SINON.txd"/>
+	<file src="Files/SINON.dff"/>
+
+    <file src="Icons/0.png"/>
+    <file src="Icons/1.png"/>
+    <file src="Icons/2.png"/>
+    <file src="Icons/3.png"/>
+    <file src="Icons/4.png"/>
+    <file src="Icons/5.png"/>
+    <file src="Icons/6.png"/>
+    <file src="Icons/7.png"/>
+    <file src="Icons/8.png"/>
+    <file src="Icons/9.png"/>
+    <file src="Icons/10.png"/>
+    <file src="Icons/11.png"/>
+    <file src="Icons/12.png"/>
+    <file src="Icons/14.png"/>
+    <file src="Icons/15.png"/>
+    <file src="Icons/16.png"/>
+    <file src="Icons/17.png"/>
+    <file src="Icons/18.png"/>
+    <file src="Icons/22.png"/>
+    <file src="Icons/23.png"/>
+    <file src="Icons/24.png"/>
+    <file src="Icons/25.png"/>
+    <file src="Icons/26.png"/>
+    <file src="Icons/27.png"/>
+    <file src="Icons/28.png"/>
+    <file src="Icons/29.png"/>
+    <file src="Icons/30.png"/>
+    <file src="Icons/31.png"/>
+    <file src="Icons/32.png"/>
+    <file src="Icons/33.png"/>
+    <file src="Icons/34.png"/>
+    <file src="Icons/35.png"/>
+    <file src="Icons/36.png"/>
+    <file src="Icons/37.png"/>
+    <file src="Icons/38.png"/>
+    <file src="Icons/39.png"/>
+    <file src="Icons/40.png"/>
+    <file src="Icons/41.png"/>
+    <file src="Icons/42.png"/>
+    <file src="Icons/43.png"/>
+    <file src="Icons/44.png"/>
+    <file src="Icons/45.png"/>
+    <file src="Icons/46.png"/>
+
+</meta>

@@ -1,0 +1,11 @@
+<meta>
+
+    <info author="Wifz" description="Pegar posicão player"></info>
+
+    <!-- Server -->
+
+    <script src="posicao-s.lua" type="server" />
+
+    <!-- Client -->
+    <script src="posicao-c.lua" type="client" />
+</meta>

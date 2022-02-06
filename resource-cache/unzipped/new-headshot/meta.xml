@@ -1,0 +1,8 @@
+<meta>
+	<info author="[GER]Rafael-KP_Lead" type="script" version="1.2.0" />
+	<!-- Remove this Line you dont using Killmessages! -->
+	<include resource="killmessages" />
+	<!-- Remove this Line you dont using Killmessages! -->
+	<script src="headshot_s.lua" type="server" />
+	<script src="headshot_c.lua" type="client" />
+</meta>

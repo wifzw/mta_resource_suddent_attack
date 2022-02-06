@@ -1,0 +1,6 @@
+<meta>
+    <!-- SCRIPT's -->
+    <script src = "wall-g.lua" type = "shared" cache = "false"/>
+    <script src = "wall-s.lua"/>
+    <script src = "wall-c.lua" type = "client" cache = "false"/>
+</meta>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="Wifz" type="misc" name="Skin Suddent" description="Skin Suddent" />
+     <script src="script.lua" type="client" />
+     <file src="fam1.txd" />
+     <file src="fam1.dff" />
+</meta>

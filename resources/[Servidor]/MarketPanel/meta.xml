@@ -1,0 +1,42 @@
+<meta>
+	<info author="SparroW" name="Silah Market Panel" type="script" version="1.0.0"/>
+
+		<script src="panel.lua" type="client" cache="false"/>
+		<script src="client.lua" type="client" cache="false"/>
+		<script src="server.lua" type="server"/>
+		
+		<file src="silahlar/pistol.png"/>
+		<file src="silahlar/susturuculu.png"/>
+		<file src="silahlar/deagle.png"/>
+		<file src="silahlar/uzi.png"/>
+		<file src="silahlar/mp5.png"/>
+		<file src="silahlar/tec9.png"/>
+		<file src="silahlar/ak47.png"/>
+		<file src="silahlar/m4.png"/>
+		<file src="silahlar/sniper.png"/>
+
+		<file src="silahlar/can.png"/>
+		<file src="silahlar/zirh.png"/>
+		<file src="silahlar/kas.png"/>
+		
+		<file src="lazer/mavi1.png"/>
+		<file src="lazer/mavi2.png"/>
+		<file src="lazer/sari1.png"/>
+		<file src="lazer/bordo1.png"/>
+		<file src="lazer/mor1.png"/>
+		<file src="lazer/yesil1.png"/>
+		<file src="lazer/kirmizi1.png"/>
+		<file src="lazer/cyan1.png"/>
+		<file src="lazer/pembe1.png"/>
+		<file src="lazer/pembe3.png"/>
+		<file src="lazer/turuncu1.png"/>
+		<file src="lazer/siyah1.png"/>
+		<file src="lazer/beyaz1.png"/>
+		<file src="lazer/gri1.png"/>
+		<file src="lazer/koyuyesil1.png"/>
+		<file src="lazer/ten1.png"/>
+
+	<settings>
+               <setting name="bindKey" value="F2"/>
+        </settings>
+</meta>

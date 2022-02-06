@@ -1,0 +1,7 @@
+<meta>
+
+	<info author="DANFOR" version="1.0.0" name="Save Skin" type="script" />
+	
+	<script src="saveSkin.lua" type="server" />
+	
+</meta>

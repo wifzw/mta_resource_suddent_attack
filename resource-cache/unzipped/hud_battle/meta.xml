@@ -1,0 +1,10 @@
+<meta>
+    <info author="Shama(PremierProject)" name="HUD System" version="0.1.0" type="misc"/>
+    <script src="sv_hud.lua" type="server"/>
+	<script src="cl_hud.lua" type="client"/>
+	
+	<file src="files/background.png" />
+	<file src="files/hp.png" />
+	<file src="files/hpbackground.png" />
+	<file src="files/font.ttf" />
+</meta>

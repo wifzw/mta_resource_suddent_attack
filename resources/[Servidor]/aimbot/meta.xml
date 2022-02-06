@@ -1,0 +1,17 @@
+<meta>
+    <info author="Wifz" version="0.1" description="Aimbot MTA"/>
+
+    <!-- Server -->
+        <script src="server/main.lua" type="server"/>
+    <!-- -->
+
+
+    <!-- Client -->
+        <script src="client/main.lua" type="client"/>
+    <!-- -->
+
+    <!-- SFX -->
+        <file src="sfx/sound0.mp3" />
+        <file src="sfx/sound1.mp3" />
+    <!-- -->
+</meta>

@@ -1,0 +1,18 @@
+<meta>
+
+    <info author="Wifz Cybershell" name="Script Battle PVP" version="0.0.1 Beta" type="script"/>
+
+    <!-- **** [Server] **** -->
+
+    <script src="server/main.lua" type="server"/>
+
+    <!-- **** ![Server] **** -->
+
+
+    <!-- **** [Client] **** -->
+
+    <script src="client/main.lua" type="client"/>
+
+    <!-- **** ![Client] **** -->
+
+</meta>

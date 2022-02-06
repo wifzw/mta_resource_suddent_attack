@@ -1,0 +1,31 @@
+<meta>
+
+     <info version="5.0" author="Drop MODS MTA:SA"/>
+	 <script type="client" cache="false" src="Arquivos/dxGridlists.lua"/>
+	 
+    <script type="client" cache="false" src="cMTA.lua"/>
+	<script type="server" cache="false" src="sMTA.lua"/>
+	 
+	<file src="Arquivos/fonte.ttf" cache="false" />
+	<file src="Arquivos/botao.png" cache="false" />
+	
+	
+	
+	<export function="setWeaponStickerC" type="client" />
+    <export function="setStickerOnWeapon" type="server" />
+    <export function="removeWeaponStickers" type="server" />
+    <export function="setObjectPaintjob" type="server" />
+    <export function="removeStickerFromObject" type="server" />
+    <file src="texturechanger.fx" />
+	
+	
+	<file src="Arquivos/ak1.png" cache="false" />
+	<file src="Arquivos/ak2.png" cache="false" />
+    <file src="Arquivos/ak3.png" cache="false" />
+    <file src="Arquivos/m41.png" cache="false" />
+	<file src="Arquivos/m42.png" cache="false" />
+	<file src="Arquivos/m43.png" cache="false" />
+	 
+	
+	 
+</meta>

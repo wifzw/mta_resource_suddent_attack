@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="Drop Mods MTA:SA" type="misc" name="mp5" description="www.dropmta.com.br" />
+     <script src="script.lua" type="client" />
+     <file src="m4.txd" />
+     <file src="m4.dff" />
+</meta>

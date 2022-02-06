@@ -1,0 +1,8 @@
+<meta>
+    <info author="~#Loord" description ="Painel de Login" version="1.0" type="script" cache="false" />
+	<script src="client_login.lua" type="client" cache="false" />
+	<script src="server_login.lua" type="server" cache="false" />
+	<file src="gfx_login/wallpaper.png" />
+	<file src="gfx_login/chalet.ttf" />
+	<file src="sfx_login/music.mp3" cache="false" />
+</meta>

@@ -1,0 +1,11 @@
+<meta>
+    <script src="setting.lua" type="client" cache="false"/>
+    <script src="client/client.lua" type="client" cache="false"/>
+    <script src="server/server.lua" type="server" cache="false"/>
+    <script src="client/util.lua" type="client" cache="false"/>
+</meta>
+
+<!-- 
+SparroW MTA : https://sparrow-mta.blogspot.com
+Facebook : https://www.facebook.com/sparrowgta
+-->

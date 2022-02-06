@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="ale" type="misc" name="skin aleatória" description="www.dropmta.com.br" />
+     <script src="script.lua" type="client" />
+     <file src="ale.txd" />
+     <file src="ale.dff" />
+</meta>

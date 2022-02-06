@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="Sombra" type="misc" name="Sombra do FiveM" description="www.dropmta.com.br" />
+     <script src="script.lua" type="client" />
+     <file src="Sombra.txd" />
+     <file src="Sombra.dff" />
+</meta>

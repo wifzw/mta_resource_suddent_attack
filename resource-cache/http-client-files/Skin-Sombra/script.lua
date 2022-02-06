@@ -1,0 +1,6 @@
+addEventHandler('onClientResourceStart',resourceRoot,function () 
+txd = engineLoadTXD( 'Sombra.txd' ) 
+engineImportTXD( txd, 14 ) 
+dff = engineLoadDFF('Sombra.dff', 14) 
+engineReplaceModel( dff, 14 )
+end)

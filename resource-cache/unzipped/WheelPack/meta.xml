@@ -1,0 +1,41 @@
+<meta>
+	<info name="wheels_script" author="#C4N3L4" version="1.3" type="script"/>
+	<script src="C4N3L4.lua" type="client" />
+	<script src="locations.lua" type="client" />
+	<script src="server.lua" type="client" />
+
+	<file src="wheels/wheel_gn1.txd" />
+	<file src="wheels/wheel_gn1.dff" />
+	<file src="wheels/wheel_gn2.txd" />
+	<file src="wheels/wheel_gn2.dff" />
+	<file src="wheels/wheel_gn3.txd" />
+	<file src="wheels/wheel_gn3.dff" />	
+	<file src="wheels/wheel_gn4.txd" />
+	<file src="wheels/wheel_gn4.dff" />
+	<file src="wheels/wheel_gn5.txd" />
+	<file src="wheels/wheel_gn5.dff" />
+	<file src="wheels/wheel_lr1.txd" />
+	<file src="wheels/wheel_lr1.dff" />
+	<file src="wheels/wheel_lr2.txd" />
+	<file src="wheels/wheel_lr2.dff" />
+	<file src="wheels/wheel_lr3.txd" />
+	<file src="wheels/wheel_lr3.dff" />
+	<file src="wheels/wheel_lr4.txd" />
+	<file src="wheels/wheel_lr4.dff" />
+	<file src="wheels/wheel_lr5.txd" />
+	<file src="wheels/wheel_lr5.dff" />
+        <file src="wheels/wheel_or1.txd" />
+	<file src="wheels/wheel_or1.dff" />
+	<file src="wheels/wheel_sr1.txd" />
+	<file src="wheels/wheel_sr1.dff" />
+	<file src="wheels/wheel_sr2.txd" />
+	<file src="wheels/wheel_sr2.dff" />
+	<file src="wheels/wheel_sr3.txd" />
+	<file src="wheels/wheel_sr3.dff" />
+	<file src="wheels/wheel_sr4.txd" />
+	<file src="wheels/wheel_sr4.dff" />
+	<file src="wheels/wheel_sr5.txd" />
+	<file src="wheels/wheel_sr5.dff" />
+	<file src="wheels/wheel_sr6.txd" />
+	<file src="wheels/wheel_sr6.dff" />
+</meta>

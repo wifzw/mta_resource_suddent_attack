@@ -1,0 +1,10 @@
+<meta>
+    <info name="Detective Vision" author="Dre-+-" version="1.3.0" type="script" />
+
+    <script src="vision_c.lua" type="client" />
+    <script src="vision_s.lua" />
+
+	<export function="addWindowInfo" type="client"/>
+	<export function="removeWindowInfo" type="client"/>
+
+</meta>

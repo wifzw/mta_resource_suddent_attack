@@ -1,0 +1,9 @@
+<meta>
+    <info author="Wifz Cybershell" version="0.0.1" description="Painel Login Suddent Attack"/>
+
+    <!-- Server -->
+    <script src="server/login-s.lua" type="server"/>
+
+    <!-- Client -->
+    <script src="client/login-c.lua" type="client"/>
+</meta>

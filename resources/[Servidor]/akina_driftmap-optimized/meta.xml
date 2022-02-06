@@ -1,0 +1,17 @@
+<meta>
+    <info author="Dutchman101" description="Driftmap akina" version="1.5" type="map" />
+	<map src="AKINA.map" dimension="0"></map>
+	<script src="load.lua" type="client" />
+    <file src="akina.txd" />
+    <file src="akina1.col" />
+    <file src="akina1.dff" />
+    <file src="akina2.col" />
+    <file src="akina2.dff" />
+    <file src="akina3.col" />
+    <file src="akina3.dff" />
+    <file src="akina4.col" />
+    <file src="akina4.dff" />
+    <file src="akina5.col" />
+    <file src="akina5.dff" />
+	<script src="tp.lua" type="server" />
+</meta>

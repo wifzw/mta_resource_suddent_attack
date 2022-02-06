@@ -1,0 +1,6 @@
+<meta>
+	<info type="misc" name="Driftscores system (F5 ranking, Top 50)" author="Dutchman101" version="1.1" />
+	<oop>true</oop>
+	<script src="drift_s.lua" type="server"/>
+	<script src="drift_c.lua" type="client" />
+</meta>

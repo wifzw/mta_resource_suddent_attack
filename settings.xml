@@ -1,0 +1,12 @@
+<settings>
+    <setting name="admin.ip2cUpdateTime" value="[1644113146]"></setting>
+    <setting name="*cbug.hitanim" value='[&quot;true&quot;]'></setting>
+    <setting name="*cbug.highcloserangedamage" value='[&quot;true&quot;]'></setting>
+    <setting name="*cbug.ExtraShotEffects" value='[&quot;true&quot;]'></setting>
+    <setting name="*deathpickups.only_current" value="[false]"></setting>
+    <setting name="*freeroam.spawnmaponstart" value='[&quot;false&quot;]'></setting>
+    <setting name="*editor_main.mapResourceOrganizationalDirectory" value='[&quot;none&quot;]'></setting>
+    <setting name="*play.vehicleRespawnTime" value="[1e+41]"></setting>
+    <setting name="*play.vehicleExpireTime" value="[0]"></setting>
+    <setting name="*play.playerRespawnTime" value="[0]"></setting>
+</settings>

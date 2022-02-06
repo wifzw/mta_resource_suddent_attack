@@ -1,0 +1,18 @@
+<meta>
+    <info author="Wifz" />
+
+    <!-- Server -->
+    <script src="playmusic-s.lua" type="server"/>
+
+    <!-- Client -->
+    <script src="playmusic-c.lua" type="client" />
+
+    <!-- SFX -->
+    <file src="sfx/alaska.mp3" />
+    <file src="sfx/doka.mp3" />
+    <file src="sfx/music.mp3" />
+    <file src="sfx/music2.mp3" />
+    <file src="sfx/musica.mp3" />
+    <file src="sfx/poc.mp3" />
+    <!-- -->
+</meta>

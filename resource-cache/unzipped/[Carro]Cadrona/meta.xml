@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="Wifz Cybershell" type="misc" name="[Carro]Cadrona" description="[Carro]Cadrona" />
+     <script src="script.lua" type="client" />
+     <file src="CADRONA.txd" />
+     <file src="CADRONA.dff" />
+</meta>

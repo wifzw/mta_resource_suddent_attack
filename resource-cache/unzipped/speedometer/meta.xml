@@ -1,0 +1,22 @@
+<meta>
+
+    <script src = 'cJoao.lua' type = 'client' cache = 'false' />
+
+    <file src = 'files/base.png' />
+    <file src = 'files/motor.png' />
+    <file src = 'files/fuel.png' />
+    <file src = 'files/light.png' />
+    <file src = 'files/cinto.png' />
+    <file src = 'files/blindagem.png' />
+    <file src = 'files/lock.png' />
+    <file src = 'files/font.ttf' />
+
+
+	<script src = 'circle/hou_circle.lua' type = 'client' />
+	<file src = 'circle/hud_mask.fx' type = 'client' />
+	<file src = 'circle/tex_matrix.fx' type = 'client' />
+	<file src = 'circle/hou_circle.fx' type = 'client' />
+    
+    <export function = 'loadMod' type = 'client' />
+
+</meta>

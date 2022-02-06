@@ -1,0 +1,7 @@
+<meta>
+
+	<info author="Blue Pie" version="1.0" name="Autorestart" description="This script allows you to restart resources automatically." type="script" />
+
+	<script src="scripts.lua" type="server"/>
+
+</meta>

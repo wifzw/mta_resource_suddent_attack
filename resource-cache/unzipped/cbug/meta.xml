@@ -1,0 +1,78 @@
+<meta>
+	<info author="TAPL" type="script" version="1.3"/>
+	<script src="server.lua" type="server"/>
+	<script src="client.lua" type="client"/>
+
+
+	<settings>
+		<!-- *****************************************************
+			 All these settings are adjustable in the Admin Panel:
+				1. start admin
+				2. press 'p'
+				3. select Resources tab
+				4. double click on 'CBug'
+			 ***************************************************** -->
+
+
+		<setting name="*quickreload" value="true"
+					friendlyname="Quick Reload"
+					accept="false,true"
+					group="Glitches"
+					desc="Enable quickreload. This will auto-reloads weapons when switching weapons."
+					/>
+
+		<setting name="*fastmove" value="true"
+					friendlyname="Fast Move"
+					accept="false,true"
+					group="Glitches"
+					desc="Enable fastmove. This allows you to move quickly with slow weapons like (deagle) whilst standing up after crouching."
+					/>
+		<setting name="*fastfire" value="true"
+					friendlyname="Fast Fire"
+					accept="false,true"
+					group="Glitches"
+					desc="Enable fastfire. This cancelling the full fire animation whilst allowing you to shoot with slow-fire weapons like (deagle) much faster."
+					/>
+
+		<setting name="*crouchbug" value="true"
+					friendlyname="Crouch Bug"
+					accept="false,true"
+					group="Glitches"
+					desc="Enable crouchbug. This Enable crouch bug, needed to work with the others Glitches."
+					/>
+		<setting name="*highcloserangedamage" value="false"
+					friendlyname="High Close Range Damage"
+					accept="false,true"
+					group="Glitches"
+					desc="To disable it use false. Disabling this removes the extremely high close range damage guns inflict when fired at very close range."
+					/>
+					
+		<setting name="*fastsprint" value="true"
+					friendlyname="Fast Sprint"
+					accept="false,true"
+					group="Glitches"
+					desc="To disable it use false. Disabling this removes the ability to sprint faster by repeat key 'space'."
+					/>
+					
+		<setting name="*hitanim" value="false"
+					friendlyname="Hit Anim"
+					accept="false,true"
+					group="Glitches"
+					desc="To disable it use false. Disabling this removes the impact of being hit with weapons such as deagle, does not include sniper."
+					/>
+
+		<setting name="*ExtraFastFire" value="true"
+					friendlyname="Extra Fast Fire"
+					accept="false,true"
+					group="Additions"
+					desc="This will allowing you to shoot faster with (Sniper and Shotgun). And also will auto reload deagle."
+					/>
+
+		<setting name="*ExtraShotEffects" value="false"
+					friendlyname="Shot Effects"
+					accept="false,true"
+					group="Additions"
+					desc="This will adds new effect when shooting with deagle."
+					/>
+	</settings>
+</meta>

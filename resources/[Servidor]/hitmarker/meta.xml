@@ -1,0 +1,10 @@
+<meta>
+	<info name="mtasan-scriptlerim" type="script" author="gokdenizaltuntas" version="0.5.0" />
+
+	
+	<script src="hit_c.lua" type="client" />
+	
+	<file src="hitmarker.png" />
+	<file src="hitmarker-sound.wav" />
+
+</meta>

@@ -1,0 +1,25 @@
+<meta>
+	<script src="akagipass.luac" type="client"/>
+    <script src="setpos.lua" type="server"/>
+	<file src="commercial.txd"/>
+	<file src="commercial1.col"/>
+	<file src="commercial1.dff"/>
+	<file src="commercial2.col"/>
+	<file src="commercial2.dff"/>
+	<file src="commercial3.col"/>
+	<file src="commercial3.dff"/>
+	<file src="commercial4.col"/>
+	<file src="commercial4.dff"/>
+	<file src="commercial5.col"/>
+	<file src="commercial5.dff"/>
+	<file src="commercial6.col"/>
+	<file src="commercial6.dff"/>
+	<file src="commercial7.col"/>
+	<file src="commercial7.dff"/>
+    <file src="commercial8.col"/>
+	<file src="commercial8.dff"/>  
+    <file src="commercial9.col"/>
+	<file src="commercial9.dff"/>	
+	<file src="commercial10.col"/>
+	<file src="commercial10.dff"/>
+</meta>

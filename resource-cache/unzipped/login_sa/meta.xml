@@ -1,0 +1,35 @@
+﻿<meta>
+<!-- file lara  cache="false" yaparsan gene bişey fark etmiyor, illaki inecektir.-->
+<info author = "SparroW" name = "Loginpanel" version="1" type="script"/>
+
+<!-- GENEL -->
+<script src= "client.lua"  type="client" cache="false"/>
+<script src= "server.lua"  type="server" />
+
+<map src="dosyalar/map/logi.map" dimension="20"></map>
+
+<!-- DOSYLAR -->
+
+<file src = "dosyalar/resimler/logo.png" type="client" cache="false"/>
+<file src = "dosyalar/resimler/cizgi.png" type="client" cache="false"/>
+<file src = "dosyalar/resimler/yukleniyor.png" type="client" cache="false"/>
+<file src = "dosyalar/resimler/mask.png" />
+<file src = "dosyalar/resimler/mask2.png" />
+
+<!-- FONTLAR -->
+<!-- neden bu kadar font var?  -->
+<file src = "dosyalar/fontlar/yazi_tipi1.otf" type="client" cache="false"/>
+<file src = "dosyalar/fontlar/fonte2.ttf" type="client" cache="false"/>
+<file src = "dosyalar/fontlar/yazi_tipi3.ttf" type="client" cache="false"/>
+<file src = "dosyalar/fontlar/yazi_tipi4.ttf" type="client" cache="false"/>
+
+<!-- SHADER -->
+
+<file src = "dosyalar/shaderler/texture3d.fx" type="client" cache="false"/>
+<file src = "dosyalar/shaderler/tex_matrix.fx" type="client" cache="false"/>
+
+<!-- SESLER -- removed by shep
+<file src = "dosyalar/sesler/tik.mp3" type="client" cache="false"/>
+<file src = "dosyalar/sesler/ses.mp3" type="client" cache="false"/>
+-->
+</meta>

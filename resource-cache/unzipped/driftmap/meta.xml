@@ -1,0 +1,10 @@
+<meta>
+    <info author="[+18Twin]Drift" description="Kamikazev1" version="1.5.2" type="map" />
+
+    <map src="kamikazev1.map" dimension="0"></map>
+    <script src="Tele.lua" type="server" />
+    <script src="Drift.lua" type="client" />
+    <file src="Drift.txd" />
+    <file src="Drift.dff" />
+    <file src="Drift.col" />
+</meta>
