@@ -16,8 +16,28 @@ function login(username, password, account_save)
             local account = getAccount(username, password)
             if (account ~= false) then
                 logIn(source, account, password)
-                triggerClientEvent(source, "LoginPanel:Hide", getRootElement())
-                exports._infobox:addNotification(source, "Você se logou com sucesso, bom jogo.", "success")
+
+                local accountData = getAccountData (account, "funmodev2-money")
+
+
+                if(accountData) then
+                    local playerMoney = getAccountData (account, "funmodev2-money")
+                    local playerX = getAccountData (account, "funmodev2-x")
+                    local playerY = getAccountData (account, "funmodev2-y")
+                    local playerZ = getAccountData (account, "funmodev2-z")
+                    local playerInt = getAccountData (account, "funmodev2-int")
+                    local playerDim = getAccountData (account, "funmodev2-dim")
+                    local playerSkin = getAccountData (account, "funmodev2-skin")
+
+                    triggerClientEvent(source, "LoginPanel:Hide", getRootElement(), false, playerX, playerY, playerZ, playerInt, playerDim, playerSkin, accountData)
+                    spawnPlayer (source, playerX, playerY, playerZ +1, 0, playerSkin, playerInt, playerDim)
+                    setPlayerMoney (source, playerMoney)
+                    else
+                    triggerClientEvent(source, "LoginPanel:Hide", getRootElement(), true)
+                end
+
+
+                exports._infobox:addNotification(source, "Logado com sucesso. Bom Jogo!!", "success")
                 if account_save == true then
                     triggerClientEvent(source, "saveLoginToXML", getRootElement(), username, password)
                 else

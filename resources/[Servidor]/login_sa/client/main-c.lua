@@ -524,7 +524,7 @@ function click_event(button, state)
             return
         end
 
-        --* kayıt ol button *--
+        --botão de registro *--
         if isInSlot(px, py + 155, g, u) and panel_status == "section_register" then
             user2 = guiGetText(create_gui[1])
             pas2 = guiGetText(create_gui[2])
@@ -534,7 +534,7 @@ function click_event(button, state)
             soundbutton()
             return
         end
-        --* oyna *--
+        --* Toque *--
         if isInSlot(px - 380 / 2, py + 70, 310, u) and panel_status == "character_creation" then
             setFarClipDistance(750)
             stopSound(music)
@@ -578,27 +578,50 @@ end
 addEventHandler("onClientClick", root, click_event)
 
 addEvent("LoginPanel:Hide", true)
-addEventHandler("LoginPanel:Hide", root, function()
+addEventHandler("LoginPanel:Hide", root, function(isGuest, playerX, playerY, playerZ, playerInt, playerDim, playerSkin)
 
-    panel_status = "character_creation"
-    create_gui_element("delete")
-    anim_startK = getTickCount();
+    if isGuest then
+        panel_status = "character_creation"
+        create_gui_element("delete")
+        anim_startK = getTickCount();
 
-    removeEventHandler("onClientRender", root, updateCamPosition)
-    setCameraTarget(localPlayer)
+        removeEventHandler("onClientRender", root, updateCamPosition)
+        setCameraTarget(localPlayer)
 
-    setCameraMatrix(1413.9775390625, -1475.0341796875, 70.367042541504, 1322.3408203125, -1437.2001953125, 57.279769897461)
+        setCameraMatrix(1413.9775390625, -1475.0341796875, 70.367042541504, 1322.3408203125, -1437.2001953125, 57.279769897461)
 
-    ped = createPed(0, 1410.81995, -1472.68347, 69.97146, 210) --  64 id Você ligou para o ped?
+        ped = createPed(0, 1410.81995, -1472.68347, 69.97146, 210) --  64 id Você ligou para o ped?
 
-    setPedAnimation(ped, "PLAYIDLES", esccjanims[math.random(#esccjanims)], -1, true, false, false, false)
-    setElementFrozen(ped, true)
-    setElementDimension(ped, 20)
-    setElementDimension(localPlayer, 20)
-    --			setElementRotation(ped,0,0,155) -- o que você precisa disso ?? createPed(x,y,z,rot) Você entendeu.
+        setPedAnimation(ped, "PLAYIDLES", esccjanims[math.random(#esccjanims)], -1, true, false, false, false)
+        setElementFrozen(ped, true)
+        setElementDimension(ped, 20)
+        setElementDimension(localPlayer, 20)
+        --			setElementRotation(ped,0,0,155) -- o que você precisa disso ?? createPed(x,y,z,rot) Você entendeu.
 
-    bindKey("arrow_l", "up", new_characters_advanced)
-    bindKey("arrow_r", "up", new_character_reversed)
+        bindKey("arrow_l", "up", new_characters_advanced)
+        bindKey("arrow_r", "up", new_character_reversed)
+    else
+        removeEventHandler("onClientRender", root, updateCamPosition)
+        setFarClipDistance(750)
+        stopSound(music)
+        soundbutton()
+        upload_status = true
+        anim_start_s = getTickCount();
+
+        showCursor(false)
+
+        unbindKey("arrow_l", "up", new_characters_advanced)
+        unbindKey("arrow_r", "up", new_character_reversed)
+        panel_status = "nil"
+
+        upload_status = false
+
+        --	setElementAlpha(localPlayer,255)
+
+        showPlayerHudComponent("crosshair", true)
+        showChat(true)
+        setElementData(localPlayer, "disable_functions", false)
+    end
 end)
 
 addEvent("olay", true)
@@ -727,7 +750,7 @@ function isInSlot(xS, yS, wS, hS)
     end
 end
 
--- hesap kaydetme --
+-- salvar conta --
 
 function loadLoginFromXML()
     local xml_save_log_File = xmlLoadFile("userdata.xml")
